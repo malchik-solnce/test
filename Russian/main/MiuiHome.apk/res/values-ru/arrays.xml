@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
+<resources>
+     <array name="app_locating_animation_scaler">
+        <item>1.0</item>
+        <item>1.4</item>
+        <item>0.9</item>
+        <item>1.1</item>
+        <item>1.0</item>
+     </array>
+     <string-array name="editing_mode_entries">
+        <item>Clean up Home screen</item>
+        <item>Add widgets</item>
+        <item>Change wallpaper</item>
+        <item>Screen transitions</item>
+     </string-array>
+     <string-array name="editing_mode_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+     </string-array>
+     <string-array name="gadget_weather_theme_type_entries">
+        <item>Стандартный</item>
+        <item>Классический</item>
+     </string-array>
+     <string-array name="transformation_entries">
+        <item>По умолчанию</item>
+        <item>По умолчанию (без проскакивания)</item>
+        <item>Угасание</item>
+        <item>Поворот</item>
+        <item>Страница</item>
+        <item>Каскад</item>
+        <item>Вращение</item>
+        <item>3D Куб</item>
+     </string-array>
+     <string-array name="wallpaper_scroll_entries">
+        <item>Включена</item>
+        <item>Выключена, обои по центру</item>
+        <item>Выключена, обои слева</item>
+        <item>Выключена, обои справа</item>
+     </string-array>
+</resources>
