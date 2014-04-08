@@ -43,12 +43,11 @@
      <string name="accessibility_global_gesture_preference_summary_on">Вкл.</string>
      <string name="accessibility_global_gesture_preference_title">Быстрое включение</string>
      <string name="accessibility_long_press_timeout_preference_title">Задержка при нажатии и удержании</string>
-     <string name="accessibility_long_press_timeout_title">Touch &amp; hold delay</string>
      <string name="accessibility_menu_item_settings">Настройки</string>
      <string name="accessibility_no_services_installed">Службы не установлены</string>
      <string name="accessibility_power_button_ends_call_prerefence_title">Кнопка питания завершает вызов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_power_button_ends_call_title">Power button ends call</string>
+     <string name="accessibility_screen_magnification_enable">Magnification gestures</string>
      <string name="accessibility_screen_magnification_summary">"Эта функция позволяет увеличивать и уменьшать изображение, трижды нажав на экран..
 
 При увеличенном масштабе можно:
@@ -59,39 +58,17 @@
 
 Примечание. Тройным нажатием увеличиваются все области, кроме клавиатуры и панели навигации."</string>
      <string name="accessibility_screen_magnification_title">Жесты для увеличения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_script_injection_allowed">Allowed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_script_injection_button_allow">Allow</string>
-     <string name="accessibility_script_injection_button_disallow">"Don't allow"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_script_injection_disallowed">Not allowed</string>
-     <string name="accessibility_script_injection_security_warning_summary">Do you want apps to install scripts from Google that make their web content more accessible?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_script_injection_title">Enhance web accessibility</string>
      <string name="accessibility_service_default_description">Нет описания</string>
-     <string name="accessibility_service_disable_warning_summary">Touching OK will stop %1$s.</string>
-     <string name="accessibility_service_disable_warning_title">Stop %1$s?</string>
      <string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
      <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
-     <string name="accessibility_service_security_warning_summary">%1$s can collect all of the text you type, except passwords. This includes personal data such as credit card numbers. It can also collect data about your interactions with the phone.</string>
-     <string name="accessibility_service_security_warning_title">Use %1$s?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_service_state_off">Off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_service_state_on">On</string>
      <string name="accessibility_services_title">Службы</string>
      <string name="accessibility_settings">Спец. возможности</string>
      <string name="accessibility_settings_title">Настройки специальных возможностей</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_speak_password_title">Speak passwords</string>
      <string name="accessibility_sync_disabled">Синхронизация отключена</string>
      <string name="accessibility_sync_enabled">Синхронизация включена</string>
      <string name="accessibility_sync_error">Ошибка синхронизации</string>
      <string name="accessibility_system_title">Система</string>
      <string name="accessibility_toggle_large_text_preference_title">Большой текст</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_toggle_large_text_title">Large text</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_summary">Сохранять масштаб при переходе между приложениями</string>
      <string name="accessibility_toggle_screen_magnification_auto_update_preference_title">Сохранять масштаб</string>
      <string name="accessibility_toggle_screen_magnification_preference_title">Масштаб</string>
@@ -129,6 +106,7 @@
      <string name="activity_picker_label">Выбор действия</string>
      <string name="activity_title_create_shortcut">Ярлыки</string>
      <string name="activity_title_settings">Настройки</string>
+     <string name="adb_keys_warning_message">"Revoke access to USB debugging from all computers you've previously authorized?"</string>
      <string name="adb_warning_message">Отладка по USB – это режим, который позволяет использовать Ваше устройство как внешний накопитель: перемещать файлы (с компьютера и на компьютер), напрямую устанавливать приложения, а также просматривать системные журналы.</string>
      <string name="adb_warning_title">Разрешить отладку USB?</string>
      <string name="add_account_label">Добавить аккаунт</string>
@@ -140,6 +118,7 @@
      <string name="additional_system_update" />
      <string name="additional_system_update_menu" />
      <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
+     <string name="adjust_3d_depth_title">"Adjust games' 3D depth"</string>
      <string name="advanced_settings">Расширенные настройки</string>
      <string name="advanced_settings_summary">Включить дополнительные настройки</string>
      <string name="airplane_mode">Режим полета</string>
@@ -213,8 +192,19 @@
      <string name="app_name">Безопасность</string>
      <string name="app_name_label">Приложение</string>
      <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_not_supported_in_limited">This app is not supported in restricted profiles</string>
      <string name="app_notifications_switch_label">Показывать уведомления</string>
+     <string name="app_ops_never_used">(Never used)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_ops_running">Running</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_ops_settings">App ops</string>
      <string name="app_process_limit_title">Лимит фоновых процессов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_restrictions_custom_label">Set app restrictions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_sees_restricted_accounts">This app can access your accounts</string>
      <string name="app_special_disable_dlg_text">Если отключить встроенное приложение, другие приложения могут работать неправильно. Кроме того, будут удалены все данные.</string>
      <string name="app_special_disable_dlg_title">Отключить и удалить данные?</string>
      <string name="app_uninstall_residual">Удалить остаточные файлы?</string>
@@ -223,6 +213,8 @@
      <string name="application_item_already_permission">Разрешено</string>
      <string name="application_item_disable">Запретить</string>
      <string name="application_item_permission">Разрешить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="application_restrictions">Allow apps and content</string>
      <string name="application_size_label">Приложение</string>
      <string name="applications_settings">Менеджер приложений</string>
      <string name="applications_settings_header">Настройки приложения</string>
@@ -233,6 +225,10 @@
      <string name="applications_sort_type_item_time">Frequently used</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="applications_sort_type_title">Sort</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apps_with_restrictions_header">Applications with restrictions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apps_with_restrictions_settings_button">Expand settings for application</string>
      <string name="ask_compatibility">Спрашивать при запуске</string>
      <string name="assisted_gps">Использовать A-GPS</string>
      <string name="assisted_gps_disabled">Использовать сервер для A-GPS (снимите флажок для улучшения работы GPS)</string>
@@ -453,8 +449,6 @@
      <string name="bluetooth_menu_advanced">Расширенные</string>
      <string name="bluetooth_name_not_set">Без настройки имени, использовать имя аккаунта</string>
      <string name="bluetooth_no_devices_found">Устройства Bluetooth не найдены</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_not_discoverable">Make device discoverable</string>
      <string name="bluetooth_not_visible_to_other_devices">Не отображать для других Bluetooth устройств</string>
      <string name="bluetooth_notif_message">Нажмите для подключения к устройству \"%1$s\"</string>
      <string name="bluetooth_notif_ticker">Запрос сопряжения Bluetooth</string>
@@ -520,11 +514,7 @@
      <string name="bluetooth_turning_on">Включение Bluetooth…</string>
      <string name="bluetooth_unknown" />
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_visibility">Discoverable</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_visibility_timeout_summary">Set how long device will be discoverable</string>
      <string name="breathing_light_color_menu_title">Светлый цвет</string>
      <string name="breathing_light_color_summary">Цвет светодиода для новых уведомлений</string>
      <string name="breathing_light_color_title">цвет светодиода</string>
@@ -535,6 +525,14 @@
      <string name="brightness_auto_adjust_on">Эффект автояркости можно регулировать путем перемещения ползунка. Эффект яркости экрана будет меняться в зависимости от света в помещении или на улице.</string>
      <string name="brightness_summary">Настроить яркость экрана</string>
      <string name="bssid_label">"BSSID: "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bt_hci_snoop_log">Enable Bluetooth HCI snoop log</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bt_hci_snoop_log_summary">Capture all Bluetooth HCI packets in a file</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bt_trace_log">Enable Bluetooth Trace log</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bt_trace_log_summary">Enable Bluetooth trace log</string>
      <string name="bugreport_in_power">Отчеты об ошибках</string>
      <string name="bugreport_in_power_summary">Показывать в меню опцию отправки отчета об ошибке</string>
      <string name="bugreport_tool_log_toast">Лог сохранен в %s</string>
@@ -542,6 +540,8 @@
      <string name="build_number">Сборка</string>
      <string name="builtin_keyboard_settings_summary">Настройки физической клавиатуры</string>
      <string name="builtin_keyboard_settings_title">Физическая клавиатура</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_disconnect_network">Disconnect from network</string>
      <string name="button_light_timeout">Время подсветки</string>
      <string name="button_start_optimize">Проверить</string>
      <string name="button_text_a_key_clean_up">Очистить</string>
@@ -599,6 +599,10 @@
      <string name="cancel_scan">Отмена</string>
      <string name="cant_sync_dialog_message">Синхронизация отключена. Чтобы включить ее, временно разрешите передачу данных в фоновом режиме и автоматическую синхронизацию.</string>
      <string name="cant_sync_dialog_title">Не удалось синхронизировать данные</string>
+     <string name="capabilities_list_title">%1$s needs to:</string>
+     <string name="capability_desc_receiveAccessibilityEvents">"Receive notifications when you're interacting with an app."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="capability_title_receiveAccessibilityEvents">Observe your actions</string>
      <string name="carrier_enabled">Включить/выключить APN</string>
      <string name="carrier_enabled_summaryOff">APN выключен</string>
      <string name="carrier_enabled_summaryOn">APN включен</string>
@@ -620,6 +624,8 @@
      <string name="cleanning_prefix">Cleanning:%s</string>
      <string name="clear_activities">Удалить настройки по умолчанию</string>
      <string name="clear_activities_summary">Очистить настройки для использования других приложений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="clear_adb_keys">Revoke USB debugging authorizations</string>
      <string name="clear_all_calllog">Очистить журнал вызовов</string>
      <string name="clear_all_mslog">Очистить журнал сообщений</string>
      <string name="clear_cache_btn_text">Очистить кэш</string>
@@ -630,6 +636,10 @@
      <string name="clear_failed_dlg_title">Стереть данные</string>
      <string name="clear_user_data_text">Стереть данные</string>
      <string name="close_rule">Отключить правила брэндмаузера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="color_calibration_none">Native</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="color_calibration_srgb">sRGB</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="comfirm">OK</string>
      <string name="comfirm_exit">Выйти?</string>
@@ -654,6 +664,11 @@
      <string name="controls_subtitle">Режим энергопотребления</string>
      <string name="copyright_title">Авторские права</string>
      <string name="create">Создать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="credential_storage_type">Storage type</string>
+     <string name="credential_storage_type_hardware">Hardware-backed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="credential_storage_type_software">Software only</string>
      <string name="credentials_configure_lock_screen_hint">Прежде чем использовать хранилище учетных данных, необходимо задать PIN-код или пароль для блокировки экрана</string>
      <string name="credentials_enabled">Хранилище регистрационных данных включено</string>
      <string name="credentials_erased">Хранилище регистрационных данных очищено</string>
@@ -700,6 +715,10 @@
      <string name="cryptkeeper_return_to_call">Вернуться к вызову</string>
      <string name="current_backup_pw_prompt">Введите текущий пароль</string>
      <string name="current_input_method">По умолчанию</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="current_use_ese">Using embedded secure element</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="current_use_uicc_se">Using secure element on SIM card</string>
      <string name="custom_mark_category">Пользов.</string>
      <string name="data_size_label">Данные</string>
      <string name="data_summary">Выбрать оператора для передачи данных</string>
@@ -792,6 +811,8 @@
      <string name="debug_applications_category">Приложения</string>
      <string name="debug_debugging_category">Отладка</string>
      <string name="debug_drawing_category">Отображение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="debug_hw_drawing_category">Hardware accelerated rendering</string>
      <string name="debug_input_category">Ввод</string>
      <string name="debug_intent_sender_label">Пожелания отправителя</string>
      <string name="debug_layout">Границы</string>
@@ -844,6 +865,8 @@
      <string name="dev_settings_warning_message">Эти настройки только для разработчиков. Они могут вызвать нестабильность работы устройства и приложений на нем.</string>
      <string name="dev_settings_warning_title">Разрешить настройки для разработчиков?</string>
      <string name="development_enable">Режим разработчика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="development_settings_not_available">Developer options are not available for this user</string>
      <string name="development_settings_summary">Настройка параметров для разработчиков</string>
      <string name="development_settings_title">Для разработчиков</string>
      <string name="device_additional_status">Доп. инф. о статусе</string>
@@ -889,7 +912,11 @@
      <string name="dialog_title_check_all">Select all</string>
      <string name="dialog_title_cleanup_apps">Delete app data?</string>
      <string name="dialog_title_cleanup_system_cache">Clear cached data?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_title_color_calibration">Color Correction preset</string>
      <string name="dialog_title_font_size">Размер шрифта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_title_hdmi_color_calibration">Color Correction preset</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_title_load_cleanup_engine_error">Error</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -900,12 +927,17 @@
      <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
      <string name="dirac_mode_off">Отключено</string>
      <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
+     <string name="dirac_switch_summary">"Use Dirac Sound enhancer when using phone's speakers"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dirac_switch_title">Dirac sound technology</string>
      <string name="disable_adb_debug_summary">Отключить USB отладку</string>
      <string name="disable_anti_spam_summary">Фильтрация сообщений отключена</string>
      <string name="disable_app_permission_summary">Мониторинг приложений отключен</string>
      <string name="disable_overlays">Отключить HW оверлеи</string>
      <string name="disable_overlays_summary">Всегда использовать GPU для отрисовки экрана</string>
      <string name="disable_power_key_long_press_under_keyguard">Откл. кнопку питания</string>
+     <string name="disable_service_message">Touching OK will stop %1$s.</string>
+     <string name="disable_service_title">Stop %1$s?</string>
      <string name="disable_text">Отключить</string>
      <string name="disabled">Отключено</string>
      <string name="display_font_size_label">Размер шрифта:</string>
@@ -967,28 +999,32 @@
      <string name="dock_sounds_enable_title">Звук при установке в док-станцию</string>
      <string name="does_not_exist">Приложение не установлено</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_dialogue_enhancer">Dialogue enhancer</string>
+     <string name="dolby_bassboost_high">Strong</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dolby_bassboost_low">Soft</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dolby_bassboost_normal">Normal</string>
+     <string name="dolby_bassboost_title">Bass:</string>
      <string name="dolby_effects">Эффекты Dolby</string>
      <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в данном режиме. Включить?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dolby_eq_enter_alert_title">Dolby Music</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_ieq_flat">Off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_ieq_focused">Focused</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_ieq_open">Open</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_ieq_rich">Rich</string>
      <string name="dolby_mode_movie">Фильм</string>
      <string name="dolby_mode_music">Музыка</string>
      <string name="dolby_mode_off">Выключить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_preset_select">Choose a preset</string>
+     <string name="dolby_movie_advance">Video enhancer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_surround_virtualizer">Surround sound</string>
+     <string name="dolby_music_advance">Music enhancer</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_volume_leveler">Volume leveler</string>
+     <string name="dolby_roomsize_high">Outdoor</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dolby_roomsize_low">Indoor</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dolby_roomsize_normal">Normal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dolby_roomsize_summary">Surround sound settings only available for headphones</string>
+     <string name="dolby_roomsize_title">Surround:</string>
      <string name="downloaded_rom_title">Пакет обновлений истек</string>
      <string name="drive_mode">Режим вождения</string>
      <string name="drive_mode_auto_reply">Автоответ</string>
@@ -1026,17 +1062,9 @@
      <string name="enable_drive_mode">Включить режим вождения</string>
      <string name="enable_firewall">Блокировать нежелательные вызовы</string>
      <string name="enable_opengl_traces_title">Трассировка OpenGL</string>
+     <string name="enable_service_title">Use %1$s?</string>
      <string name="enable_snapshot_screenlock">\"Назад\" - запуск камеры</string>
      <string name="enable_text">Включить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="enable_traces_dialog_title">Select enabled traces</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="enable_traces_summary_all">All traces currently enabled</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="enable_traces_summary_none">No traces currently enabled</string>
-     <string name="enable_traces_summary_num">%1$d traces currently enabled</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="enable_traces_title">Enable traces</string>
      <string name="enable_wifi_display">Wi-Fi дисплей</string>
      <string name="enforce_read_external_confirm_message">"Когда включена защита USB хранилища, приложения должны запрашивать разрешения для чтения данных с внешнего хранилища.
 \u0009
@@ -1066,6 +1094,9 @@
      <string name="examination_score_80_100">Можно оптимизировать</string>
      <string name="examination_score_80_60">Можно оптимизировать</string>
      <string name="examination_score_has_virus">Обнаружены подозрительные приложения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="experimental_webview">Use Experimental WebView</string>
+     <string name="experimental_webview_summary">Apps will use the newest (beta) WebView</string>
      <string name="external_code_size_label">USB-накопитель</string>
      <string name="external_data_size_label">SD-карта</string>
      <string name="factory_reset_summary">Вы можете удалить Ваши личные данные в Восстановление и сброс или выбрать установленные приложения для удаления и отформатировать SD-карту до заводских настроек</string>
@@ -1080,6 +1111,8 @@
      <string name="filter">Фильтр</string>
      <string name="filter_apps_all">Все</string>
      <string name="filter_apps_cached">Кэш</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="filter_apps_disabled">Disabled</string>
      <string name="filter_apps_onsdcard">SD-карта</string>
      <string name="filter_apps_running">Запущенные</string>
      <string name="filter_apps_third_party">Сторонние</string>
@@ -1224,11 +1257,33 @@
      <string name="global_change_warning">Настройки будут изменены для всех пользователей устройства</string>
      <string name="global_font_change_title">Изменить размер шрифта</string>
      <string name="global_locale_change_title">Сменить язык</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="gsm_to_wifi_connect_type_title">Cellular to WLAN</string>
      <string name="haptic_feedback_enable_title">Включить виброотклик</string>
      <string name="haptic_feedback_level">Уровень вибрации</string>
      <string name="hardkeyboard_category">Настройки внешней клавиатуры</string>
      <string name="hdcp_checking_dialog_title">Порядок проверки HDCP</string>
      <string name="hdcp_checking_title">Проверка HDCP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_3d_display_enable_summary">Enable to support 3D games</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_3d_display_enable_title">3D Display</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_3d_help_title">About HDMI 3D Stereoscopic support</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_3d_stereo_separation_label">3D</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_3dplay_control_disable_subtext">3D Stereoscopic output to external 3D display disabled</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_3dplay_control_enable_subtext">3D Stereoscopic output to external 3D display enabled</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_3dplay_control_text">Enable 3D</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_3dplay_settings_title">HDMI</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_color_calibration_none">Native</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hdmi_color_calibration_srgb">sRGB</string>
      <string name="header_account_settings">Настройки аккаунта</string>
      <string name="header_add_an_account">Добавление аккаунта</string>
      <string name="header_application_sync_settings">Настройки синхронизации</string>
@@ -1262,9 +1317,13 @@
      <string name="help_url_bluetooth" />
      <string name="help_url_choose_lockscreen" />
      <string name="help_url_data_usage" />
+     <string name="help_url_dreams" />
+     <string name="help_url_location_access" />
      <string name="help_url_more_networks" />
+     <string name="help_url_security" />
      <string name="help_url_sound" />
      <string name="help_url_tether" />
+     <string name="help_url_users" />
      <string name="help_url_vpn" />
      <string name="help_url_wifi" />
      <string name="hidden_ssid_label">Скрытый SSID:</string>
@@ -1392,6 +1451,10 @@
      <string name="led_settings">Настройки индикации</string>
      <string name="legal_information">Правовая информация</string>
      <string name="license_title">Лицензия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="line_breaking_summary">Optimize paragraph line breaking</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="line_breaking_title">Optimize text</string>
      <string name="link_speed_label">"Скорость: "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="list_sub_view_item_backup_cleanup">Back up first</string>
@@ -1428,9 +1491,6 @@
      <string name="location_title">Мое местоположение</string>
      <string name="lock_after_timeout">Автоблокировка</string>
      <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
-     <string name="lock_intro_message">"Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
-
-Ready to start? Touch Next."</string>
      <string name="lock_screen_unlock_show">Интерфейс ввода пароля</string>
      <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
      <string name="lock_settings_common_title">Настройка блокировки</string>
@@ -1439,8 +1499,6 @@ Ready to start? Touch Next."</string>
      <string name="lock_settings_title">Блокировка экрана</string>
      <string name="lock_setup">Настройка завершена</string>
      <string name="lock_sounds_enable_title">Блокировка экрана</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="lock_title">Securing your phone</string>
      <string name="lockpassword_cancel_label">Отмена</string>
      <string name="lockpassword_choose_lock_generic_header">Способ разблокировки</string>
      <string name="lockpassword_choose_your_password_header">Выберите пароль</string>
@@ -1505,6 +1563,12 @@ Ready to start? Touch Next."</string>
      <string name="man_add_application">Добавить</string>
      <string name="manage_device_admin">Администраторы устройства</string>
      <string name="manage_device_admin_summary">Управление администраторами устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="manage_mobile_plan_title">Manage mobile plan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="manage_notification_access">Notification access</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="manage_notification_access_summary_zero">Apps cannot read notifications</string>
      <string name="manage_space_text">Управление местом</string>
      <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
      <string name="manageapplications_settings_title">Приложения</string>
@@ -1545,6 +1609,8 @@ Ready to start? Touch Next."</string>
      <string name="master_clear_summary">Возврат к заводским настройкам и удаление всех данных из памяти телефона</string>
      <string name="master_clear_title">Сброс настроек</string>
      <string name="media_button">Медиа-кнопки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="media_feedback_enable_title">Vibrate with the beat</string>
      <string name="media_format_button_text">Очистить SD-карту</string>
      <string name="media_format_desc">Очистить SD-карту? Вы потеряете все данные на ней.</string>
      <string name="media_format_final_button_text">Стереть все</string>
@@ -1616,6 +1682,61 @@ Ready to start? Touch Next."</string>
      <string name="menu_stats_refresh">Обновить</string>
      <string name="menu_stats_total">Всего</string>
      <string name="menu_stats_unplugged">%1$s с момента отключения от питания</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_PC2THOR_streaming_on">Miracast is unavailable because a PC is streaming to this device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_cancelconnect_dialog">Cancel connection</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_connection_failed_generic">The connection was not successful</string>
+     <string name="miracast_dialog_title">%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_disable_dhcp">Disable HDCP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_display_category">Displays</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_enable_dhcp">Enable HDCP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_error_already_streaming">Already streaming to one display</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_error_cancelconnect">The connection is currently busy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_error_connection_in_progress">Connection is in progress. Please wait</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_menu_connect">Start streaming</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_menu_disconnect">Stop streaming</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_menu_forget">Forget display</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_menu_rename">Rename display</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_menu_search">Search</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_menu_searching">Searching</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_menu_teardown">Teardown</string>
+     <string name="miracast_nickname">Please set a new name:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_no_sinks_found">No nearby wireless display is available</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_search_for_displays">Searching for wireless displays...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_settings_category">WLAN display settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_setup_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_setup_save">Save</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_sink_busy">Busy</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_sink_connected">Connected</string>
+     <string name="miracast_sink_connecting">Connecting…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_sink_not_available">Not available</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_sink_ready_to_connect">Ready to connect</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miracast_wifi_off">To use Miracast, turn WLAN on</string>
      <string name="misc_files">Разное</string>
      <string name="misc_files_selected_count">выбрано %1$d из %2$d</string>
      <string name="misc_files_selected_count_bytes">%1$s из %2$s</string>
@@ -1627,6 +1748,13 @@ Ready to start? Touch Next."</string>
      <string name="miui_screensaver_usage">Изображения из альбома заставки будут отображаться в режиме слайд-шоу через 5 секунд после отключения экрана</string>
      <string name="mms_log_tab_title">Сообщения</string>
      <string name="mms_vibrate_abbreviation">"Сообщения "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mobile_connect_to_internet">Please connect to the internet</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mobile_insert_sim_card">Please insert SIM card and restart</string>
+     <string name="mobile_no_provisioning_url">%1$s has no known provisioning website</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mobile_unknown_sim_operator">Uknown SIM operator</string>
      <string name="model_number">Модель:</string>
      <string name="move_app">Переместить</string>
      <string name="move_app_failed_dlg_text">Не удалось переместить приложение %1$s</string>
@@ -1672,12 +1800,17 @@ Ready to start? Touch Next."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_update_error_code_success">Update success</string>
      <string name="msg_update_error_code_unknown_error">Unknown error,try later!</string>
+     <string name="msg_wlan_signal_found">Connect to %s?</string>
      <string name="mtp_ptp_mode_summary">Активирована функция MTP или PTP</string>
      <string name="multi_sim_settings_summary">Выбрать операторов для голосовых вызовов, передачи данных и SMS</string>
      <string name="multi_sim_settings_title">Настройка сим-карт</string>
      <string name="multi_touch_points_category_title">Точки мултитач</string>
      <string name="multi_touch_points_preference">Перезагрузить для применения</string>
      <string name="musicfx_title">Эквалайзер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mvno_match_data">MVNO value</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mvno_type">MVNO type</string>
      <string name="nearby_wifi">Доступные сети</string>
      <string name="need_check">Можно оптимизировать…</string>
      <string name="network_assistant">Монитор</string>
@@ -1692,18 +1825,24 @@ Ready to start? Touch Next."</string>
      <string name="next_label">Далее</string>
      <string name="nfc_category_title">Беспроводная связь</string>
      <string name="nfc_quick_toggle_summary">Разрешить обмен данными при совмещении телефона с другим устройством</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="nfc_se_route_title">Secure element position</string>
      <string name="no">Нет</string>
      <string name="no_application">Ничего</string>
      <string name="no_applications">Нет приложений</string>
      <string name="no_device_admins">Нет доступных администраторов устройства</string>
      <string name="no_media_button_receiver">Нет</string>
      <string name="no_nearby_wifi">Нет доступных сетей Wi-Fi, вы должны пересканировать сети или добавить сеть вручную</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_notification_listeners">No notification listeners are installed.</string>
      <string name="no_running_services">Ничего не запущено</string>
      <string name="no_services">Неактивен</string>
      <string name="noise_suppression">Подавление шума</string>
      <string name="normal_date_format">По умолчанию (%s)</string>
      <string name="not_installed">Не установлено</string>
      <string name="notification_button_text_of_low_memory">Clean-up</string>
+     <string name="notification_listener_security_warning_summary">%1$s will be able to read all notifications posted by the system or any installed app, which may include personal information such as contact names and the text of messages sent to you. It will also be able to dismiss these notifications or touch action buttons within them.</string>
+     <string name="notification_listener_security_warning_title">Enable %1$s?</string>
      <string name="notification_pulse_title">Мигание трекбола</string>
      <string name="notification_sound_dialog_title">Выбрать мелодию уведомлений</string>
      <string name="notification_sound_title">Мелодия уведомления</string>
@@ -1721,6 +1860,20 @@ Ready to start? Touch Next."</string>
      <string name="nsd_quick_toggle_title">Обнаружение сетевых служб</string>
      <string name="number_add_hint">Введите номер</string>
      <string name="oem_radio_info_label">Информация/настройки OEM</string>
+     <string name="oldman_mode_confirm_title">Reboot phone?</string>
+     <string name="oldman_mode_confirm_will_normal_mode_text">Exit Lite mode?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="oldman_mode_confirm_will_oldman_mode_text">Your phone will reboot and enter Lite mode.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="oldman_mode_enabled_name">Lite mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="oldman_mode_entry_name">Lite mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="oldman_mode_entry_title">Lite mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="oldman_mode_settings_caption">Lite mode settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="oldman_mode_summary">Use simplified Home screen and menus</string>
      <string name="only_when_charging">Только при зарядке</string>
      <string name="onscreen_keyboard_settings_summary">Настройки экранной клавиатуры</string>
      <string name="open_wifi_connect_summary">Нажмите, чтобы настроить</string>
@@ -2086,6 +2239,8 @@ Ready to start? Touch Next."</string>
      <string name="power_mode_auto_clean_memory_in_ten_minutes">Через 10 минут</string>
      <string name="power_mode_auto_clean_memory_never">Никогда</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_mode_balanced_title">Enable Balanced Power</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="power_mode_bluetooth">Bluetooth</string>
      <string name="power_mode_chooser_button_text">Применить</string>
      <string name="power_mode_cpu_state">Исполь. ЦП</string>
@@ -2242,7 +2397,7 @@ Ready to start? Touch Next."</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: Use default %s -->
+     <!-- Original string: Use %s -->
      <string name="preferred_application_warning_use_system">Отмена</string>
      <string name="preferred_launcher_title">Рабочий стол</string>
      <string name="preferred_media_app_summary">Выберите аудиоплеер</string>
@@ -2262,6 +2417,8 @@ Ready to start? Touch Next."</string>
      <string name="process_mediaserver_label">Сервер медиа</string>
      <string name="process_provider_in_use_description">Провайдер %1$s используется</string>
      <string name="process_service_in_use_description">Служба %1$s используется</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="profile_info_settings_title">Profile info</string>
      <string name="progress_scanning">Поиск</string>
      <string name="protection_adb">USB отладка</string>
      <string name="protection_category_dangerous_title">Риски (%d)</string>
@@ -2356,7 +2513,6 @@ Ready to start? Touch Next."</string>
      <string name="radio_info_smsc_refresh_label">Обновление</string>
      <string name="radio_info_smsc_update_label">Обновить</string>
      <string name="radio_info_toggle_dns_check_label">Выбор проверки DNS</string>
-     <string name="read_only">" (Read-only)"</string>
      <string name="really_remove_account_message">Удаление этого аккаунта приведет к потере всех связанных с ним сообщений, контактов и других данных, имеющихся в телефоне</string>
      <string name="really_remove_account_title">Удалить аккаунт?</string>
      <string name="realtime_protection">Защита</string>
@@ -2365,6 +2521,7 @@ Ready to start? Touch Next."</string>
      <string name="recognizer_settings_title">Голосовой поиск</string>
      <string name="recognizer_title">Распознавание голоса</string>
      <string name="recompute_size">Повторное вычисление размера…</string>
+     <string name="regulatory_info_text" />
      <string name="regulatory_information">Юридическая информация</string>
      <string name="remove">Удалить</string>
      <string name="remove_account_failed">Аккаунт необходим для доступа к некоторым приложениям. Чтобы удалить его, нужно восстановить на устройстве настройки по умолчанию (в результате все личные данные будут удалены). Это можно сделать в разделе \"Настройки > \"Резервное копирование и сброс\".</string>
@@ -2395,6 +2552,26 @@ Ready to start? Touch Next."</string>
      <string name="restore_default_apn">Восстановление настроек…</string>
      <string name="restore_default_apn_completed">Настройки по умолчанию восстановлены</string>
      <string name="restore_default_settings">Сбросить настройки</string>
+     <string name="restrict_background_data_dialog_summary">Apps running in the background can’t receive messages</string>
+     <string name="restrict_background_data_notification_summary">"Apps can't connect to network if background data is restricted"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restrict_background_data_title">Restrict background data</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restriction_bluetooth_config_summary">Allow modification of Bluetooth pairings and settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restriction_bluetooth_config_title">Bluetooth</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restriction_location_enable_summary">Let apps use your location information</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restriction_location_enable_title">Location access</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restriction_nfc_enable_summary">Allow data exchange when the phone touches another device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restriction_nfc_enable_title">NFC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restriction_wifi_config_summary">Allow modification of WLAN and Mobile settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="restriction_wifi_config_title">WLAN and Mobile</string>
      <string name="retry">Повторить</string>
      <string name="ring_volume_title">Громкость звонка</string>
      <string name="ringtone_summary" />
@@ -2451,10 +2628,6 @@ Ready to start? Touch Next."</string>
      <string name="screen_timeout">Спящий режим</string>
      <string name="screen_timeout_summary">После %1$s бездействия</string>
      <string name="screen_timeout_title">Спящий режим</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_activate_on_dock_title">Also start when docked</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_component_title">Selected candy</string>
      <string name="screensaver_settings_button">Настройки</string>
      <string name="screensaver_settings_disabled_prompt">Чтобы знать, что происходит с телефоном, когда он подключен к док-станции или находится в спящем режиме, включите заставку</string>
      <string name="screensaver_settings_dream_start">Включить</string>
@@ -2462,17 +2635,9 @@ Ready to start? Touch Next."</string>
      <string name="screensaver_settings_summary_either_long">При подключении к док-станции, при переходе в спящий режим и во время зарядки</string>
      <string name="screensaver_settings_summary_either_short">Всегда</string>
      <string name="screensaver_settings_summary_off">Выключено</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_settings_summary_on">Will start upon sleep if connected to power</string>
      <string name="screensaver_settings_summary_sleep">Во время зарядки</string>
      <string name="screensaver_settings_title">Заставка</string>
      <string name="screensaver_settings_when_to_dream">Когда включать</string>
-     <string name="screensaver_test">Try it!</string>
-     <string name="screensaver_timeout_summary">After %1$s spent idle</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_timeout_title">When to activate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="screensaver_timeout_zero_summary">Never</string>
      <string name="sd_card_settings_label">SD-карта</string>
      <string name="sd_card_storage">SD-карта</string>
      <string name="sd_eject">Извлечь SD-карту</string>
@@ -2499,6 +2664,10 @@ Ready to start? Touch Next."</string>
      <string name="sdcard_settings_unmounted_status">Теперь можно извлечь SD-карту</string>
      <string name="sdcard_settings_used_bytes_label">Использовано байт:</string>
      <string name="sdcard_unmount">Извлечь SD-карту</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="se_route_ese">Embedded secure element</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="se_route_uicc">Secure element on SIM card</string>
      <string name="search_about">о телефоне</string>
      <string name="search_accelerometer">акселерометр</string>
      <string name="search_access_control">управление доступом</string>
@@ -2545,6 +2714,8 @@ Ready to start? Touch Next."</string>
      <string name="select_all">Выбрать все</string>
      <string name="select_application">Выбор приложения</string>
      <string name="select_device_admin_msg">Администраторы устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_ssid_type_title">Select SSID</string>
      <string name="select_subscription">Выберите подписку</string>
      <string name="selinux_status">Статус SELinux</string>
      <string name="selinux_status_disabled">Отключено</string>
@@ -2598,10 +2769,12 @@ Ready to start? Touch Next."</string>
      <string name="show_hw_screen_updates">Показывать данные GPU</string>
      <string name="show_hw_screen_updates_summary">Показывать данные в окнах во время прорисовки с GPU</string>
      <string name="show_magnifier_when_input">Показывать лупу</string>
+     <string name="show_non_rect_clip">Debug non-rectangular clip operations</string>
      <string name="show_notification">Показывать уведомления</string>
      <string name="show_owner_info_on_lockscreen_label">Показывать данные о владельце на экране блокировки</string>
      <string name="show_password">Показывать пароль</string>
-     <string name="show_password_summary" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="show_profile_info_on_lockscreen_label">Show profile info on lock screen</string>
      <string name="show_rounded_corners">Закруглять углы</string>
      <string name="show_running_services">Показать активные службы</string>
      <string name="show_screen_updates">Показать обновления</string>
@@ -2645,8 +2818,6 @@ Attempts Remaining :"</string>
      <string name="sim_pins_dont_match">PIN-коды не совпадают</string>
      <string name="sim_reenter_new">Введите новый PIN повторно</string>
      <string name="sim_status_title">Статус SIM</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="skip_button_label">Cancel</string>
      <string name="skip_label">Далее</string>
      <string name="skip_step">Пропустить этот шаг</string>
      <string name="slot_status_title">Информация IMEI</string>
@@ -2745,6 +2916,8 @@ Attempts Remaining :"</string>
      <string name="system">НАСТРОЙКИ СИСТЕМЫ</string>
      <string name="system_cache_title">Системный кеш</string>
      <string name="system_package">Системные обновления нельзя установить на внешнем носителе</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="system_storage">Internal storage</string>
      <string name="system_update_settings_list_item_title">Обновление системы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tab_title_external_storage">External storage</string>
@@ -2770,10 +2943,14 @@ Attempts Remaining :"</string>
      <string name="timezone_settings">Часовой пояс</string>
      <string name="title_app_update_no">Обновлений: %d</string>
      <string name="title_app_update_yes">Все приложения обновлены</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_color_calibration">Color Correction preset</string>
      <string name="title_data_flow_no">Контроль трафика отключен</string>
      <string name="title_data_flow_yes">Контроль трафика включен</string>
      <string name="title_dolby_control">Параметры Dolby</string>
      <string name="title_font_size">Размер шрифта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_hdmi_color_calibration">Color Correction preset</string>
      <string name="title_install_virus_no">Защита отключена</string>
      <string name="title_install_virus_yes">Защита включена</string>
      <string name="title_miui_update_no">Обновления MIUI: %s</string>
@@ -2813,9 +2990,20 @@ Attempts Remaining :"</string>
      <string name="toast_shortcut_uninstall">Ярлык удален</string>
      <string name="total_size">всего %s</string>
      <string name="total_size_label">Всего</string>
-     <string name="track_frame_time">Время отрисовки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="track_frame_time_summary">Measure rendering time in adb shell dumpsys gfxinfo</string>
+     <string name="touch_sensitive_summary">Make the screen extra responsive to pressure</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="touch_sensitive_title">Glove mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="touch_sensitive_turn_off_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="touch_sensitive_turn_off_confirm">OK</string>
+     <string name="touch_sensitive_turn_off_summary">Turn off Prevent Pocket Dials as well?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="touch_sensitive_turn_off_title">Glove mode is off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="touch_title">Touch</string>
+     <string name="track_frame_time">Время отрисовки</string>
      <string name="trackball_settings">Трекбол</string>
      <string name="trackball_wake_title">Пробуждение от трекбола</string>
      <string name="transition_animation_scale_title">Переход: масштаб</string>
@@ -2848,6 +3036,7 @@ Attempts Remaining :"</string>
      <string name="tts_engine_name_is_disabled_summary">%s отключен</string>
      <string name="tts_engine_name_is_enabled_summary">%s включен</string>
      <string name="tts_engine_name_settings">Настройки %s</string>
+     <string name="tts_engine_network_required">This language requires a working network connection for text-to-speech output.</string>
      <string name="tts_engine_preference_section_title">СИНТЕЗАТОР ПО УМОЛЧАНИЮ</string>
      <string name="tts_engine_security_warning">Данная система синтеза речи может записывать произносимые слова, включая личные данные, такие как пароли и номера кредитных карт. Это осуществляет система %s. Разрешить использование этой системы синтеза речи?</string>
      <string name="tts_engine_settings_button">Настройки синтеза речи</string>
@@ -2929,6 +3118,10 @@ Attempts Remaining :"</string>
      <string name="usage_type_wake_lock">Активный режим</string>
      <string name="usage_type_wifi_running">Wi-Fi</string>
      <string name="usb_connection_category">Подключить как</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_host_mode_subtext">For using game controllers and other peripherals on USB port, may decrease battery life</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="usb_host_mode_text">Enable USB host mode</string>
      <string name="usb_label_installer_cd">Установить инструменты передачи файлов</string>
      <string name="usb_msd_driver_installer_summary">Вы можете установить драйвера для ОС Windows и MAC здесь</string>
      <string name="usb_msd_driver_installer_title">Установка драйверов (MSD)</string>
@@ -2950,6 +3143,14 @@ Attempts Remaining :"</string>
      <string name="use_location_title">Учитывать при поиске</string>
      <string name="use_system_language_to_select_input_method_subtypes">Язык системы</string>
      <string name="user_account_title">Аккаунт для контента</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_add_profile_item_summary">You can restrict access to apps and content from your account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_add_profile_item_title">Restricted profile</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_add_user_item_summary">Users have their own apps and content</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_add_user_item_title">User</string>
      <string name="user_add_user_menu">Добавить пользователя</string>
      <string name="user_add_user_message_long">"Если устройством пользуется несколько человек, заведите для них отдельные учетные записи. В результате у каждого пользователя появится свое пространство, где можно будет установить собственные приложения или обои. При этом некоторые параметры, например настройки Wi-Fi, останутся общими для всех.
 
@@ -2960,7 +3161,11 @@ Attempts Remaining :"</string>
 
 Пользователи могут разрешать обновления для любых аккаунтов на устройстве."</string>
      <string name="user_add_user_title">Добавить пользователя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_add_user_type_title">Add</string>
      <string name="user_adding_new_user">Добавление…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_cannot_add_accounts_message">Restricted profiles cannot add accounts</string>
      <string name="user_cannot_manage_message">Только владелец может настроить устройство для других пользователей</string>
      <string name="user_confirm_remove_message">Вы уверены, что хотите удалить пользователя и всю его информацию с устройства?</string>
      <string name="user_confirm_remove_self_message">Удалить все Ваши данные, сохраненные на этом устройстве, без возможности восстановления?</string>
@@ -2968,8 +3173,6 @@ Attempts Remaining :"</string>
      <string name="user_confirm_remove_title">Удалить пользователя?</string>
      <string name="user_delete_button">Удалить</string>
      <string name="user_delete_user_description">Удалить пользователя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_details_title">Edit details</string>
      <string name="user_dict_multiple_settings_title">Пользовательские словари</string>
      <string name="user_dict_settings_add_dialog_less_options">Меньше</string>
      <string name="user_dict_settings_add_dialog_more_options">Больше</string>
@@ -2977,7 +3180,11 @@ Attempts Remaining :"</string>
      <string name="user_dict_settings_add_locale_option_name">Язык:</string>
      <string name="user_dict_settings_add_menu_title">Добавить</string>
      <string name="user_dict_settings_add_screen_title">Фраза</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_dict_settings_add_shortcut_hint">Optional shortcut</string>
      <string name="user_dict_settings_add_shortcut_option_name">Ярлык:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_dict_settings_add_word_hint">Type a word</string>
      <string name="user_dict_settings_add_word_option_name">Слово:</string>
      <string name="user_dict_settings_all_languages">Все языки</string>
      <string name="user_dict_settings_context_menu_delete_title">Удалить</string>
@@ -2990,40 +3197,41 @@ Attempts Remaining :"</string>
      <string name="user_dict_settings_titlebar">Словарь пользователя</string>
      <string name="user_dict_single_settings_title">Пользовательский словарь</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_discard_user_menu">Discard</string>
+     <string name="user_image_choose_photo">Choose photo from Gallery</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_image_take_photo">Take photo</string>
      <string name="user_info_settings_title">Информация о пользователе</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_information_heading">User information</string>
      <string name="user_list_title">Пользователи</string>
+     <string name="user_need_lock_message">"Before you can create a restricted profile, you'll need to set up a screen lock to protect your apps and personal data."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_market_apps_heading">Installed apps</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_market_requires_pin">Require PIN</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_max_content_rating">Content rating</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_name_title">Name</string>
+     <string name="user_new_profile_name">New profile</string>
      <string name="user_new_user_name">Имя пользователя</string>
      <string name="user_nickname">Ник</string>
      <string name="user_owner">Владелец</string>
      <string name="user_picture_title">Фотография</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 0
-	%s: 1 must: 0
-	%d: 0 must: 0 -->
-     <!-- Original string: Remove user -->
+     <string name="user_profile_confirm_remove_message">"This profile's space and data will disappear from this phone. You can't undo this action."</string>
+     <string name="user_profile_confirm_remove_title">Remove profile?</string>
      <string name="user_remove_user_menu">Удалить пользователя %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_restrictions_heading">Content restrictions</string>
+     <string name="user_rename">RENAME</string>
+     <string name="user_restrictions_controlled_by">Controlled by %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_restrictions_title">Application and content restrictions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="user_set_lock_button">Set lock</string>
      <string name="user_settings_title">Пользователи и ограничения</string>
      <string name="user_setup_button_setup_later">Не сейчас</string>
      <string name="user_setup_button_setup_now">Настроить</string>
      <string name="user_setup_dialog_message">Убедитесь, что человек хочет создать свое пространство на этом устройстве</string>
      <string name="user_setup_dialog_title">Настроить пользователя?</string>
+     <string name="user_setup_profile_dialog_message">Set up profile now?</string>
      <string name="user_summary_active">Активен</string>
      <string name="user_summary_inactive">Не активен</string>
      <string name="user_summary_not_set_up">Не настроен</string>
+     <string name="user_summary_restricted_not_set_up">Not set up - Restricted profile</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="user_system_apps_heading">System apps</string>
+     <string name="user_summary_restricted_profile">Restricted profile</string>
+     <string name="user_you">You (%s)</string>
      <string name="user_you_section">Вы</string>
      <string name="valuation">Рекомендуется очистка</string>
      <string name="verify_applications">Проверка приложений</string>
@@ -3240,9 +3448,13 @@ Attempts Remaining :"</string>
      <string name="wifi_and_mobile_skipped_message">ВНИМАНИЕ: устройство не может проверить информацию о обновлении программного обеспечения</string>
      <string name="wifi_api_test">Wi-Fi API</string>
      <string name="wifi_auto_connect">Автоматическое подключение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_available_title">Connect to WLAN</string>
      <string name="wifi_cancel">Отмена</string>
      <string name="wifi_certificate">Сертификат</string>
      <string name="wifi_config_info">Настройки Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_configured_ap_list">Previously configured APs</string>
      <string name="wifi_connect">Подключить</string>
      <string name="wifi_connect_failed_message">Устройство не может подключиться к этой Wi-Fi сети</string>
      <string name="wifi_context_menu_change_password">Изменить пароль</string>
@@ -3280,6 +3492,7 @@ Attempts Remaining :"</string>
      <string name="wifi_eap_identity">Пользователь</string>
      <string name="wifi_eap_method">Метод EAP</string>
      <string name="wifi_eap_user_cert">Сертификат пользователя</string>
+     <string name="wifi_empty_list_user_restricted">"You don't have permission to change the WLAN network."</string>
      <string name="wifi_empty_list_wifi_off">"Чтобы просмотреть доступные сети
 включите Wi-Fi"</string>
      <string name="wifi_empty_list_wifi_on">Поиск Wi-Fi сетей…</string>
@@ -3293,6 +3506,8 @@ Attempts Remaining :"</string>
      <string name="wifi_forget">Не подключаться</string>
      <string name="wifi_gateway">Шлюз</string>
      <string name="wifi_in_airplane_mode">Режим полета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_install_credentials">Install certificates</string>
      <string name="wifi_ip_address">IP-адрес</string>
      <string name="wifi_ip_settings">Настройки IP</string>
      <string name="wifi_ip_settings_invalid_dns">Введите действительный DNS-адрес</string>
@@ -3342,11 +3557,37 @@ Attempts Remaining :"</string>
      <string name="wifi_password">Пароль</string>
      <string name="wifi_poor_network_detection">Избегать плохого сигнала</string>
      <string name="wifi_poor_network_detection_summary">Не использовать Wi-Fi сеть пока не будет стабильного соединения</string>
+     <string name="wifi_priority_changed" formatted="false">Old priority value = %s | New value = %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_priority_label">Priority</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_priority_settings_label">Priority settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_priority_settings_summary">Tap to set priority for each access point</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_priority_settings_title">AP priority settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_priority_type_summary">Set priority for each access point manually</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_priority_type_title">Set AP priority manually</string>
      <string name="wifi_quick_toggle_summary">Включить Wi-Fi</string>
      <string name="wifi_quick_toggle_title">Wi-Fi</string>
      <string name="wifi_remembered">Сохранено</string>
      <string name="wifi_required_info_text">Для завершения настройки, Ваше устройство требует дотупа к Wi-Fi. После настройки, Вы можете переключаться между мобильной сетью и Wi-Fi.</string>
      <string name="wifi_save">Сохранить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_scan_always_available">Scanning always available</string>
+     <string name="wifi_scan_always_available_summary">"Let Google's location service and other apps scan for networks, even when WLAN is off"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_scan_always_confirm_allow">Allow</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_scan_always_confirm_deny">Deny</string>
+     <string name="wifi_scan_always_turnon_message">"To improve location accuracy and for other purposes, %1$s wants to turn on network scanning, even when WLAN is off.
+
+Allow this for all apps that want to scan?"</string>
+     <string name="wifi_scan_notify_remember_choice">"Don't show again"</string>
+     <string name="wifi_scan_notify_text_location_off">"Apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available."</string>
+     <string name="wifi_scan_notify_text_location_on">"To improve location accuracy and for other purposes, Google and other apps may scan for nearby networks, even when WLAN is off. If you don't want this to happen, go to Advanced > Scanning always available."</string>
      <string name="wifi_secured_first_item">Защита %1$s</string>
      <string name="wifi_secured_second_item">, защита %1$s</string>
      <string name="wifi_security">Безопасность</string>
@@ -3425,12 +3666,15 @@ Attempts Remaining :"</string>
      <string name="wifi_show_advanced">Дополнительно</string>
      <string name="wifi_show_password">Показывать пароль</string>
      <string name="wifi_signal">Уровень сигнала</string>
+     <string name="wifi_signal_found_msg">Connect to WLAN AP?</string>
      <string name="wifi_skip_anyway">Пропустить</string>
      <string name="wifi_skipped_message">"Внимание: может взиматься дополнительная плата за подключение.
 
 Настройка телефона может потребовать значительных объемов трафика."</string>
      <string name="wifi_speed">Скорость связи</string>
      <string name="wifi_ssid">Имя сети (SSID)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_ssid_hint">Enter the SSID</string>
      <string name="wifi_starting">Включение Wi-Fi…</string>
      <string name="wifi_state_disabled">Отключено</string>
      <string name="wifi_state_disabling">Отключение</string>
@@ -3494,6 +3738,12 @@ Attempts Remaining :"</string>
      <string name="wimax_settings_summary">Подключение и настройка сети и модема 4G</string>
      <string name="window_animation_scale_title">Окно: масштаб</string>
      <string name="wireless_networks_settings_title">Беспроводные сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wizard_back">Back</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wizard_finish">Finish</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wizard_next">Next</string>
      <string name="work_done">Готово</string>
      <string name="wps_category">Безопасное подключение</string>
      <string name="wps_connect_summary">Убедитесь, что беспроводной маршрутизатор поддерживает и включен WPS</string>
