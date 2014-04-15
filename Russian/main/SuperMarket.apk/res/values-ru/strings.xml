@@ -12,6 +12,10 @@
      <string name="app_comments_title">Комментарии: %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Mi Store</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bad_comment_reason_dialog_button_text">Skip</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bad_comment_reason_dialog_title">Please choose a reason</string>
      <string name="bad_comments">Плохие</string>
      <string name="button_refresh">Обновить</string>
      <string name="button_search">Поиск</string>
@@ -80,6 +84,8 @@
      <string name="diagnostics_test_download">5. Входящая скорость</string>
      <string name="diagnostics_title">Диагностика сети</string>
      <string name="download_fail">Загрузка не завершена. Ошибка загрузки.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_history_login_hint">Sign in to your Xiaomi Account to check your download history</string>
      <string name="download_start_fail">Загрузка не завершена. Ошибка создания задачи для загрузки.</string>
      <string name="downloading">Пауза</string>
      <string name="edit_comment">Комментарий</string>
@@ -103,6 +109,7 @@
      <string name="first_recommend_download">Установить</string>
      <string name="first_recommend_enter">Открыть</string>
      <string name="good_comments">Хорошие</string>
+     <string name="holding">Holding…</string>
      <string name="hot_rank_tag">Топ рейтинга</string>
      <string name="hot_subject">Коллекции</string>
      <string name="install">Скачать</string>
@@ -183,6 +190,7 @@
      <string name="no_comment">Нет комментариев</string>
      <string name="no_data">Нет данных, проверьте сеть</string>
      <string name="no_description">Нет приложений</string>
+     <string name="no_download_history">"You haven't downloaded any apps"</string>
      <string name="no_favorites">Нет избранных приложений</string>
      <string name="no_fitness">Нет подходящих программ</string>
      <string name="no_local_apps">Нет установленных приложений</string>
@@ -230,6 +238,8 @@
      <string name="pref_list_use_staging_server">Использование промежуточного сервера</string>
      <string name="pref_summary_auto_update_via_wifi">Автоматическое обновление по Wi-Fi при заблокированном экране</string>
      <string name="pref_summary_data_save">Не отображать картинки при мобильном интернете</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_summary_delete_package">Delete the package after install finished</string>
      <string name="pref_summary_feature_intro">Узнайте больше о возможностях Xiaomi маркета</string>
      <string name="pref_summary_web_dev0">Посетите:</string>
      <string name="pref_summary_web_dev1">http://dev.xiaomi.com</string>
@@ -243,6 +253,8 @@
      <string name="pref_title_clear_search_record">Очистить историю поиска</string>
      <string name="pref_title_clear_session">Очистить сессию</string>
      <string name="pref_title_data_save">Уменьшить использование данных</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_title_delete_package">Auto delete package</string>
      <string name="pref_title_delta_update">Чтобы уменьшить использование мобильных данных, Xiaomi маркет будет скачивать только отдельные части приложения, которые были обновлены</string>
      <string name="pref_title_feature_intro">Особые возможности</string>
      <string name="pref_title_hotsubjects_notification">Коллекции</string>
@@ -286,6 +298,8 @@
      <string name="size_interval">%1$d~%2$dM</string>
      <string name="size_more_than_one_hundred">Более 100МБ</string>
      <string name="system_app_sign_not_match_fail">Несовместимая подпись системного приложения. Невозможно обновить.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tab_download_history">History</string>
      <string name="tab_favorites">Избранные</string>
      <string name="tab_local_apps">Телефон</string>
      <string name="temporarily_invalid_report_data">Неверный отчет</string>

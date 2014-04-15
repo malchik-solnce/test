@@ -57,6 +57,8 @@
      <string name="failed">Ошибка</string>
      <string name="file_download">Скачать файл</string>
      <string name="file_downloading">Файл скачивается</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="file_not_exist">file not exists</string>
      <string name="file_restore">Васстановление файлов</string>
      <string name="file_share_download_complete">Файл получен</string>
      <string name="file_share_upload_complete">Файл отправлен</string>

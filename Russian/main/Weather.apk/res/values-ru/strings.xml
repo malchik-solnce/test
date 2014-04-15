@@ -53,6 +53,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_details_light_pollution">People with heart or lung disease, older adults, and children should reduce prolonged or heavy exertion.</string>
      <string name="aqi_details_unhealthy">People with heart or lung disease, older adults, and children should avoid prolonged or heavy exertion; everyone else should reduce prolonged or heavy exertion.</string>
+     <string name="aqi_quality_index_break">Yikes!</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="aqi_quality_index_dangerous">dangerous</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

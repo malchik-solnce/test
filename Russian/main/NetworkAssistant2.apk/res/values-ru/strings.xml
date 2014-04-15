@@ -111,6 +111,8 @@ Usage in excess of your carrier plan's data limits can result in steep overage c
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="main_alert_message_no_imsi">No SIM card detected</string>
      <string name="main_alert_message_no_mobile_package">"Mobile data limit hasn't been set"</string>
+     <string name="main_alert_message_slot_no_data_connection">"The SIM card slot doesn't support
+a mobile data connection"</string>
      <string name="main_button_idel_traffic">Off-peak</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="main_button_normal_traffic">Peak</string>

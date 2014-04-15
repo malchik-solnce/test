@@ -347,11 +347,39 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_coloreffect_default">none</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_brannan">Dawn</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_earlybird">Autumn</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_fisheye">Fish Eye</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_gaussianblur">Gaussian blur</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_jstyle">Japanese</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_mirror">Mirror</string>
      <string name="pref_camera_coloreffect_entry_mono" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_mosaic">Mosaic</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_nashvile">Indigo</string>
      <string name="pref_camera_coloreffect_entry_negative" />
      <string name="pref_camera_coloreffect_entry_none" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_planet">Small world</string>
      <string name="pref_camera_coloreffect_entry_posterize" />
      <string name="pref_camera_coloreffect_entry_sepia" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_seventy">1970s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_sketch">Sketch</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_vivid">Vivid</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_coloreffect_entry_yesteryear">Yesteryear</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_coloreffect_title">Filters</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -589,6 +617,7 @@
      <string name="pref_camera_settings_category">Camera settings</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_settings_title">Settings</string>
+     <string name="pref_camera_shader_coloreffect_default">-1</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_camera_sharpness_title">Sharpness</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
