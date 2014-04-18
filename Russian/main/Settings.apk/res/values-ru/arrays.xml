@@ -21,12 +21,14 @@
         <item>Съемная SD-карта</item>
         <item>Автоматически</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 5 must: 7 -->
      <string-array name="app_ops_categories">
         <item>Location</item>
         <item>Personal</item>
         <item>Messaging</item>
         <item>Device</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 32 must: 51 -->
      <string-array name="app_ops_labels">
         <item>Location</item>
         <item>Location</item>
@@ -60,6 +62,7 @@
         <item>Read clipboard</item>
         <item>Modify clipboard</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 32 must: 51 -->
      <string-array name="app_ops_summaries">
         <item>coarse location</item>
         <item>fine location</item>
@@ -125,11 +128,163 @@
         <item>20 сек.</item>
         <item>Всегда</item>
      </string-array>
+     <string-array name="captioning_color_selector_titles">
+        <item>@string/color_white</item>
+        <item>@string/color_black</item>
+        <item>@string/color_red</item>
+        <item>@string/color_yellow</item>
+        <item>@string/color_green</item>
+        <item>@string/color_cyan</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_magenta</item>
+     </string-array>
+     <integer-array name="captioning_color_selector_values">
+        <item>0xffffffff</item>
+        <item>0xff000000</item>
+        <item>0xffff0000</item>
+        <item>0xffffff00</item>
+        <item>0xff00ff00</item>
+        <item>0xff00ffff</item>
+        <item>0xff0000ff</item>
+        <item>0xffff00ff</item>
+        <item>0xff000055</item>
+        <item>0xff0000aa</item>
+        <item>0xff005500</item>
+        <item>0xff005555</item>
+        <item>0xff0055aa</item>
+        <item>0xff0055ff</item>
+        <item>0xff00aa00</item>
+        <item>0xff00aa55</item>
+        <item>0xff00aaaa</item>
+        <item>0xff00aaff</item>
+        <item>0xff00ff55</item>
+        <item>0xff00ffaa</item>
+        <item>0xff550000</item>
+        <item>0xff550055</item>
+        <item>0xff5500aa</item>
+        <item>0xff5500ff</item>
+        <item>0xff555500</item>
+        <item>0xff555555</item>
+        <item>0xff5555aa</item>
+        <item>0xff5555ff</item>
+        <item>0xff55aa00</item>
+        <item>0xff55aa55</item>
+        <item>0xff55aaaa</item>
+        <item>0xff55aaff</item>
+        <item>0xff55ff00</item>
+        <item>0xff55ff55</item>
+        <item>0xff55ffaa</item>
+        <item>0xff55ffff</item>
+        <item>0xffaa0000</item>
+        <item>0xffaa0055</item>
+        <item>0xffaa00aa</item>
+        <item>0xffaa00ff</item>
+        <item>0xffaa5500</item>
+        <item>0xffaa5555</item>
+        <item>0xffaa55aa</item>
+        <item>0xffaa55ff</item>
+        <item>0xffaaaa00</item>
+        <item>0xffaaaa55</item>
+        <item>0xffaaaaaa</item>
+        <item>0xffaaaaff</item>
+        <item>0xffaaff00</item>
+        <item>0xffaaff55</item>
+        <item>0xffaaffaa</item>
+        <item>0xffaaffff</item>
+        <item>0xffff0055</item>
+        <item>0xffff00aa</item>
+        <item>0xffff5500</item>
+        <item>0xffff5555</item>
+        <item>0xffff55aa</item>
+        <item>0xffff55ff</item>
+        <item>0xffffaa00</item>
+        <item>0xffffaa55</item>
+        <item>0xffffaaaa</item>
+        <item>0xffffaaff</item>
+        <item>0xffffff55</item>
+        <item>0xffffffaa</item>
+     </integer-array>
+     <string-array name="captioning_edge_type_selector_titles">
+        <item>None</item>
+        <item>Outline</item>
+        <item>Drop shadow</item>
+     </string-array>
+     <integer-array name="captioning_edge_type_selector_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+     </integer-array>
+     <string-array name="captioning_font_size_selector_titles">
+        <item>Very small</item>
+        <item>Small</item>
+        <item>Normal</item>
+        <item>Large</item>
+        <item>Very large</item>
+     </string-array>
+     <string-array name="captioning_font_size_selector_values">
+        <item>0.25</item>
+        <item>0.5</item>
+        <item>1.0</item>
+        <item>1.5</item>
+        <item>2.0</item>
+     </string-array>
+     <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+     </string-array>
+     <integer-array name="captioning_opacity_selector_values">
+        <item>0x40ffffff</item>
+        <item>0x80ffffff</item>
+        <item>0xc0ffffff</item>
+        <item>0xffffffff</item>
+     </integer-array>
+     <string-array name="captioning_preset_selector_titles">
+        <item>White on black</item>
+        <item>Black on white</item>
+        <item>Yellow on black</item>
+        <item>Yellow on blue</item>
+        <item>Custom</item>
+     </string-array>
+     <integer-array name="captioning_preset_selector_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>-1</item>
+     </integer-array>
+     <string-array name="captioning_typeface_selector_titles">
+        <item>Default</item>
+        <item>Sans-serif</item>
+        <item>Sans-serif condensed</item>
+        <item>Serif</item>
+        <item>Monospace</item>
+     </string-array>
+     <string-array name="captioning_typeface_selector_values">
+        <item></item>
+        <item>sans-serif</item>
+        <item>sans-serif-condensed</item>
+        <item>serif</item>
+        <item>monospace</item>
+     </string-array>
      <string-array name="change_security_lock_picker">
         <item>Фейс-контроль</item>
         <item>Графический ключ</item>
         <item>Цифровой пароль</item>
         <item>Смешанный пароль</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_entries">
+        <item>Off</item>
+        <item>Show overdraw areas</item>
+        <item>Show areas for Deuteranomaly</item>
+        <item>Show overdraw counter</item>
+     </string-array>
+     <string-array name="debug_hw_overdraw_values">
+        <item>false</item>
+        <item>show</item>
+        <item>show_deuteranomaly</item>
+        <item>count</item>
      </string-array>
      <string-array name="dndm_auto_time_trun_on_off">
         <item>@string/dndm_auto_time_turn_on</item>
@@ -261,11 +416,6 @@
         <item>\#FF5500FF</item>
         <item>\#FFAA00AA</item>
      </string-array>
-     <string-array name="miracast_policies">
-        <item>Shorter delay</item>
-        <item>Standard</item>
-        <item>Better quality</item>
-     </string-array>
      <string-array name="msd_pc_system">
         <item>Windows XP или старее</item>
         <item>Windows Vista или новее</item>
@@ -299,6 +449,7 @@
 ткройте и выберите файл AndroidFileTransfer.dmg для установки"</item>
         <item></item>
      </string-array>
+     <!-- The size of the array does not match! Now: 7 must: 6 -->
      <string-array name="msd_pc_system_install_step_2_summary">
         <item>"2. Мобильное устройство хранения MI-2 появится на вашем компьютере
 Теперь вы можете передавать файлы"</item>
@@ -306,6 +457,11 @@
         <item>"Компьютер будет автоматически открывать и читать данные телефона
 Теперь вы можете передавать файлы"</item>
         <item></item>
+     </string-array>
+     <string-array name="multi_sim_entries">
+        <item>Subscription 1</item>
+        <item>Subscription 2</item>
+        <item>Subscription 3</item>
      </string-array>
      <string-array name="mvno_type_entries">
         <item>None</item>
@@ -364,6 +520,7 @@
         <item>@drawable/digit_small_8</item>
         <item>@drawable/digit_small_9</item>
      </array>
+     <!-- The size of the array does not match! Now: 6 must: 9 -->
      <string-array name="overlay_display_devices_entries">
         <item>Нет</item>
         <item>720x480 mdpi</item>
@@ -429,6 +586,12 @@
         <item>Музыка</item>
         <item>Почта</item>
      </string-array>
+     <string-array name="ram_states">
+        <item>normal</item>
+        <item>moderate</item>
+        <item>low</item>
+        <item>critical</item>
+     </string-array>
      <string-array name="score_descriptions">
         <item>Черный список выключен</item>
         <item>Мониторинг разрешений выключен</item>
@@ -478,6 +641,21 @@
         <item>Спрашивать</item>
         <item>Запретить</item>
         <item>Разрешить</item>
+     </string-array>
+     <string-array name="select_runtime_summaries">
+        <item>Use Dalvik</item>
+        <item>Use ART</item>
+        <item>Use ART debug build</item>
+     </string-array>
+     <string-array name="select_runtime_titles">
+        <item>Dalvik</item>
+        <item>ART</item>
+        <item>ART (debug)</item>
+     </string-array>
+     <string-array name="select_runtime_values">
+        <item>libdvm.so</item>
+        <item>libart.so</item>
+        <item>libartd.so</item>
      </string-array>
      <string-array name="show_non_rect_clip_entries">
         <item>Off</item>

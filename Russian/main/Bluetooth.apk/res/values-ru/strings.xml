@@ -51,7 +51,6 @@
      <string name="empty_file_notification_sent">Bluetooth share: Remote rejected zero length file %1$s</string>
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
-     <string name="format_progress_text">%1$d%%</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ftp_acceptance_dialog_header">Phone Folder Access</string>
      <string name="ftp_acceptance_dialog_title">%1$s would like to access your phone folders. Give access to %2$s?</string>
@@ -97,9 +96,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="map_session_key_dialog_header">Bluetooth session key required</string>
      <string name="map_session_key_dialog_title">Type session key for %1$s</string>
-     <string name="miui_transfer_history_title">Передачи Bluetooth</string>
-     <string name="miui_transfer_inbound_title">Принятые</string>
-     <string name="miui_transfer_outbound_title">Отправленные</string>
      <string name="no_transfers">Нет данных</string>
      <string name="not_exist_file">Нет файла</string>
      <string name="not_exist_file_desc">Файл не существует</string>
