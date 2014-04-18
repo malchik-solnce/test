@@ -1,20 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="Folders">Folders</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_action_bar_home_description">Navigate home</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_action_bar_up_description">Navigate up</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_action_menu_overflow_description">More options</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_action_mode_done">Done</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_activity_chooser_view_see_all">See all</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_activitychooserview_choose_application">Choose an app</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_searchview_description_clear">Clear query</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_searchview_description_query">Search query</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_searchview_description_search">Search</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_searchview_description_submit">Submit query</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_searchview_description_voice">Voice search</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="abc_shareactionprovider_share_with">Share with</string>
      <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_cache_provider">Account Cache Provider</string>
      <string name="account_duplicate_dlg_message_fmt">Это имя уже используется в аккаунте \"%s\"</string>
      <string name="account_duplicate_dlg_title">Копировать аккаунт</string>
@@ -22,12 +36,22 @@
      <string name="account_folder_list_summary_inbox">Входящие</string>
      <string name="account_folder_list_summary_outbox">Исходящие</string>
      <string name="account_folder_list_summary_starred">Избранные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_manager_type_exchange">com.android.exchange</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_manager_type_imap">com.android.email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_manager_type_legacy_imap">com.android.email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_manager_type_pop3">com.android.email</string>
      <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами</string>
      <string name="account_security_dialog_content_fmt">Для аккаунта %s требуется обновить настройки безопасности</string>
      <string name="account_security_dialog_title">Обновления безопасности</string>
      <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android</string>
      <string name="account_security_title">Безопасность устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_set_up_change_type_note">If you want to set the switching account before POP3 and IMAP, you must first delete the account, re configure login.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_set_up_notice">Just a few steps, you can set up an email account for the majority of</string>
      <string name="account_settings_action">Настройки аккаунта</string>
      <string name="account_settings_background_attachments_label">Автозагрузка файлов</string>
@@ -36,7 +60,9 @@
      <string name="account_settings_description_label">Название аккаунта</string>
      <string name="account_settings_edit_quick_responses_label">Быстрые ответы</string>
      <string name="account_settings_edit_quick_responses_summary">Редактирование сообщений быстрого ответа</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_settings_enforced_label">Policies enforced</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_settings_enforced_summary">None</string>
      <string name="account_settings_exit_server_settings">Отменить несохраненные изменения?</string>
      <string name="account_settings_incoming_label">Входящие сообщения</string>
@@ -52,9 +78,13 @@
      <string name="account_settings_notify_summary">При получении почты показывать оповещение в строке состояния</string>
      <string name="account_settings_outgoing_label">Исходящие сообщения</string>
      <string name="account_settings_outgoing_summary">Имя пользователя, пароль и другие настройки сервера исходящей почты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_settings_param">Account settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_settings_policies">Security policies</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_settings_retry_label">Attempt sync</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_settings_retry_summary">Touch here to sync this account</string>
      <string name="account_settings_ringtone">Мелодия</string>
      <string name="account_settings_servers">Настройки серверов</string>
@@ -65,13 +95,17 @@
      <string name="account_settings_sync_contacts_summary">Синхронизировать контакты этого аккаунта</string>
      <string name="account_settings_sync_email_enable">Синхронизировать почту</string>
      <string name="account_settings_sync_email_summary">Синхронизировать почту этого аккаунта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_settings_unsupported_label">Unsupported policies</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_settings_unsupported_summary">None</string>
      <string name="account_settings_vibrate_when_label">Вибрация</string>
      <string name="account_setup_account_type_headline">Тип аккаунта</string>
      <string name="account_setup_account_type_instructions">Выберите тип аккаунта</string>
      <string name="account_setup_account_type_title">Тип аккаунта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_autodiscover_dlg_authfail_message">Confirm username, password, and account settings are correct.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_autodiscover_dlg_authfail_title">Problem with account setup</string>
      <string name="account_setup_basics_email_label">Адрес электронной почты</string>
      <string name="account_setup_basics_headline">Настройки почты</string>
@@ -121,8 +155,10 @@
      <string name="account_setup_incoming_security_none_label">Нет</string>
      <string name="account_setup_incoming_security_ssl_label">SSL/TLS</string>
      <string name="account_setup_incoming_security_ssl_trust_certificates_label">SSL/TLS (принимать все сертификаты)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_incoming_security_tls_label">STARTTLS</string>
      <string name="account_setup_incoming_security_tls_trust_certificates_label">STARTTLS (принимать все сертификаты)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_incoming_server_label">Server</string>
      <string name="account_setup_incoming_title">Настройки аккаунта</string>
      <string name="account_setup_incoming_username_label">Имя пользователя</string>
@@ -131,6 +167,7 @@
      <string name="account_setup_names_title">Настройки аккаунта</string>
      <string name="account_setup_names_user_name_empty_error">Это поле должно быть заполнено</string>
      <string name="account_setup_names_user_name_label">Имя отправителя (используется в исходящих сообщениях)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_setup_need_password_verification">Your account has been opened secondary password authentication, authentication is required</string>
      <string name="account_setup_options_background_attachments_label">Загружать прикрепленные файлы при подключении по Wi-Fi</string>
      <string name="account_setup_options_headline">Параметры аккаунта</string>
@@ -169,17 +206,25 @@
      <string name="account_setup_service_not_set">Your e-mail service settings yet to be conducted</string>
      <string name="account_setup_username_password_toast">Введите действительный адрес электронной почты и пароль</string>
      <string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, нажмите \"Добавить аккаунт\" и создайте новый аккаунт</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_sync_off">Account sync is off.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_type_exchange">Exchange</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_type_imap">Imap</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="account_type_pop3">Pop3</string>
      <string name="account_waiting_for_folders_msg">Loading folder list…</string>
      <string name="accounts_welcome">Почта поддерживает большинство популярных почтовых служб</string>
      <string name="actionbar_large_unread_count">%1$d+ unread</string>
      <string name="actionbar_title_mail_aggregation">Mail aggregation:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activity_folder_selection">Choose folder</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="activity_mailbox_selection">Choose account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_account">Add account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_attachment">Attach Files</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_bcc_label">Add Bcc</string>
@@ -987,8 +1032,8 @@
      <string name="via_domain">via %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="view_more_conversations">View more conversations</string>
-     <string name="wait_for_manual_sync_body">"This account isn't set up to sync automatically.
-Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically.</string>
+     <string name="wait_for_manual_sync_body">""This account isn't set up to sync automatically.
+Touch "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up this account to sync mail automatically."</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="wait_for_sync_body">Your email will appear shortly.</string>
      <string name="wait_for_sync_body_2">Exchange Server will prompt you within 1-30 seconds.Please confirm the security setting and activate.Pay attention to system alert.</string>
