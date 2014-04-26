@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
+     <string-array name="app_comment_stars">
+        <item>@string/comment_5_star</item>
+        <item>@string/comment_4_star</item>
+        <item>@string/comment_3_star</item>
+        <item>@string/comment_2_star</item>
+        <item>@string/comment_1_star</item>
+     </string-array>
      <string-array name="permission_description">
         <item>Доступ к грубым расположения источника (таких как базы данных сотовой сети), чтобы определить общее расположение телефона (если возможно). Вредоносное ПО может использовать, чтобы определить, что вы в общем месте.</item>
         <item>Доступ к точному местоположению, по источникам мобильных сетей, системы глобального позиционирования (если таковые имеются). Вредоносное ПО будет определить ваше местоположение, и может потреблять дополнительную энергию аккумулятора.</item>
@@ -346,6 +353,53 @@
         <item>edit SMS or MMS</item>
         <item>write to your social stream</item>
         <item>write sync settings</item>
+     </string-array>
+     <string-array name="permission_risk_privacy">
+        <item>android.permission.ACCESS_COARSE_LOCATION</item>
+        <item>android.permission.ACCESS_FINE_LOCATION</item>
+        <item>android.permission.DUMP</item>
+        <item>android.permission.GET_TASKS</item>
+        <item>android.permission.INSTALL_LOCATION_PROVIDER</item>
+        <item>android.permission.READ_CALENDAR</item>
+        <item>android.permission.READ_CONTACTS</item>
+        <item>android.permission.READ_PHONE_STATE</item>
+        <item>android.permission.READ_SMS</item>
+        <item>android.permission.READ_SOCIAL_STREAM</item>
+        <item>android.permission.RECEIVE_MMS</item>
+        <item>android.permission.RECEIVE_SMS</item>
+        <item>android.permission.RECEIVE_WAP_PUSH</item>
+        <item>android.permission.RETRIEVE_WINDOW_CONTENT</item>
+     </string-array>
+     <string-array name="permission_risk_security">
+        <item>android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</item>
+        <item>android.permission.ACCESS_MOCK_LOCATION</item>
+        <item>android.permission.BROADCAST_PACKAGE_REMOVED</item>
+        <item>android.permission.BROADCAST_SMS</item>
+        <item>android.permission.BROADCAST_STICKY</item>
+        <item>android.permission.BROADCAST_WAP_PUSH</item>
+        <item>android.permission.CHANGE_COMPONENT_ENABLED_STATE</item>
+        <item>android.permission.DELETE_PACKAGES</item>
+        <item>android.permission.INJECT_EVENTS</item>
+        <item>android.permission.INSTALL_PACKAGES</item>
+        <item>android.permission.INTERNET</item>
+        <item>android.permission.MODIFY_AUDIO_SETTINGS</item>
+        <item>android.permission.MODIFY_PHONE_STATE</item>
+        <item>android.permission.PERFORM_CDMA_PROVISIONING</item>
+        <item>android.permission.PROCESS_OUTGOING_CALLS</item>
+        <item>android.permission.REMOVE_TASKS</item>
+        <item>android.permission.REORDER_TASKS</item>
+        <item>android.permission.SET_ACTIVITY_WATCHER</item>
+        <item>android.permission.SET_DEBUG_APP</item>
+        <item>android.permission.SET_PREFERRED_APPLICATIONS</item>
+        <item>android.permission.SUBSCRIBED_FEEDS_WRITE</item>
+        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
+        <item>android.permission.WRITE_APN_SETTINGS</item>
+        <item>android.permission.WRITE_CALENDAR</item>
+        <item>android.permission.WRITE_CONTACTS</item>
+        <item>android.permission.WRITE_SETTINGS</item>
+        <item>android.permission.WRITE_SMS</item>
+        <item>android.permission.WRITE_SOCIAL_STREAM</item>
+        <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
      </string-array>
      <string-array name="pref_entries_staging_mode">
         <item>@string/pref_list_use_online_server</item>

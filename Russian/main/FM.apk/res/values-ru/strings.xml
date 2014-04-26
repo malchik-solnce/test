@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="FMRecording_reach_storage_threshold">Запись остановлена. Недостаточно места SD-карте.</string>
      <string name="access_sd_fail">Невозможно получить доступ к SD-карте</string>
@@ -26,8 +26,6 @@
      <string name="context_menu_title">%sМГц</string>
      <string name="default_audio">Стерео</string>
      <string name="default_band">США</string>
-     <string name="default_blank" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="default_station">FM</string>
      <string name="delete_station_title">Удалить</string>
      <string name="dialog_sleep_title">Спящий режим</string>
@@ -51,7 +49,6 @@
      <string name="frequency_mhz_fomart">%sМГц</string>
      <string name="frequency_out_of_range">Частота вне диапозона (%1$s~%2$s)</string>
      <string name="frequency_should_not_null">Частота не может быть пустой</string>
-     <string name="frequency_string" />
      <string name="hint_frequency">Частота: %1$s ~ %2$s</string>
      <string name="hint_label">Радио</string>
      <string name="hint_station_name">Название радиостанции</string>
@@ -81,7 +78,7 @@
      <string name="menu_stats">Статистика FM RF</string>
      <string name="msg_callactive">Невозможно прослушивать радио во время вызова</string>
      <string name="msg_do_not_support_fm">FM радио не поддерживается на этом устройстве</string>
-	 <string name="msg_fm_starting">Запуск…</string>
+     <string name="msg_fm_starting">Запуск…</string>
      <string name="msg_headsetpluggedin">Отключите наушники</string>
      <string name="msg_noantenna_message">Подключите наушники</string>
      <string name="msg_scanning">Сканирование станций…</string>
@@ -101,13 +98,12 @@
      <string name="preset_tune">Мелодия</string>
      <string name="presetlist_autoselect_title">Автоматический выбор</string>
      <string name="radio_text_string">Это длинное текстовое сообщение, которое нужно прокрутить</string>
-	 <string name="record_completed">Запись завершена</string>
+     <string name="record_completed">Запись завершена</string>
      <string name="record_error_file_removed">Запись удалена. Произошла неизвестная ошибка.</string>
      <string name="record_error_unknown">Запись остановлена. Произошла неизвестная ошибка.</string>
      <string name="record_fail">Ошибка записи</string>
      <string name="record_file_format">%1$s_%2$s</string>
      <string name="record_file_location_format">Сохранено в %s</string>
-     <string name="record_sucess">Запись сохранена</string>
      <string name="reduce_af">Уменьшить частоту</string>
      <string name="regional_band">Региональные группы</string>
      <string name="search_dialog_title">Сканировать станции</string>
@@ -139,9 +135,9 @@
      <string name="toast_channel_searched">Найдено станций: %1$d</string>
      <string name="toast_delete_station">%sМГц удалена</string>
      <string name="toast_edit_station">Изменения сохранены</string>
-	 <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
+     <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
      <string name="toast_fm_not_stated">Не указана станция</string>
-	 <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
+     <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
      <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
      <string name="toast_fm_recorder_storage_full">Память заполнена. Запись невозможна.</string>
      <string name="toast_fm_seeking">Поиск станций…</string>
@@ -156,6 +152,5 @@
      <string name="turn_off_speaker_phone">Выключить динамик</string>
      <string name="turn_on_fm">Включить радио</string>
      <string name="turn_on_speaker_phone">Включить динамик</string>
-     <string name="type_rd" />
      <string name="view_stations_list">Список станций</string>
 </resources>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
      <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
@@ -81,7 +81,7 @@
      <string name="unknown_apps_dlg_text">Из-за соображений безопасности на устройстве заблокирована установка приложений, полученных не из Google Play</string>
      <string name="unknown_apps_dlg_title">Установка заблокирована</string>
      <string name="unknown_installer">Неизвестный установщик</string>
-	 <string name="virus_scan_caller_unknown">Неизвестно</string>
+     <string name="virus_scan_caller_unknown">Неизвестно</string>
      <string name="virus_scan_clear">Удалить</string>
      <string name="virus_scan_install">" "<u>Установить</u>" "</string>
      <string name="virus_scan_is_risk">Приложение представляет собой риск!</string>

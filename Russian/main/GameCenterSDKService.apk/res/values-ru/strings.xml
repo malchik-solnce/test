@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string name="access_denied">Доступ запрещен</string>
      <string name="account">Счет</string>
@@ -9,7 +9,6 @@
      <string name="account_name">Аккаунт: %1$s</string>
      <string name="activating">Активация...</string>
      <string name="alert_title_remove_account">Удалить учетную запись</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Xiaomi SDK</string>
      <string name="bad_authentication">Ошибка аутентификации. Неверное имя пользователя или пароль.</string>
      <string name="balance">Баланс: %1$s MiCredits</string>
@@ -114,7 +113,6 @@
      <string name="format_time">Dd MMM yyyy-hh:mmaa</string>
      <string name="frozen">(Замороженные)</string>
      <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit подарочная карта от %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="giftcard_denom">MiCredit</string>
      <string name="giftcard_denom_available">MiCredit доступны</string>
      <string name="giftcard_denom_frozen">MiCredit замороженные</string>
@@ -129,7 +127,6 @@
      <string name="hfb_complete_hint">(请查收信息 к вокзалу, 并按提示完成支付)</string>
      <string name="hfb_confirm">确认支付</string>
      <string name="hfb_customer_service_phone">客服电话 : в</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hfb_customer_service_phone_number">4006125880</string>
      <string name="hfb_dialog_exit_content">交易尚未完成 к вокзалу, 确定放弃交易？</string>
      <string name="hfb_fail_hint">"* 如未收到短信请咨询中国移动通信账户支付客服中心 : в 4006125880(只收市话费 к вокзалу, 无长途话费)сборов 125880只支付移动手机 к вокзалу, 0.3元/分 к вокзалу, 无长途话费 юаней. * 有短信签名功能的手机 к вокзалу, 请回复前去掉签名的自动附加功能 к вокзалу, 以免回复系统无法识别拒绝支付 юаней."</string>
@@ -139,6 +136,7 @@
      <string name="hfb_goods_name">商品名称 : в</string>
      <string name="hfb_goods_price_value_format">%1$s(不含通信费)</string>
      <string name="hfb_hint">"1The 中国移动通信账户支付是中国移动电子商务的支付方式之一 юаней. 2, используете 10658008是中国移动通信账户支付专用短信特服号码 юаней. 3ив 本服务支持移动全球通 лекарствоведения 动感地带 лекарствоведения 神州行等品牌的用户 к вокзалу, 用户使用中国移动通信账户支付 : в 无免费试用 и сборов 支付成功 к вокзалу, 即可扣费 и сборов 商品价格不含通信费 юаней. 4. для 部分省份“赠送”“返还”的话费不可用于购买商品 юаней. 如 : в 北京 лекарствоведения 黑龙江等 юаней. 5. при реализации 中国移动通信账户支付客服电话 : в 4006125880 (в 只收市话费 к вокзалу, 无长途话费) и сборов 125880 (в 只支持移动手机 к вокзалу, 0.3元/分 к вокзалу, 无长途话费) и 6 лекарствоведения 按次产品无需退订 и сборов 包月产品如需退订 к вокзалу, 请发送0000到10658008"</string>
+     <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击'购买完成'。谢谢！"</string>
      <string name="hfb_main_title">订单支付</string>
      <string name="hfb_network_progress">正在请求订单 к вокзалу, 请保持网络通畅</string>
      <string name="hfb_order_price">订单价格 : в</string>
@@ -177,7 +175,6 @@
      <string name="linkpay_charge_operating">充值操作</string>
      <string name="linkpay_charge_platform">充值平台</string>
      <string name="linkpay_china_unicom">中国联通</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="linkpay_china_unicom_english">China Unicom</string>
      <string name="linkpay_china_unicom_sms_pay">联通短信支付</string>
      <string name="linkpay_chinamobile">移动</string>
@@ -311,7 +308,6 @@
      <string name="micloud_account_name">Xiaomi счета</string>
      <string name="micloud_account_not_actived">Аккаунт не активирован</string>
      <string name="micloud_active_email_sent_1">Мы отправили на ссылку для активации вашей электронной почты:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="micloud_active_email_sent_2">null</string>
      <string name="micloud_active_email_visit">Посетите %s</string>
      <string name="micloud_active_sms_status_wait">Пожалуйста, подождите минуту...</string>
@@ -335,27 +331,18 @@
      <string name="micloud_use_existing">Существующих</string>
      <string name="micloud_val_sms_alert">SMS-сообщение будет отправлено, чтобы проверить свой номер телефона. Продолжить?</string>
      <string name="micloud_welcome_skip_login"><u>Пропустите этот шаг,</u></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mili_center">MiCredit</string>
      <string name="miui_copyright_title">Авторское право</string>
      <string name="miui_mibi_license_title">Ми Кредитной пользовательского соглашения</string>
      <string name="miui_privacy_policy_title">Политики конфиденциальности</string>
      <string name="miui_user_agreement_title">Пользовательское соглашение</string>
      <string name="miui_user_manual_title">Руководство пользователя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Топ-неудавшиеся</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_1_1">1.</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 2
-	%s: 0 must: 0
-	%d: 0 must: 2 -->
-     <!-- Original string: Topping up via text maybe more expensive: &lt;font color=red>￥%1$d = %2$d MiCredit&lt;/font> -->
      <string name="msg_picker_hint_1_2">Пополнение через SMS-может быть, дороже: </string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_2_1">2.</string>
      <string name="msg_picker_hint_2_2">Носители заряда японская%1$s плата за обслуживание в top-up</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_picker_hint_3_1">3.</string>
      <string name="msg_picker_hint_3_2">Максимальное ежемесячное пополнение: японская%1$s</string>
      <string name="msg_send_no_net_error">"Не удалось отправить сообщение: не удалось подключиться к сети провайдера."</string>
@@ -371,10 +358,6 @@
      <string name="msg_telecom_picker_hint_2_2">Вы получите текст подтверждения в ближайшее время.</string>
      <string name="msg_telecom_sending">Обращение в сети провайдера...</string>
      <string name="next">Далее</string>
-     <!-- The count of MNPS does not match! Now: 1 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Signin error for %1$s -->
      <string name="notification_title">Signin ошибка"% 1$s</string>
      <string name="open_wifi_settings">Откройте сетевые подключения</string>
      <string name="order_price">%1$s MiCredits</string>
@@ -396,10 +379,6 @@
      <string name="prepaid_password_edit_hint">Пароль</string>
      <string name="prepaid_picker_hint_1_2">Поддерживает только один-время заряда</string>
      <string name="prepaid_picker_hint_2_2_a">"Выбранного номинального значения должно осуществляться в соответствии с карты предоплаты. Выбор другого значения приведет к аннулированию карты. Это действие не может быть отменено."</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: If the nominal value of the prepaid card is not &lt;font color=red>￥%1$s&lt;/font>, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error. -->
      <string name="prepaid_picker_hint_2_2_b">Если Номинальная стоимость карты предоплаты не </string>
      <string name="prepaid_picker_title_default">Выберите сумму</string>
      <string name="prepaid_picker_title_selected">сумма</string>
@@ -420,22 +399,12 @@
      <string name="progress_submit_hint">Top-up будут отражены в баланс на вашем счете в течение 3 минут.</string>
      <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits.</string>
      <string name="progress_submit_title">Ходатайство</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 2
-	%s: 1 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s MiCredits recharged，%2$s MiCredits paied -->
      <string name="progress_success_pay_summary" formatted="false">%1$s MiCredits заряжается к вокзалу,% 2$s ограничивался MiCredits</string>
      <string name="progress_success_pay_title">%1$s MiCredit совершения платежа</string>
      <string name="progress_success_recharge_summary">Баланс счета: %1$s MiCredits.</string>
      <string name="progress_success_recharge_title">%1$s MiCredit топ-до полного</string>
      <string name="progress_voucher_creating">Пополнение MiCredit карты...</string>
      <string name="progress_warning_check">"Платеж еще не пришел в свой аккаунт еще. Мы будем проверять снова в течение двух рабочих дней."</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 2
-	%s: 1 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: "Payment still hasn't reached your account. 
-1. Please contact our Shenzhou customer service center：%1$s 
-2. When prompted, provide the serial number: %2$s." -->
      <string name="progress_warning_contact_server" formatted="false">"Платеж еще не достиг своего счета. 1. Пожалуйста, свяжитесь с нашим " Шэньчжоу обслуживания клиентов центра:% 1$s 2. При появлении соответствующего запроса введите серийный номер: %2$s."</string>
      <string name="progress_warning_waiting">"Платеж еще не пришел в ваш аккаунт еще не было".</string>
      <string name="quick_login_title">"Требуется проверка подлинности. Пожалуйста, введите свой пароль"</string>
@@ -470,7 +439,6 @@
      <string name="skip_setup_account_title">Пропустить Настройка учетной записи</string>
      <string name="title_discounts">Скидки</string>
      <string name="title_giftcard">Промо-акции</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_mili_center">MiCredits</string>
      <string name="title_pay_record">Платежные документы</string>
      <string name="title_recharge">Пополнить MiCredit</string>

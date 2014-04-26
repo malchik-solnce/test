@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string-array name="alphabet_table">
         <item>А</item>
@@ -32,19 +32,23 @@
         <item>Я</item>
      </string-array>
      <string-array name="hotrank_second_tab">
-        <item>Популярное</item>
+        <item>Самое популярное</item>
         <item>Еще популярное</item>
      </string-array>
      <string-array name="map_app_name">
-        <item>Google</item>
+        <item>Google?</item>
         <item>Baidu</item>
+     </string-array>
+     <string-array name="map_app_package">
+        <item>com.autonavi.minimap</item>
+        <item>com.baidu.BaiduMap</item>
      </string-array>
      <string-array name="normal_status">
         <item>Ничего</item>
-        <item>Новое</item>
+        <item>Новый</item>
         <item>Возвращенный</item>
         <item>Использованный</item>
         <item>已过期/可退款</item>
-        <item>Истекшие</item>
+        <item>Истекший</item>
      </string-array>
 </resources>

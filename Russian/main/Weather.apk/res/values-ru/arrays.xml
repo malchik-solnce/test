@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with CloudBuildr -->
+<!-- Builded with NXT -->
 <resources>
      <string-array name="act_weather_main_listview_json_key">
         <item>wind1</item>
@@ -62,7 +62,6 @@
         <item>Poor conditions</item>
         <item>Average conditions</item>
      </string-array>
-     <!-- The size of the array does not match! Now: 24 must: 26 -->
      <string-array name="weather_image">
         <item>Ясно</item>
         <item>Облачно</item>
