@@ -2,10 +2,10 @@
 <!-- Builded with NXT -->
 <resources>
      <plurals name="webview_last_num_days">
-        <item quantity="other">Last %d days</item>
+        <item quantity="other">Последние %d дней</item>
      </plurals>
      <plurals name="webview_matches_found">
-        <item quantity="one">1 match</item>
-        <item quantity="other">%1$d of %2$d</item>
+        <item quantity="one">Совпадений: 1</item>
+        <item quantity="other">%1$d из %2$d</item>
      </plurals>
 </resources>

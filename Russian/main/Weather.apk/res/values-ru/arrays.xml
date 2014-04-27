@@ -13,7 +13,7 @@
      </string-array>
      <string-array name="act_weather_main_listview_key">
         <item>Ветер:　　</item>
-        <item>UV index:　</item>
+        <item>УФ-индекс:　</item>
         <item>Clothing:</item>
         <item>Comfort:</item>
         <item>Car wash index:</item>
@@ -79,6 +79,7 @@
         <item>Метель</item>
         <item>Снег</item>
         <item>Сильный снег</item>
+		<item>Снег</item>
         <item>Легкий снег</item>
         <item>Снег с ветром</item>
         <item>Пыльный шторм</item>
@@ -86,6 +87,7 @@
         <item>Умеренная пыль</item>
         <item>Пыль</item>
         <item>Град</item>
+		<item>Туман</item>
      </string-array>
      <string-array name="weather_image_tips">
         <item></item>
@@ -114,17 +116,17 @@
      </string-array>
      <string-array name="weather_info_comfort">
         <item>0</item>
-        <item>Unavailable</item>
+        <item>Недоступно</item>
         <item>20</item>
-        <item>Temperature will be stable</item>
+        <item>Температура будет стабильной</item>
         <item>21</item>
-        <item>Cool and comfortable</item>
+        <item>Прохладно и удобно</item>
         <item>22</item>
-        <item>Temperature will be volatile</item>
+        <item>Температура будет нестабильной</item>
         <item>23</item>
-        <item>Clear skies, uncomfortable conditions</item>
+        <item>Ясное небо, неудобные условия</item>
         <item>24</item>
-        <item>Hot and humid! :(</item>
+        <item>Жарко и влажно! :(</item>
      </string-array>
      <string-array name="weather_info_dress">
         <item>0</item>
@@ -140,13 +142,13 @@
         <item>15</item>
         <item>Light jacket</item>
         <item>16</item>
-        <item>Remember to bring additional layers!</item>
+        <item>Не забудьте одень дополнительные вещи</item>
         <item>17</item>
-        <item>Bring a jacket!</item>
+        <item>Оденьте жакет!</item>
         <item>18</item>
-        <item>Bundle up!</item>
+        <item>Укутайтесь!</item>
         <item>19</item>
-        <item>Bundle up!</item>
+        <item>Укутайтесь!</item>
      </string-array>
      <string-array name="weather_info_fl">
         <item></item>

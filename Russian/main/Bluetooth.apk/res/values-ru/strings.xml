@@ -27,7 +27,7 @@
      <string name="deleteAll_record">Удалить все записи</string>
      <string name="delete_record">Удалить запись</string>
      <string name="download_cancel">Остановить</string>
-     <string name="download_fail_line1">Файл не получен.</string>
+     <string name="download_fail_line1">Файл не получен</string>
      <string name="download_fail_line2">Файл: %1$s</string>
      <string name="download_fail_line3">Причина ошибки: %1$s</string>
      <string name="download_fail_ok">ОК</string>
@@ -40,7 +40,7 @@
      <string name="download_succ_ok">Открыть</string>
      <string name="download_success">Получено: %1$s</string>
      <string name="download_title">Передача файла</string>
-     <string name="empty_file_notification_sent">Bluetooth share: Remote rejected zero length file %1$s</string>
+     <string name="empty_file_notification_sent">Bluetooth передача: Remote rejected zero length file %1$s</string>
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
      <string name="format_progress_text">%1$d%%</string>
@@ -60,9 +60,9 @@
      <string name="incoming_file_toast_msg">Входящий файл с другого устройства. Подтвердите получение этого файла.</string>
      <string name="insert_record">Вставить запись</string>
      <string name="localPhoneName">Мое название</string>
-     <string name="miui_transfer_history_title">Bluetooth transfers</string>
-     <string name="miui_transfer_inbound_title">Inbound</string>
-     <string name="miui_transfer_outbound_title">Outbound</string>
+     <string name="miui_transfer_history_title">Bluetooth передачи</string>
+     <string name="miui_transfer_inbound_title">Входящие</string>
+     <string name="miui_transfer_outbound_title">Исходящие</string>
      <string name="no_transfers">История передач пуста</string>
      <string name="not_exist_file">Файл не существует</string>
      <string name="not_exist_file_desc">"Файл не существует! 

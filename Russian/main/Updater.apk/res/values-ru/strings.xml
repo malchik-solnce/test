@@ -57,7 +57,7 @@
      <string name="file_not_found_error_message">Запрошенный файл не найден</string>
      <string name="finish">Готово</string>
      <string name="finish_download">Скачивание завершено</string>
-     <string name="fourgrid_hint_text">Thank you for using the developer build of MIUI. Расскажите, пожалуйста, что Вы думаете и помогите сделать MIUI лучше.</string>
+     <string name="fourgrid_hint_text">Спасибо за использование MIUI версии для разработчикв. Расскажите, пожалуйста, что Вы думаете и помогите сделать MIUI лучше.</string>
      <string name="fourgrid_no_notificaiont">Не показывать в статус-баре</string>
      <string name="fourgrid_notificaiont">Показывать с статус-баре</string>
      <string name="get_update_error">Не удалось получить информацию об обновлении</string>
@@ -98,7 +98,7 @@
      <string name="no_updates_warning2">Нет новых версий</string>
      <string name="not_recommend">"Не рекомендую"</string>
      <string name="now">Перезагрузить</string>
-     <string name="paused_queued_for_network">Waiting for network connection</string>
+     <string name="paused_queued_for_network">Ожидание подключения к сети</string>
      <string name="paused_queued_for_wifi">Ожидание сети Wi-Fi</string>
      <string name="previous">Назад</string>
      <string name="reboot_later">Позже</string>
@@ -129,7 +129,7 @@
 Более %2$s пользователей используют в MIUI %3$s"</string>
      <string name="sign_in_info_total_more">"Статус обновления: %1$s
 Более %2$s пользователей используют MIUI %3$s"</string>
-     <string name="sina_share_fail">Sending failed!</string>
+     <string name="sina_share_fail">Ошибка отправки</string>
      <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Отправлено!</string>
      <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
@@ -140,13 +140,13 @@
      <string name="submit_fail">Ошибка подтверждения</string>
      <string name="submit_progress">Подтверждение…</string>
      <string name="submit_success">Отправлено!</string>
-     <string name="system_backup_apply_helper">Устройство будет перезагружено для применения обновления после завершения бэкапа</string>
+     <string name="system_backup_apply_helper">Устройство автоматически перезагрузится после применения обновления</string>
      <string name="system_backup_ask">Всегда спрашивать</string>
      <string name="system_backup_button_text">Выполнить резервное копирование системы перед обновлением</string>
      <string name="system_backup_cancel_text">Обновить</string>
      <string name="system_backup_download_helper">Устройство будет перезагружено и обновится когда загрузка завершится</string>
      <string name="system_backup_error_message">Ошибка резервного копирования системы</string>
-     <string name="system_backup_helper">"Normally, updating MIUI won't affect your phone's internal storage, but we suggest that you back up your phone before applying an update do avoid potential data loss."</string>
+     <string name="system_backup_helper">Рекомендуется сделать резервную копию Ваших данных</string>
      <string name="system_backup_ok_text">Бэкап</string>
      <string name="top_secret_build">Секретная сборка</string>
      <string name="unstable_build">Нестабильная сборка</string>

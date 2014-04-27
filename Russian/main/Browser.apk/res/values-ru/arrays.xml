@@ -4,12 +4,12 @@
      <string-array name="bookmarks">
         <item>Google</item>
         <item>http://www.google.com/</item>
-        <item>Picasa</item>
-        <item>http://picasaweb.google.com/</item>
+        <item>VK</item>
+        <item>http://vk.com/</item>
         <item>Yahoo!</item>
         <item>http://www.yahoo.com/</item>
-        <item>MSN</item>
-        <item>http://www.msn.com/</item>
+        <item>DimonVideo.Ru</item>
+        <item>http://m.dimonvideo.ru/</item>
         <item>Twitter</item>
         <item>http://twitter.com/</item>
         <item>Facebook</item>
@@ -18,8 +18,8 @@
         <item>http://www.wikipedia.org/</item>
         <item>eBay</item>
         <item>http://www.ebay.com/</item>
-        <item>CNN</item>
-        <item>http://www.cnn.com/</item>
+        <item>Romz.Bz</item>
+        <item>http://www.romz.bz/</item>
         <item>NY Times</item>
         <item>http://www.nytimes.com/</item>
         <item>ESPN</item>
@@ -40,87 +40,71 @@
         <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
      </string-array>
      <string-array name="menu_theme_setting">
-        <item>White</item>
-        <item>Yellow</item>
-        <item>Grey</item>
-        <item>Brown</item>
-        <item>Green</item>
-        <item>Blue</item>
-        <item>Dark</item>
-     </string-array>
-     <string-array name="pre_webapp_text_size_values">
-        <item>150</item>
-        <item>125</item>
-        <item>100</item>
-        <item>75</item>
+        <item>Белая</item>
+        <item>Желтая</item>
+        <item>Серая</item>
+        <item>Коричневая</item>
+        <item>Зеленая</item>
+        <item>Синяя</item>
+        <item>Темная</item>
      </string-array>
      <string-array name="pref_content_plugins_choices">
-        <item>Always on</item>
-        <item>Ask me first</item>
-        <item>Off</item>
+        <item>Да</item>
+        <item>По требованию</item>
+        <item>Нет</item>
      </string-array>
      <string-array name="pref_data_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
      </string-array>
      <string-array name="pref_default_text_encoding_choices">
-        <item>Latin-1 (ISO-8859-1)</item>
-        <item>Unicode (UTF-8)</item>
-        <item>Chinese (GBK)</item>
-        <item>Chinese (Big5)</item>
-        <item>Japanese (ISO-2022-JP)</item>
-        <item>Japanese (SHIFT_JIS)</item>
-        <item>Japanese (EUC-JP)</item>
-        <item>Korean (EUC-KR)</item>
+        <item>Латиница (ISO-8859-1)</item>
+        <item>Юникод (UTF-8)</item>
+        <item>Китайская (GBK)</item>
+        <item>Китайская (Big5)</item>
+        <item>Японская (ISO-2022-JP)</item>
+        <item>Японская (SHIFT_JIS)</item>
+        <item>Японская (EUC-JP)</item>
+        <item>Корейская (EUC-KR)</item>
      </string-array>
      <string-array name="pref_default_zoom_choices">
-        <item>Small</item>
-        <item>Medium</item>
-        <item>Large</item>
+        <item>Мелкий</item>
+        <item>Средний</item>
+        <item>Крупный</item>
      </string-array>
      <string-array name="pref_fling_on_border_choices">
-        <item>Page forward/backward</item>
-        <item>Switch window</item>
+        <item>Переключение страниц</item>
+        <item>Переключение окон</item>
      </string-array>
      <string-array name="pref_homepage_choices">
-        <item>Default start page</item>
-        <item>Custom</item>
+        <item>Стартовая страница</item>
+        <item>Пользовательская</item>
      </string-array>
      <string-array name="pref_images_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
      </string-array>
      <string-array name="pref_link_prefetch_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
      </string-array>
      <string-array name="pref_text_size_choices">
-        <item>Tiny</item>
-        <item>Small</item>
-        <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Мелкий</item>
+        <item>Маленький</item>
+        <item>Средний</item>
+        <item>Большой</item>
+        <item>Огромный</item>
      </string-array>
      <string-array name="pref_video_preload_choices">
-        <item>Never</item>
-        <item>Only on WLAN</item>
-        <item>Always</item>
+        <item>Никогда</item>
+        <item>Только по Wi-Fi</item>
+        <item>Всегда</item>
      </string-array>
      <string-array name="pref_volume_key_choices">
-        <item>Previous page/Next page</item>
-        <item>Previous tab/Next tab</item>
-     </string-array>
-     <string-array name="search_bar_search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
-     </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
+        <item>Переключение страниц</item>
+        <item>Переключение вкладок</item>
      </string-array>
 </resources>

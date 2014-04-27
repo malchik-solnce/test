@@ -3,5 +3,5 @@
 <resources>
      <string name="crop_wallpaper">Кадрировать обои</string>
      <string name="wallpaper_instructions">Установить обои</string>
-     <string name="wallpaper_load_fail">"Couldn't load image as wallpaper"</string>
+     <string name="wallpaper_load_fail">Не удалось загрузить картинку на рабочий стол</string>
 </resources>
