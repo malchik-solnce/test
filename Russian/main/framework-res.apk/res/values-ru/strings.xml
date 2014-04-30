@@ -42,7 +42,7 @@
      <string name="action_bar_home_description_format">%1$s, %2$s</string>
      <string name="action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
      <string name="action_bar_up_description">Перейти вверх</string>
-     <string name="action_menu_overflow_description">Ещё</string>
+     <string name="action_menu_overflow_description">Еще</string>
      <string name="action_mode_done">Готово</string>
      <string name="activity_chooser_view_dialog_title_default">Выберите</string>
      <string name="activity_chooser_view_see_all">Показать все</string>
@@ -161,7 +161,7 @@
      <string name="capital_off">ВЫКЛ</string>
      <string name="capital_on">ВКЛ</string>
      <string name="car_mode_disable_notification_message">Чтобы выйти, нажмите здесь</string>
-     <string name="car_mode_disable_notification_title">Включен режим \"Штурман\"</string>
+     <string name="car_mode_disable_notification_title">Включен режим \"В автомобиле\"</string>
      <string name="cfTemplateForwarded">{0}: {1}</string>
      <string name="cfTemplateForwardedTime">{0}: {1} через {2} с.</string>
      <string name="cfTemplateNotForwarded">{0}: не переадресовано</string>
@@ -205,9 +205,9 @@
      <string name="configure_input_methods">Настройка способов ввода</string>
      <string name="contentServiceSync">Синхр.</string>
      <string name="contentServiceSyncNotificationTitle">Синхр.</string>
-     <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много удалений %s.</string>
+     <string name="contentServiceTooManyDeletesNotificationDesc">Слишком много удалений %s</string>
      <string name="content_description_sliding_handle">Перетаскиваемый значок блокировки. Нажмите и удерживайте.</string>
-     <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility.</string>
+     <string name="continue_to_enable_accessibility">Keep holding down two fingers to enable accessibility</string>
      <string name="copy">Копировать</string>
      <string name="copyUrl">Копировать URL</string>
      <string name="create_contact_using">"Создать контакт
@@ -320,8 +320,8 @@
      <string name="extract_edit_menu_button">Изменить</string>
      <string name="faceunlock_multiple_failures">Все попытки войти с помощью Фейсконтроля использованы</string>
      <string name="factorytest_failed">Не удалось провести стандартный тест</string>
-     <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден.</string>
-     <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для пакетов, установленных в /system/app.</string>
+     <string name="factorytest_no_action">Пакет, обеспечивающий действие FACTORY_TEST, не найден</string>
+     <string name="factorytest_not_system">Действие FACTORY_TEST поддерживается только для пакетов, установленных в /system/app</string>
      <string name="factorytest_reboot">Перезагрузка</string>
      <string name="fast_scroll_alphabet">" АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
      <string name="fast_scroll_numeric_alphabet">" 0123456789АБВГДЕЖЗИКЛМНОПРСТУФХЦЧШЩЭЮЯ"</string>
