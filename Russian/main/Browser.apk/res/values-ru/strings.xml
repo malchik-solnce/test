@@ -440,11 +440,6 @@
      <string name="pref_video_preload_title">Загрузка видео</string>
      <string name="pref_volume_key_enabled">Кнопки громкости</string>
      <string name="pref_volume_key_operation">Действие для кнопок громкости</string>
-     <string name="pref_webapp_settings_fontsize_key">pref_webapp_settings_fontsize_key</string>
-     <string name="pref_webapp_settings_hidebottombar_key">pref_webapp_settings_hidebottombar_key</string>
-     <string name="pref_webapp_settings_nightmode_key">pref_webapp_settings_nightmode_key</string>
-     <string name="pref_webapp_settings_savewidth_key">pref_webapp_settings_savewidth_key</string>
-     <string name="pref_webapp_settings_wifisave_key">pref_webapp_settings_wifisave_key</string>
      <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
      <string name="preview">Предварительный просмотр</string>
      <string name="profiler_error_toast">Не удалось запустить профайлер</string>
@@ -497,25 +492,10 @@
      <string name="search">Поиск</string>
      <string name="search_button_text">Поиск</string>
      <string name="search_cancel">Отмена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_dianping">Cate</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_easou">Easou</string>
      <string name="search_hint">Поиск</string>
      <string name="search_label">Браузер</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_s139">139</string>
      <string name="search_settings_description">Закладки и история поиска</string>
      <string name="search_shipin">Видео</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_sogou">Sogou</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_taobao">Taobao</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_tupian">Image</string>
-     <string name="search_yahoo">Yahoo!</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_yicha">Yicha</string>
      <string name="security_warning">Угроза безопасности</string>
      <string name="select_dot">Выбрать текст</string>
      <string name="send_bookmark_to_home_screen">Создать ярлык на рабочем столе</string>
@@ -545,10 +525,8 @@
      <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизировать открытые вкладки на различных устройствах</string>
      <string name="sub_sync_item_browser_title_history">Синхр. истории</string>
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sub_sync_item_browser_title_novel">Sync novels</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sub_sync_item_browser_title_novel_summary">Sync novels of browser</string>
+	 <string name="sub_sync_item_browser_title_novel">Синхр. книг</string>
+     <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
      <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_history">История</string>
@@ -577,14 +555,6 @@
      <string name="username">Имя</string>
      <string name="view_certificate">Просмотреть сертификат</string>
      <string name="warning">Внимание</string>
-     <string name="webapp_app0">miui.browser.webapps.app.WebApps$App0</string>
-     <string name="webapp_app1">miui.browser.webapps.app.WebApps$App1</string>
-     <string name="webapp_app2">miui.browser.webapps.app.WebApps$App2</string>
-     <string name="webapp_app3">miui.browser.webapps.app.WebApps$App3</string>
-     <string name="webapp_app4">miui.browser.webapps.app.WebApps$App4</string>
-     <string name="webapp_app5">miui.browser.webapps.app.WebApps$App5</string>
-     <string name="webapp_autohority">miui.mibrowser.webapps;mibrowser</string>
-     <string name="webapp_pref_addtodesktop_popover">webapp_pref_addtodesktop_popover</string>
      <string name="website_settings_clear_all">Удалить все</string>
      <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
      <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о Вашем местоположении?</string>
@@ -605,7 +575,6 @@
      <string name="webview_js_dialog_before_unload_positive_button">Покинуть</string>
      <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
      <string name="webview_js_dialog_title">Страница \"%s\" сообщает:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="webview_js_dialog_title_default">JavaScript</string>
      <string name="webview_last_month">В прошлом месяце</string>
      <string name="webview_no_matches">Нет совпадений</string>

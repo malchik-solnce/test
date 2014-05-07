@@ -39,17 +39,12 @@
      <string name="channel_postfix">МГЦ</string>
      <string name="choose_download_quality">Выберите качество скачавания</string>
      <string name="choose_stream_quality">Выберите качество потока</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="click_to_play_all">Click to play all</string>
+     <string name="click_to_play_all">Нажмите для воспроизведения</string>
      <string name="click_to_shuffle">Коснитесь для перемешивания</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="collect_bill_success">Bill added to favorites</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="collect_fm_success">Added to favorites</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="collect_topic_success">Album added to favorites</string>
+     <string name="collect_bill_success">Добавлено в избранное</string>
+     <string name="collect_fm_success">Добавлено в избранное</string>
+     <string name="collect_topic_success">Альбом добавлен в избранное</string>
      <string name="complete">Готово</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
      <string name="correct_id3_by_internet">Получить инфо о треке</string>
      <string name="correct_id3_failed">Ошибка обновления информации</string>
@@ -73,14 +68,12 @@
      <string name="deselect_all">Отмена</string>
      <string name="dirac_mode_earbuds">Гарнитура</string>
      <string name="dirac_mode_general">Общие</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dirac_mode_general_earbuds">General earbuds</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dirac_mode_general_inear">General inear</string>
-     <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
-     <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
-     <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
-     <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+     <string name="dirac_mode_general_earbuds">Обычные наушники</string>
+     <string name="dirac_mode_general_inear">Обычные вкладыши</string>
+     <string name="dirac_mode_in_ear">Наушники Xiaomi</string>
+     <string name="dirac_mode_piston_100">Пистоны Xiaomi 1</string>
+     <string name="dirac_mode_piston_2">Пистоны Xiaomi 2</string>
+     <string name="dirac_mode_piston_youth">Бюджетные пистоны Xiaomi</string>
      <string name="disconnect">Отключено</string>
      <string name="download">Загрузить</string>
      <string name="download_album_settings">Загружать обложки</string>
@@ -175,13 +168,11 @@
      <string name="load_bill_in_process">Загрузка списка Billboard…</string>
      <string name="load_channel_failed">Не удалось загрузить</string>
      <string name="load_channel_in_process">Загрузка…</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="load_recommend_failed">List failed to load</string>
-     <string name="load_recommend_in_process">Loading…</string>
+	 <string name="load_recommend_failed">Ошибка загрузки списка</string>
+     <string name="load_recommend_in_process">Загрузка…</string>
      <string name="loading">Загрузка…</string>
      <string name="login">Войти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="login_and_enable">Sign in and sync</string>
+     <string name="login_and_enable">Синхронизировать</string>
      <string name="login_first">Сначала войдите в аккаунт Xiaomi</string>
      <string name="lrc_progress_modify">Настройка скорости прокрутки текста</string>
      <string name="lrc_progress_modify_helper">Регулировка скорости прокрутки текста</string>
@@ -224,8 +215,7 @@
      <string name="no_song_downloaded">Нет песен для загрузки</string>
      <string name="normal_quality">Хорошее качество</string>
      <string name="not_login">Войти</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="not_now">Not now</string>
+     <string name="not_now">Не сейчас</string>
      <string name="not_selected">Пожалуйста, выберите песню</string>
      <string name="number_format" formatted="false">%s.%s</string>
      <string name="online_search_hint">Поиск музыки онлайн</string>
@@ -319,14 +309,10 @@
      <string name="start_to_download_album">Загрузка обложки альбома…</string>
      <string name="start_to_download_avatar">Загрузка аватара исполнителя…</string>
      <string name="streamloadingtext">Подключение к %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_alert_message">Sync your favourite songs across devices with your Mi Account.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_alert_title">Sync music</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_disable_toast">You can always enable sync later in Settings > Accounts > Mi Cloud</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="sync_enable_toast">You can change this setting in Settings > Accounts > Mi Cloud</string>
+     <string name="sync_alert_message">Синхронизировать музыку с MiCloud</string>
+     <string name="sync_alert_title">Синхронизация музыки</string>
+     <string name="sync_disable_toast">Вы можете включить синхронизацию музыки в настройках > аккаунты > MiCloud</string>
+     <string name="sync_enable_toast">Вы можете изменить параметры сихронизации в настройках > аккаунты > MiCloud</string>
      <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
      <string name="track_bit_rate_hd">Высокое</string>
@@ -335,8 +321,7 @@
      <string name="track_edit">Песня</string>
      <string name="tracks_title">Все песни</string>
      <string name="ultra_high_quality">Наилучшее качество</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="uncollect_success">Removed from favorites</string>
+     <string name="uncollect_success">Удалено из избранного</string>
      <string name="unknown_album_name">Неизвестный альбом</string>
      <string name="unknown_artist_name">Неизвестный исполнитель</string>
      <string name="use_local_album">Установить обложку альбома</string>

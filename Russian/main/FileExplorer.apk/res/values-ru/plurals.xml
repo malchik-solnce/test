@@ -1,29 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <!-- The size of the array does not match! Now: 3 must: 7 -->
      <plurals name="delete_files_confirm">
-        <item quantity="one">Delete 1 file</item>
-        <item quantity="other">Delete %1$d files</item>
+        <item quantity="other">Удалить файлы: %1$d</item>
+		<item quantity="zero">Удалить файлы: %1$d</item>
+        <item quantity="one">Удалить файлы: %1$d</item>
+		<item quantity="two">Удалить файлы: %1$d</item>
+        <item quantity="few">Удалить файлы: %1$d</item>
+        <item quantity="many">Удалить файлы: %1$d</item>
      </plurals>
-     <!-- The size of the array does not match! Now: 3 must: 7 -->
      <plurals name="delete_folders_confirm">
-        <item quantity="one">" and 1 folder?"</item>
-        <item quantity="other">" and %1$d folders?"</item>
+        <item quantity="other">" и папки: %1$d?"</item>
+		<item quantity="zero">" и папки: %1$d?"</item>
+        <item quantity="one">" и папки: %1$d?"</item>
+		<item quantity="two">" и папки: %1$d?"</item>
+        <item quantity="few">" и папки: %1$d?"</item>
+        <item quantity="many">" и папки: %1$d?"</item>
      </plurals>
-     <!-- The size of the array does not match! Now: 3 must: 7 -->
      <plurals name="directory_item_count">
-        <item quantity="one">1 item</item>
-        <item quantity="other">%d items</item>
+        <item quantity="other">файлов: %d</item>
+		<item quantity="zero">файлов: %d</item>
+        <item quantity="one">файлов: %d</item>
+		<item quantity="two">файлов: %d</item>
+        <item quantity="few">файлов: %d</item>
+        <item quantity="many">файлов: %d</item>
      </plurals>
-     <!-- The size of the array does not match! Now: 3 must: 7 -->
-     <plurals name="ui_bar_txt_download_progress">
-        <item quantity="one">1 file left to download</item>
-        <item quantity="other">%1$d files left to download</item>
+	 <plurals name="ui_bar_txt_download_progress">
+        <item quantity="other">Осталось скачать файлов: %1$d</item>
+		<item quantity="zero">Осталось скачать файлов: %1$d</item>
+        <item quantity="one">Осталось скачать файлов: %1$d</item>
+		<item quantity="two">Осталось скачать файлов: %1$d</item>
+        <item quantity="few">Осталось скачать файлов: %1$d</item>
+        <item quantity="many">Осталось скачать файлов: %1$d</item>
      </plurals>
-     <!-- The size of the array does not match! Now: 3 must: 7 -->
      <plurals name="ui_bar_txt_upload_progress">
-        <item quantity="one">1 file left to upload</item>
-        <item quantity="other">%1$d files left to upload</item>
+        <item quantity="other">Осталось загрузить файлов: %1$d</item>
+		<item quantity="zero">Осталось загрузить файлов: %1$d</item>
+        <item quantity="one">Осталось загрузить файлов: %1$d</item>
+		<item quantity="two">Осталось загрузить файлов: %1$d</item>
+        <item quantity="few">Осталось загрузить файлов: %1$d</item>
+        <item quantity="many">Осталось загрузить файлов: %1$d</item>
      </plurals>
 </resources>

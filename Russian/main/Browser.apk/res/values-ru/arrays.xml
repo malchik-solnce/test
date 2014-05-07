@@ -40,12 +40,6 @@
         <item>Синяя</item>
         <item>Темная</item>
      </string-array>
-     <string-array name="pre_webapp_text_size_values">
-        <item>150</item>
-        <item>125</item>
-        <item>100</item>
-        <item>75</item>
-     </string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Да</item>
         <item>По требованию</item>
@@ -104,10 +98,5 @@
      <string-array name="pref_volume_key_choices">
         <item>Переключение страниц</item>
         <item>Переключение вкладок</item>
-     </string-array>
-     <string-array name="search_engines_default">
-        <item>google</item>
-        <item>yahoo</item>
-        <item>bing</item>
      </string-array>
 </resources>

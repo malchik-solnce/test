@@ -62,9 +62,8 @@
      <string name="beautyphone">Beauty phone</string>
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
-     <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bigscreen_video_quit">Click to quit video playing</string>
+     <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения</string>
+     <string name="bigscreen_video_quit">Нажмите, чтобы выйти</string>
      <string name="browse_category">Просмотр изображений</string>
      <string name="by_email">Почта</string>
      <string name="by_others">Другое</string>
@@ -853,16 +852,12 @@
      <string name="comfirm_delete_current_album">Удалить текущий альбом?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm">OK</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: Delete %s? -->
-     <string name="confirm_delete">Удалить выбранное?</string>
+     <string name="confirm_delete">Удалить выбранные файлы? (%s)</string>
      <string name="confirm_delete_album" formatted="false">"Удалить выбранные альбомы с фото?
 
 Альбомов:%s
 Фото: %s"</string>
-     <string name="confirm_delete_home_merge_item">Delete %s picture(s) in local and cloud?</string>
+     <string name="confirm_delete_home_merge_item">Удалить выбранные изображения (%s) с устройства и облака?</string>
      <string name="confirm_delete_pictures">%s фотографий</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить?</string>
      <string name="confirm_delete_this_picture">Удалить это изображение?</string>
@@ -901,13 +896,11 @@
      <string name="demo_video_folder_display_name">Демо-видео</string>
      <string name="deny">Отклонить</string>
      <string name="description">Описание</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="deselect_all">Deselect all</string>
+     <string name="deselect_all">Снять все</string>
      <string name="details">Сведения</string>
      <string name="details_sharer">Отправитель</string>
      <string name="details_title">%1$d из %2$d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="device_model">Device</string>
+     <string name="device_model">Устройство</string>
      <string name="directory_info_divider">"  |  "</string>
      <string name="documentary">Документальные</string>
      <string name="done">Готово</string>
@@ -927,17 +920,16 @@
      <string name="enter_email_hint">Введите адрес E-mail</string>
      <string name="error_album_not_exist">Альбом не существует</string>
      <string name="error_cloud_not_active">Облачный альбом не используется</string>
-     <string name="error_forbidden">There are some problems with your account: Sync disabled.</string>
+     <string name="error_forbidden">Ошибка аккаунта. Синхронизация отключена.</string>
      <string name="error_invalid_link">Ссылка является недействительной. Пусть владелец создаст новую.</string>
-     <string name="error_not_acceptable">Server error: Sync disabled.</string>
+     <string name="error_not_acceptable">Ошибка сервера. Синхронизация отключена.</string>
      <string name="error_repeat_apply">Вы уже поделились альбомом</string>
      <string name="error_share_with_creator">Вы уже пользователь альбома</string>
      <string name="error_should_not_select_image">Пожалуйста, не выбирайте файл изображения</string>
      <string name="error_should_not_select_video">Пожалуйста, не выбирайте видео файл</string>
      <string name="error_socket_timeout">Сетевой тайм-аут. Повторите позже.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="error_title">Sync error</string>
-     <string name="error_unauthorized">Too many sign-in attempts: Sync disabled.</string>
+     <string name="error_title">Ошибка синхронизации</string>
+     <string name="error_unauthorized">Слишком много попыток входа. Синхронизация отключена.</string>
      <string name="error_unknown_host">Сеть не обнаружена</string>
      <string name="exit">Выход</string>
      <string name="exit_share">Закрыть альбом</string>
@@ -952,7 +944,7 @@
      <string name="facetan">Загар</string>
      <string name="fail_hint">Сбой операции</string>
      <string name="fail_init_gallery_db_helper">Ошибка открытия базы данных галереи. Диск полон.</string>
-     <string name="fail_to_download_n_items">Fail to download %s</string>
+     <string name="fail_to_download_n_items">Ошибка загрузки %s</string>
      <string name="fail_to_pick_email">Не выбрано допустимых E-Mail</string>
      <string name="fail_to_sync_album">Не удалось синхронизировать альбом с сервером. Проверьте подключение к сети!</string>
      <string name="file_not_exist_message">Файл не существует</string>
@@ -987,12 +979,9 @@
      <string name="height">Высота</string>
      <string name="highlight">Яркость</string>
      <string name="home_my_captured_items">фото</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="home_page_tab_cloud">Cloud</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="home_page_tab_local">Local</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="home_page_tab_photo">Photo</string>
+     <string name="home_page_tab_cloud">Облако</string>
+     <string name="home_page_tab_local">Устройство</string>
+     <string name="home_page_tab_photo">Фотографии</string>
      <string name="how_many_pics">Фотографий: %d</string>
      <string name="how_many_sub_folders">Папок: %d</string>
      <string name="how_many_videos">Видео: %d</string>
@@ -1052,8 +1041,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mishop_saved_folder_display_name">MiShop</string>
      <string name="miui_capture_screen_folder_display_name">Скриншоты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="modified_time">Modified time</string>
+     <string name="modified_time">Время изменения</string>
      <string name="more">Еще</string>
      <string name="move">Переместить</string>
      <string name="move_to_cloud_album">Переместить</string>
@@ -1107,8 +1095,7 @@
      <string name="photo_page_save_uri_image_fail">Не удалось сохранить фотографию</string>
      <string name="photo_page_save_uri_image_ok">Изображение сохранено в директорию фотокамеры</string>
      <string name="photo_saved">Фотография сохранена в альбоме \"%s\"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="photo_size">Size</string>
+     <string name="photo_size">Размер</string>
      <string name="photoeditor_name">Фотостудия</string>
      <string name="photos">фото</string>
      <string name="pick_too_many_recipients">Слишком много получателей</string>
@@ -1236,8 +1223,7 @@
      <string name="tab_lockscreen_text">На локскрин</string>
      <string name="tab_wallpaper_text">На стол</string>
      <string name="tags">Теги</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="taken_time">Taken time</string>
+     <string name="taken_time">Время съемки</string>
      <string name="temperature">Тепло</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent_mobile_qq_img_save">QQ 2012</string>
@@ -1279,7 +1265,6 @@
      <string name="widget_type_photo">Выберите изображение</string>
      <string name="widget_type_shuffle">Перемешать все изображения</string>
      <string name="width">Ширина</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="yellow_page">Directory</string>
+     <string name="yellow_page">Сервисы</string>
      <string name="yes">Да</string>
 </resources>

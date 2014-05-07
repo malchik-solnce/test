@@ -24,14 +24,6 @@
      <string name="account_folder_list_summary_inbox">Входящие</string>
      <string name="account_folder_list_summary_outbox">Исходящие</string>
      <string name="account_folder_list_summary_starred">Избранные</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_manager_type_exchange">com.android.exchange</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_manager_type_imap">com.android.email</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_manager_type_legacy_imap">com.android.email</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_manager_type_pop3">com.android.email</string>
      <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами</string>
      <string name="account_security_dialog_content_fmt">Для аккаунта %s требуется обновить настройки безопасности</string>
      <string name="account_security_dialog_title">Обновления безопасности</string>
@@ -181,12 +173,6 @@
      <string name="account_setup_username_password_toast">Введите действительный адрес электронной почты и пароль</string>
      <string name="account_setup_username_uneditable_error">Невозможно изменить имя пользователя. Если хотите использовать другое имя, нажмите \"Добавить аккаунт\" и создайте новый аккаунт.</string>
      <string name="account_sync_off">Синхронизация для этого аккаунта отключена</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_type_exchange">Exchange</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_type_imap">Imap</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="account_type_pop3">Pop3</string>
      <string name="account_waiting_for_folders_msg">Загрузка…</string>
      <string name="accounts_welcome">Почта поддерживает большинство популярных почтовых служб</string>
      <string name="actionbar_large_unread_count">Новых: %1$d+</string>
@@ -236,8 +222,6 @@
      <string name="attachments_header">Прикрепленные файлы</string>
      <string name="auth_error_notification_text">Нажмите, чтобы изменить настройки аккаунта %s</string>
      <string name="auth_error_notification_title">Ошибка входа</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="authority_email_provider">com.android.email.provider</string>
      <string name="auto_advance_help_title">"Что показывать после
  удаления писем"</string>
      <string name="auto_advance_label">Автопереход</string>
@@ -319,12 +303,6 @@
      <string name="debug_enable_verbose_logging_label">Включить подробное ведение журнала?</string>
      <string name="debug_title">Выполнить отладку</string>
      <string name="default_">ПО УМОЛЧАНИЮ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_exchange">EXCHANGE</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_imap">IMAP</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_pop3">POP3</string>
      <string name="default_setup">НАСТРОЙКИ ПО УМОЛЧАНИЮ</string>
      <string name="default_signature">Отправлено через Xiaomi</string>
      <string name="delete">Удалить</string>
@@ -353,10 +331,6 @@
      <string name="edit_quick_response_dialog">Быстрый ответ</string>
      <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="email_package_name">com.android.email</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="eml_attachment_provider">com.android.email.provider.eml.attachment</string>
      <string name="empty_email_tip">Не удалось отправить пустое письмо</string>
      <string name="empty_spam">Удалить спам</string>
      <string name="empty_spam_dialog_title">Удалить спам?</string>
@@ -415,15 +389,9 @@
      <string name="hierarchical_folder_top">%1$s∕</string>
      <string name="hint_quick_reply_all">Ответить на все здесь</string>
      <string name="ignore_spam_warning">Я доверяю отправителю</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="imap_name">IMAP</string>
      <string name="inbox_folders_heading">Входящие</string>
      <string name="info">Детали</string>
      <string name="input_password_prompt">Введите пароль:</string>
-     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
-     <string name="intent_exchange_action">com.android.email.EXCHANGE_INTENT</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="intent_exchange_package">com.android.exchange</string>
      <string name="invalid_recipient">Недействительный адрес: %s</string>
      <string name="kilobytes">%s кб</string>
      <string name="label_notification_ticker" formatted="false">%s: %s</string>
@@ -549,7 +517,7 @@
      <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
-     <string name="okay_action">ОК</string>
+     <string name="okay_action">OK</string>
      <string name="other_mail">Другая почта</string>
      <string name="outbox_alert_button_confirm">Изменить</string>
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
@@ -607,12 +575,6 @@
      <string name="policy_require_smime">Требовать сообщения SMIME</string>
      <string name="policy_screen_timeout">Блокировать экран при простое</string>
      <string name="policy_text_truncation">Ограничивать размер текст. эл. сообщения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pop3_name">POP3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="prefDefault_autoAdvance">list</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="prefDefault_removal_action">archive</string>
      <string name="prefDialogTitle_conversationListIcon">Фотографии отправителей</string>
      <string name="prefDialogTitle_removal_action">Я предпочитаю:</string>
      <string name="preference_removal_action_title">Архивация или удаление</string>
@@ -630,14 +592,6 @@
      <string name="previous_action">Назад</string>
      <string name="prompt_title">Совет</string>
      <string name="protocol">Протокол</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="protocol_eas">eas</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="protocol_imap">imap</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="protocol_legacy_imap">imap</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="protocol_pop3">pop3</string>
      <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если Вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер.</string>
      <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
      <string name="pull_to_refresh">Потяните, чтобы обновить</string>
@@ -729,8 +683,6 @@
      <string name="str_select_none">Отменить все</string>
      <string name="subject_and_snippet" formatted="false">%s — %s</string>
      <string name="subject_hint">Тема:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="suggestions_authority">com.android.mail.providers.SuggestionsProvider</string>
      <string name="swipe_down_to_refresh">Потяните вниз, чтобы обновить</string>
      <string name="sync_error">Ошибка синхронизации</string>
      <string name="sync_error_message">Недостаточно места для синхронизации</string>
@@ -781,24 +733,17 @@
 Выберите "<b>Настройки синхронизации</b>, чтобы включить ее, или <b>Синхронизировать сейчас</b>, чтобы синхронизировать почту один раз."</string>
      <string name="wait_for_sync_body">Ваши сообщения загружаются</string>
      <string name="wait_for_sync_body_2">Сервер Exchange спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
+     <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит Вас через</string>
      <string name="wait_for_sync_body_txt_array_2">1–30</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wait_for_sync_body_txt_array_4">system alert</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wait_for_sync_body_txt_array_3">секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на</string>
+     <string name="wait_for_sync_body_txt_array_4">предупреждение системы</string>
      <string name="wait_for_sync_body_txt_array_5">.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
+     <string name="wait_for_sync_note">Сделайте свайп вниз, чтобы получить уведомление. Нажмите, чтобы завершить настройку безопасности.</string>
      <string name="wait_for_sync_title">Синхронизация…</string>
      <string name="wait_help_context">подождите</string>
      <string name="widget_all_mail">Все входящие</string>
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Нажмите, чтобы изменить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="widget_provider">com.kingsoft.email.provider.WidgetProvider</string>
      <string name="wrong_password">Неверный пароль!</string>
      <string name="yes">Да</string>
      <string name="zip_viewer_no_file">Нет файлов!</string>
