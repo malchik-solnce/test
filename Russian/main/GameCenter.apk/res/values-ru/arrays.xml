@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="account_items">
         <item>Фото:</item>
@@ -27,12 +27,6 @@
         <item>3 звезды</item>
         <item>4 звезды</item>
         <item>5 звезд</item>
-     </string-array>
-     <string-array name="category_game_sort_type">
-        <item>@string/category_game_sort_default</item>
-        <item>@string/category_game_sort_rank</item>
-        <item>@string/category_game_sort_favourate</item>
-        <item>@string/category_game_sort_download</item>
      </string-array>
      <string-array name="cities">
         <item>Beijing</item>
@@ -423,60 +417,6 @@
         <item>access contacts</item>
         <item>access device number</item>
      </string-array>
-     <string-array name="game_tag">
-        <item>Экшен</item>
-        <item>新服</item>
-        <item>Акции</item>
-        <item>返现</item>
-        <item>抢号</item>
-        <item>内测</item>
-        <item>Логич.</item>
-        <item>首发</item>
-        <item>专服</item>
-        <item>Экскл.</item>
-        <item>礼包</item>
-        <item>抽奖</item>
-        <item>攻略</item>
-        <item>Топ</item>
-        <item>Реком.</item>
-        <item>Новые</item>
-        <item>更新</item>
-        <item>Бета</item>
-        <item>Офиц.</item>
-        <item>HD</item>
-        <item>3D</item>
-        <item>碉堡</item>
-        <item>收费</item>
-     </string-array>
-     <array name="game_tag_color">
-        <item>@color/gametag_color_01</item>
-        <item>@color/gametag_color_02</item>
-        <item>@color/gametag_color_03</item>
-        <item>@color/gametag_color_04</item>
-        <item>@color/gametag_color_05</item>
-        <item>@color/gametag_color_06</item>
-        <item>@color/gametag_color_07</item>
-        <item>@color/gametag_color_08</item>
-        <item>@color/gametag_color_09</item>
-        <item>@color/gametag_color_10</item>
-        <item>@color/gametag_color_11</item>
-        <item>@color/gametag_color_12</item>
-        <item>@color/gametag_color_13</item>
-        <item>@color/gametag_color_14</item>
-        <item>@color/gametag_color_15</item>
-        <item>@color/gametag_color_16</item>
-        <item>@color/gametag_color_17</item>
-        <item>@color/gametag_color_18</item>
-        <item>@color/gametag_color_19</item>
-        <item>@color/gametag_color_20</item>
-        <item>@color/gametag_color_21</item>
-        <item>@color/gametag_color_22</item>
-        <item>@color/gametag_color_23</item>
-        <item>@color/gametag_color_23</item>
-        <item>@color/gametag_color_23</item>
-        <item>@color/gametag_color_23</item>
-        <item>@color/gametag_color_23</item>
-     </array>
      <string-array name="genders">
         <item>@string/gender_male</item>
         <item>@string/gender_female</item>
@@ -1068,53 +1008,6 @@
         <item>write to your social stream</item>
         <item>write sync settings</item>
      </string-array>
-     <string-array name="permission_risk_privacy">
-        <item>android.permission.ACCESS_COARSE_LOCATION</item>
-        <item>android.permission.ACCESS_FINE_LOCATION</item>
-        <item>android.permission.DUMP</item>
-        <item>android.permission.GET_TASKS</item>
-        <item>android.permission.INSTALL_LOCATION_PROVIDER</item>
-        <item>android.permission.READ_CALENDAR</item>
-        <item>android.permission.READ_CONTACTS</item>
-        <item>android.permission.READ_PHONE_STATE</item>
-        <item>android.permission.READ_SMS</item>
-        <item>android.permission.READ_SOCIAL_STREAM</item>
-        <item>android.permission.RECEIVE_MMS</item>
-        <item>android.permission.RECEIVE_SMS</item>
-        <item>android.permission.RECEIVE_WAP_PUSH</item>
-        <item>android.permission.RETRIEVE_WINDOW_CONTENT</item>
-     </string-array>
-     <string-array name="permission_risk_security">
-        <item>android.permission.ACCESS_LOCATION_EXTRA_COMMANDS</item>
-        <item>android.permission.ACCESS_MOCK_LOCATION</item>
-        <item>android.permission.BROADCAST_PACKAGE_REMOVED</item>
-        <item>android.permission.BROADCAST_SMS</item>
-        <item>android.permission.BROADCAST_STICKY</item>
-        <item>android.permission.BROADCAST_WAP_PUSH</item>
-        <item>android.permission.CHANGE_COMPONENT_ENABLED_STATE</item>
-        <item>android.permission.DELETE_PACKAGES</item>
-        <item>android.permission.INJECT_EVENTS</item>
-        <item>android.permission.INSTALL_PACKAGES</item>
-        <item>android.permission.INTERNET</item>
-        <item>android.permission.MODIFY_AUDIO_SETTINGS</item>
-        <item>android.permission.MODIFY_PHONE_STATE</item>
-        <item>android.permission.PERFORM_CDMA_PROVISIONING</item>
-        <item>android.permission.PROCESS_OUTGOING_CALLS</item>
-        <item>android.permission.REMOVE_TASKS</item>
-        <item>android.permission.REORDER_TASKS</item>
-        <item>android.permission.SET_ACTIVITY_WATCHER</item>
-        <item>android.permission.SET_DEBUG_APP</item>
-        <item>android.permission.SET_PREFERRED_APPLICATIONS</item>
-        <item>android.permission.SUBSCRIBED_FEEDS_WRITE</item>
-        <item>android.permission.SYSTEM_ALERT_WINDOW</item>
-        <item>android.permission.WRITE_APN_SETTINGS</item>
-        <item>android.permission.WRITE_CALENDAR</item>
-        <item>android.permission.WRITE_CONTACTS</item>
-        <item>android.permission.WRITE_SETTINGS</item>
-        <item>android.permission.WRITE_SMS</item>
-        <item>android.permission.WRITE_SOCIAL_STREAM</item>
-        <item>com.android.browser.permission.WRITE_HISTORY_BOOKMARKS</item>
-     </string-array>
      <string-array name="purchase_record_types">
         <item>@string/purchase_record_type_all</item>
         <item>@string/purchase_record_type_today</item>
@@ -1124,6 +1017,7 @@
         <item>Сделать фото</item>
         <item>Выбрать</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 13 must: 21 -->
      <string-array name="service_introduction">
         <item>"VIP member benefits: 
 1. One-on-one service 

@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="agree">Agree</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_label">Network Location</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="disagree">Disagree</string>
      <string name="location_warning_message">"Allow AutoNavi's location service to collect anonymous location data. Some data may be stored on your device, and collection may occur even when no apps are running. Applicable data usage fees may apply during this process."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="location_warning_title">Location consent</string>
 </resources>

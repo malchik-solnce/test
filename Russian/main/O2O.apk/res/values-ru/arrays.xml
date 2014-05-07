@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
+     <!-- The size of the array does not match! Now: 29 must: 27 -->
      <string-array name="alphabet_table">
         <item>А</item>
         <item>Б</item>

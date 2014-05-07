@@ -1,14 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="account_not_activated">Аккаунт не активирован. Активируй и повтори еще раз.</string>
      <string name="activate_now">Activate_now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ad_indicator">AD</string>
      <string name="all_comments">Все</string>
      <string name="already_bottom">Конец страницы</string>
      <string name="app_comments">Комментарии</string>
      <string name="app_comments_footer">Пустые комментарии здесь не показаны</string>
      <string name="app_comments_title">Комментарии: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Mi Store</string>
      <string name="bad_comment_reason_dialog_button_text">Пропустить</string>
      <string name="bad_comment_reason_dialog_title">Выберите причину</string>
@@ -71,7 +73,9 @@
      <string name="diagnostics_data_upload_failed">Ошибка отправки. Повторите еще раз.</string>
      <string name="diagnostics_data_upload_success">Журнал отправлен</string>
      <string name="diagnostics_desc">Диагностический инструмент может помоч решить сетевые проблемы. Файл журнала будет создан и отправлен Xiaomi для обзора.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="diagnostics_dns_ip">2. The IP address resolved by DNS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="diagnostics_gateway_ip">3. The IP address of Gateway</string>
      <string name="diagnostics_local_ip">1. Локальный IP адрес</string>
      <string name="diagnostics_test_download">5. Входящая скорость</string>
@@ -93,6 +97,7 @@
      <string name="favorite_delete_fail">Ошибка удаления из избранных</string>
      <string name="favorite_delete_success">Удалено из избранных</string>
      <string name="favorite_fail">Ошибка добавления</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="favorite_fail_other_market">Can not favorite apps from other market</string>
      <string name="favorite_login_hint">Войдите в аккаунт Xiaomi, чтобы управлять избранными приложениями</string>
      <string name="favorite_no_network">Не удалось. Нет сети.</string>
@@ -108,6 +113,7 @@
      <string name="install_all_title">Установить все</string>
      <string name="install_btn_cancel">Отмена</string>
      <string name="install_btn_continue">Далее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_btn_ok">OK</string>
      <string name="install_earlier">Ранее</string>
      <string name="install_fail">Ошибка установки. Попробуйте снова.</string>

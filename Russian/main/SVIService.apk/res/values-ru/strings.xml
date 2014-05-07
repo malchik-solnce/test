@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">SVI Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="svi_enable_summary_off">The viewing experience will not be enhanced for ambient conditions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="svi_enable_summary_on">Enhance the viewing based on the ambient condition</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="svi_enable_title">Enable SVI Display</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="svi_info_default">Unknown</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="svi_settings_title">SVI Display Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="svi_version_title">SVI Version</string>
 </resources>

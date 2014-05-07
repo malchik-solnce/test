@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="about_smart_antispam_summary">О идентификации</string>
      <string name="about_telephone_fraud">О мошенничестве</string>
@@ -180,6 +180,7 @@
 Всего: %3$s RMB."</string>
      <string name="recharge_user_confirm_title">Подтвердить</string>
      <string name="remind_another_time">Не вводите этот номер</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="remind_user_confirm">OK</string>
      <string name="remind_user_suspect_number_message">"Преступники могут украсть номера чужих телефонов. В случае сомнений, пожалуйста, перезвоните, чтобы проверить.
 Органы общественной безопасности, почтового сектора, электронной коммерции компании и курьерские компании не запрашивают информацию о банковыских картах и паролях."</string>

@@ -1,15 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="action_submit">ОК</string>
      <string name="app_label">Отзывы</string>
      <string name="btn_send">Отправить</string>
-     <string name="bugreport_feedback_from">From: %s</string>
      <string name="description">Описание (обязательно)</string>
      <string name="discard_draft_dialog_button_cancel">Отмена</string>
      <string name="discard_draft_dialog_content">В отчете были изменения, нажмите кнопку ОК, чтобы отказаться от отзыва</string>
      <string name="discard_draft_dialog_title">Отмена отзыва</string>
-     <string name="err_type">Тип обращения</string>
      <string name="err_type_call">Вызовы</string>
      <string name="err_type_data_lost">Потеря данных</string>
      <string name="err_type_force_close">Принудительное закрытие</string>
@@ -21,7 +19,6 @@
      <string name="menu_attach_screenshot">Прикрепить скриншот</string>
      <string name="menu_copy">Копировать</string>
      <string name="menu_discard">Отменить</string>
-     <string name="menu_send">Отправить</string>
      <string name="network_unavailable_dialog_content">Ваш отзыв будет отправлен при включенном интернете</string>
      <string name="network_unavailable_dialog_title">Сеть недоступна</string>
      <string name="packaging_dialog_content">Создание отчета, пожалуйста, подождите несколько секунд…</string>
@@ -38,7 +35,6 @@
      <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
      <string name="toast_report_sent_failed">Ошибка отправки отчета</string>
      <string name="toast_report_sent_succeed">Отчет был успешно отправлен</string>
-     <string name="user_feedback">Отзывы</string>
      <string name="wlan_unavailable_dialog_button_sent">Отправить</string>
      <string name="wlan_unavailable_dialog_content">%s запрашивает 2G/3G данные. Нажмите кнопку ОК, чтобы отправить только через Wi-Fi.</string>
      <string name="wlan_unavailable_dialog_title">WLAN недоступна</string>

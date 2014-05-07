@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="bookmarks">
         <item>Google</item>
@@ -31,14 +31,6 @@
         <item>BBC</item>
         <item>http://www.bbc.co.uk/</item>
      </string-array>
-     <string-array name="google">
-        <item>Google</item>
-        <item>google.com</item>
-        <item>http://www.google.com/favicon.ico</item>
-        <item>http://www.google.com/search?hl={language}&amp;ie={inputEncoding}&amp;source=android-browser&amp;q={searchTerms}</item>
-        <item>UTF-8</item>
-        <item>http://api.bing.com/osjson.aspx?query={searchTerms}&amp;language={language}</item>
-     </string-array>
      <string-array name="menu_theme_setting">
         <item>Белая</item>
         <item>Желтая</item>
@@ -47,6 +39,12 @@
         <item>Зеленая</item>
         <item>Синяя</item>
         <item>Темная</item>
+     </string-array>
+     <string-array name="pre_webapp_text_size_values">
+        <item>150</item>
+        <item>125</item>
+        <item>100</item>
+        <item>75</item>
      </string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Да</item>
@@ -106,5 +104,10 @@
      <string-array name="pref_volume_key_choices">
         <item>Переключение страниц</item>
         <item>Переключение вкладок</item>
+     </string-array>
+     <string-array name="search_engines_default">
+        <item>google</item>
+        <item>yahoo</item>
+        <item>bing</item>
      </string-array>
 </resources>

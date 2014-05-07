@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <plurals name="alert_dialog_exit_ecm">
         <item quantity="one">Телефон перейдет в режим экстренных обратных вызовов на %s мин. В этом режиме невозможно использовать приложения, задействующие передачу данных. Выйти из режима?</item>

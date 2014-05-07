@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="app_name">Служба Wfd</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="perm_desc">Access Qualcomm WLAN Display Stack APIs</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="perm_label">QC WLAN Display Stack</string>
 </resources>

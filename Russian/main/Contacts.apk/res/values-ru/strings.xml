@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="accessibility_calllog_detail">Журнал</string>
      <string name="account_container_title">Из аккаунта</string>
@@ -849,6 +849,7 @@
      <string name="resource_downloaded_title">Скачанные</string>
      <string name="resource_downloading">Загрузка</string>
      <string name="resource_exchange">Принять</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_exchange_confirm">OK</string>
      <string name="resource_exchange_empty_format">Введите код!</string>
      <string name="resource_exchange_has_bought">Вы уже купили эту тему</string>
@@ -924,6 +925,7 @@
 контент который Вы сейчас смотрите, в настоящее время недоступен в Вашем регионе"</string>
      <string name="resource_unknow_error">Неизвестная ошибка</string>
      <string name="resource_update">Обн.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_user_know">OK</string>
      <string name="resource_waiting_download">Ожидание</string>
      <string name="restore_nickname">Восстановить</string>
@@ -1018,6 +1020,7 @@
      <string name="sms_home">SMS:домашний тел.</string>
      <string name="sms_isdn">SMS: номер ISDN</string>
      <string name="sms_main">SMS:основ. тел.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sms_mms">MMS</string>
      <string name="sms_mobile">SMS: мобильный</string>
      <string name="sms_other">Отправить SMS</string>

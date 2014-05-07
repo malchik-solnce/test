@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="about_device">Сведения о системе</string>
      <string name="active_xiaomi_account">Активировать</string>
@@ -41,6 +41,7 @@
      <string name="current_version_update_monthly_build">Текущая прошивка:</string>
      <string name="daily_build">ежедневная сборка</string>
      <string name="dialog_no">Нет</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dialog_ok">OK</string>
      <string name="dialog_yes">Да</string>
      <string name="download_current_rom">Скачать полный пакет</string>
@@ -132,7 +133,9 @@
      <string name="sina_share_fail">Ошибка отправки</string>
      <string name="sina_share_pendding">Отправка…</string>
      <string name="sina_share_success">Отправлено!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
      <string name="stable_build">стабильная сборка</string>
      <string name="start_update">Начать обновление</string>
