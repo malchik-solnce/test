@@ -19,7 +19,7 @@
         <item>Грустный</item>
         <item>Подмигивающий</item>
         <item>Высунутый язык</item>
-        <item>Удивлённый</item>
+        <item>Удивленный</item>
         <item>Поцелуй</item>
         <item>Вопящий</item>
         <item>Отлично</item>
@@ -58,7 +58,7 @@
         <item>Облачное сообщение</item>
      </string-array>
      <string-array name="resent_via_entries_sms">
-        <item>Сообщение</item>
+        <item>Текстовое сообщение</item>
         <item>Облачное сообщение</item>
      </string-array>
      <string-array name="select_dialog_items">
