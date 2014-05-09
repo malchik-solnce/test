@@ -1682,8 +1682,6 @@ Attempts Remaining :"</string>
      <string name="vpn_title_long">Сеть VPN активирована приложением %s</string>
      <string name="wait">Подождать</string>
      <string name="wallpaper_binding_label">Фоновый рисунок</string>
-     <string name="web_user_agent" formatted="false">Mozilla/5.0 (Linux; U; Android %s) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 %sSafari/534.30</string>
-     <string name="web_user_agent_target_content">"Mobile "</string>
      <string name="webpage_unresponsive">"Страница не отвечает.
 
 Закрыть ее?"</string>

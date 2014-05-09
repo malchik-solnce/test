@@ -2,7 +2,10 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string name="about_app_name">Видеоплеер</string>
+     <string name="about_developer_label">开发</string>
+     <string name="about_developer_name">小米数码</string>
      <string name="about_title">О программе</string>
+     <string name="about_version_label">版本号</string>
      <string name="actors_colon">"В главных ролях: "</string>
      <string name="add_review">Добавить отзыв</string>
      <string name="adjust_position_next_media_notice">Далее</string>
@@ -63,8 +66,6 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cnlive">cnlive</string>
      <string name="comment">Комментарии</string>
-     <string name="comment_can_input_prefix" />
-     <string name="comment_can_input_suffix" />
      <string name="comment_detailInfo">Отзыв</string>
      <string name="comment_hint">(до 300 символов)</string>
      <string name="comment_hint_tip">Комментарий добавлен и будет показан после обзора</string>
@@ -103,7 +104,6 @@
      <string name="download_is_in_tasklist">В списке загрузок</string>
      <string name="download_is_success">Загружено</string>
      <string name="end_live_status">Завершен</string>
-     <string name="episode_suffix">第%d集</string>
      <string name="favorite">" избранное"</string>
      <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

@@ -155,6 +155,8 @@
      <string name="apn_general">Точки доступа интернет</string>
      <string name="apn_http_port">Порт</string>
      <string name="apn_http_proxy">Прокси</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="apn_mms">MMS</string>
      <string name="apn_mms_port">Порт MMS</string>
      <string name="apn_mms_proxy">Прокси-сервер MMS</string>
      <string name="apn_name">Имя</string>
@@ -511,7 +513,6 @@
      <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
      <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
      <string name="bluetooth_turning_on">Включение Bluetooth…</string>
-     <string name="bluetooth_unknown" />
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
      <string name="breathing_light_color_menu_title">Выбери цвет</string>
@@ -548,6 +549,8 @@
      <string name="button_text_delete_from_white_list">Удалить из списка</string>
      <string name="button_text_done">Готово</string>
      <string name="button_text_fix">Исправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_text_known">I know</string>
      <string name="button_text_quick_scan">Сканировать</string>
      <string name="button_text_security">Безопасно</string>
      <string name="button_text_uninstall">Удалить</string>
@@ -605,8 +608,6 @@
      <string name="carrier_enabled">Включить/выключить APN</string>
      <string name="carrier_enabled_summaryOff">APN выключен</string>
      <string name="carrier_enabled_summaryOn">APN включен</string>
-     <string name="category_key_power_usage_details">key_power_usage_details</string>
-     <string name="category_key_power_usage_packages">key_power_usage_packages</string>
      <string name="cdma_security_settings_summary">Настройка функции \"Мое местоположение\", разблокировка экрана и блокировка хранилища регистрационных данных</string>
      <string name="cell_broadcast_settings">Широковещательные сообщения</string>
      <string name="change_password">Сменить пароль</string>
@@ -690,7 +691,6 @@
      <string name="credentials_reset_warning">Неверный пароль. У вас осталась одна попытка, после которой хранилище регистрационных данных будет очищено.</string>
      <string name="credentials_reset_warning_plural">Неверный пароль. Осталось несколько попыток (%1$d). Затем хранилище регистрационных данных будет очищено.</string>
      <string name="credentials_title">СЕРТИФИКАТЫ</string>
-     <string name="credentials_unlock" />
      <string name="credentials_unlock_hint">Введите пароль для хранилища учетных данных</string>
      <string name="credentials_wrong_password">Неправильный пароль</string>
      <string name="crypt_keeper_button_text">Зашифровать телефон</string>
@@ -868,6 +868,8 @@
      <string name="device_info_not_available">Недоступно</string>
      <string name="device_info_settings">Состояние телефона</string>
      <string name="device_internal_memory">Внутренняя память:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="device_memory">RAM</string>
      <string name="device_miui_version">Версия MIUI:</string>
      <string name="device_name">Имя устройства</string>
      <string name="device_name_input_error">Не удалось сохранить имя устройства. Введите еще ​​раз.</string>
@@ -878,6 +880,8 @@
      <string name="device_status">Общая информация</string>
      <string name="device_status_activity_title">Общая информация</string>
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings > Apps.</string>
      <string name="dialog_msg_backup_and_cleanup_apps">После завершения резервного копирования, все данные приложений будут удалены (настройки учетных записей, базы данных и т.д.)</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Создать резервную копию и удалить выбранные приложения?</string>
      <string name="dialog_msg_check_all">Подтверждаете выбор %1$s, содержащий %2$d элемен. списка?</string>
@@ -885,6 +889,8 @@
      <string name="dialog_msg_cleanup_system_cache">Это очистит кэшированные данные всех приложений</string>
      <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска очистки. Повторите позже.</string>
      <string name="dialog_msg_uninstall_apps">Удалить выбранные приложения?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_title_auto_start_tips">About auto start</string>
      <string name="dialog_title_backup_and_cleanup_apps">Сделать бэкап и удалить данные приложения?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
      <string name="dialog_title_check_all">Выбор всего</string>
@@ -952,8 +958,6 @@
      <string name="dndm_repeated_call_summary_none">Не делать исключения для повторных вызовов</string>
      <string name="dndm_special_call_setting_group">Настройки исключений</string>
      <string name="dndm_summary">После включения тихого режима, входящие звонки и сообщения будут без звука</string>
-     <string name="dndm_twelve_hour_time_format">h:mm a</string>
-     <string name="dndm_twenty_four_hour_time_format">HH:mm</string>
      <string name="dndm_vip_call_button_title">Из списка исключений</string>
      <string name="dndm_vip_call_setting_title">Настройка исключений</string>
      <string name="dndm_vip_call_summary_contact">Все контакты</string>
@@ -1138,6 +1142,7 @@
      <string name="free_wifi_connected_time">Время онлайн:%1$s</string>
      <string name="free_wifi_connecting">Подключение…</string>
      <string name="free_wifi_login_again">Войти снова</string>
+     <string name="free_wifi_manage_summary">Tap to view to %1$s.</string>
      <string name="free_wifi_speed_title">Медленное подключение?</string>
      <string name="free_wifi_summary">Бесплатный Wi-Fi, при поддержке %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -2268,11 +2273,6 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="pref_volume_wake_summary">Нажатие увеличения/уменьшения громкости для пробуждения устройства</string>
      <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
      <string name="preference_change_password_title">Изменить пароль</string>
-     <string name="preference_key_about_version">key_about_version</string>
-     <string name="preference_key_auto_update_cleanup_db">key_auto_update_cleanup_db</string>
-     <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
-     <string name="preference_key_create_permanent_notification">key_create_permanent_notification</string>
-     <string name="preference_key_create_shortcut">key_create_shortcut</string>
      <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
      <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
      <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
@@ -2287,9 +2287,6 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
      <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
      <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
-     <string name="preference_key_shortcut_power_center">key_shortcut_power_center</string>
-     <string name="preference_key_shortcut_quick_cleanup">key_shortcut_quick_cleanup</string>
-     <string name="preference_key_shortcut_virus_center">key_shortcut_virus_center</string>
      <string name="preferred_app_settings">Приложения по умолчанию</string>
      <string name="preferred_app_settings_default">По умолчанию</string>
      <string name="preferred_app_settings_reset">Сбросить настройки</string>
@@ -3181,10 +3178,6 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="verify_applications_summary">Запретить или предупреждать перед установкой приложений, которые могут причинить вред</string>
      <string name="verify_apps_over_usb_summary">Проверка приложений, установленных через ADB/ADT на подозрительное поведение</string>
      <string name="verify_apps_over_usb_title">Проверка приложений через USB</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="versionCode">3</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="versionName">1.0.140225</string>
      <string name="version_text">Версия %1$s</string>
      <string name="vibrate_category_title">НАСТРОЙКИ ВИБРАЦИИ</string>
      <string name="vibrate_in_normal_title">В \"Обычном режиме\"</string>
@@ -3536,7 +3529,6 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="wifi_scan_notify_text_location_on">Для повышения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если Вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети.</string>
      <string name="wifi_secured_first_item">Защита %1$s</string>
      <string name="wifi_secured_second_item">, защита %1$s</string>
-     <string name="wifi_security">Безопасность</string>
      <string name="wifi_security_none">Нет</string>
      <string name="wifi_setting_frequency_band_error">При настройке полосы частот возникла неполадка</string>
      <string name="wifi_setting_frequency_band_summary">Укажите рабочий диапазон частот</string>
@@ -3691,6 +3683,8 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="wps_connect_title">Подключить WPS</string>
      <string name="wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
      <string name="xiaomi_account">Аккаунт Xiaomi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xiaomi_money_service">Центр Mi</string>
      <string name="yes">Да</string>
      <string name="zone_auto">Часовой пояс сети</string>

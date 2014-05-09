@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alarm_sound_default">Default alarm sound</string>
      <string name="app_label">Хранилище мультимедиа</string>
      <string name="artist_label">Исполнитель</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="notification_sound_default">Default notification sound</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ringtone_default">Default ringtone</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="root_audio">Audio</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="root_images">Images</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="root_videos">Videos</string>
      <string name="uid_label">Мультимедиа</string>
      <string name="upgrade_msg">Обновление базы данных мультимедиа...</string>
 </resources>

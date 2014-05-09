@@ -268,7 +268,6 @@
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
-     <string name="miuichromium_default_text_encoding">Latin-1</string>
      <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="miuichromium_save_password_never">Никогда</string>
      <string name="miuichromium_save_password_notnow">Не сейчас</string>
@@ -390,7 +389,6 @@
      <string name="pref_link_prefetch_title">Загрузка веб-страниц</string>
      <string name="pref_link_prefetch_value_never_summary">Не разрешать браузеру предварительно загружать веб-страницы в фоновом режиме</string>
      <string name="pref_min_font_size">Мин. размер шрифта</string>
-     <string name="pref_min_font_size_value">%dpt</string>
      <string name="pref_privacy_clear_cache">Очистить кэш</string>
      <string name="pref_privacy_clear_cache_dlg">Удалить контент и базы данных, сохраненные локально?</string>
      <string name="pref_privacy_clear_cache_summary">Удалить контент и данные, сохраненные браузером</string>
@@ -525,7 +523,7 @@
      <string name="sub_sync_item_browser_title_cloud_tab_summary">Синхронизировать открытые вкладки на различных устройствах</string>
      <string name="sub_sync_item_browser_title_history">Синхр. истории</string>
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
-	 <string name="sub_sync_item_browser_title_novel">Синхр. книг</string>
+     <string name="sub_sync_item_browser_title_novel">Синхр. книг</string>
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
      <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
@@ -536,12 +534,8 @@
      <string name="tab_yellowpage">Популярные</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="time_picker_dialog_am">AM</string>
-     <string name="time_picker_dialog_hour_minute_separator">:</string>
-     <string name="time_picker_dialog_minute_second_separator">:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="time_picker_dialog_pm">PM</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="time_picker_dialog_second_subsecond_separator">.</string>
      <string name="time_picker_dialog_title">Установка времени</string>
      <string name="title_bar_loading">Загрузка…</string>
      <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
@@ -575,7 +569,6 @@
      <string name="webview_js_dialog_before_unload_positive_button">Покинуть</string>
      <string name="webview_js_dialog_before_unload_title">Подтверждение перехода</string>
      <string name="webview_js_dialog_title">Страница \"%s\" сообщает:</string>
-     <string name="webview_js_dialog_title_default">JavaScript</string>
      <string name="webview_last_month">В прошлом месяце</string>
      <string name="webview_no_matches">Нет совпадений</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

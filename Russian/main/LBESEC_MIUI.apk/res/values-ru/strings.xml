@@ -105,6 +105,11 @@
      <string name="HIPS_Perm_Contact_Access">читать ваш список контактов</string>
      <string name="HIPS_Perm_Contact_Desc">Доступ к вашему списку контактов</string>
      <string name="HIPS_Perm_Contact_Hint">%1$s приложения, имеющие доступ к вашему списку контактов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="HIPS_Perm_DisableKeyguard">Unlock Screen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="HIPS_Perm_DisableKeyguard_Desc">Unlock Screen</string>
+     <string name="HIPS_Perm_DisableKeyguard_Hint">%1$s apps can unlock screen</string>
      <string name="HIPS_Perm_EndCall">отклонить текущий звонок</string>
      <string name="HIPS_Perm_GetCallState">получить состояние текущего вызова</string>
      <string name="HIPS_Perm_ListenCallState">мониторинг состояния вызова</string>
@@ -166,6 +171,8 @@
      <string name="HIPS_Perm_Recorder_Video">Запись видео</string>
      <string name="HIPS_Perm_Recorder_VoiceCall">Запись вызовов</string>
      <string name="HIPS_Perm_RejectAll">Запретить все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="HIPS_Perm_SMS">SMS</string>
      <string name="HIPS_Perm_SMS_Access">Чтение входящих SMS</string>
      <string name="HIPS_Perm_SMS_Desc">Доступ к входящим SMS</string>
      <string name="HIPS_Perm_SMS_Hint">%1$s приложения, имеющие доступ к входящим SMS</string>

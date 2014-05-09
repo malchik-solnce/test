@@ -196,7 +196,6 @@
      <string name="always_show_images_toast">Картинки от этого отправителя будут всегда показываться</string>
      <string name="annex_size">вложений</string>
      <string name="app_name">Почта</string>
-     <string name="application_mime_type">application/email-ls</string>
      <string name="archive">В архив</string>
      <string name="archived">Отправлено в архив</string>
      <string name="att_mgr_no_attachment">Нет вложений!</string>
@@ -299,8 +298,15 @@
      <string name="date_message_received">%1$s, %2$s</string>
      <string name="date_message_received_today">Сегодня, %1$s</string>
      <string name="date_message_received_yesterday">Вчера, %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="debug_clear_webview_cache">Clear WebView cache</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="debug_disable_graphics_acceleration_label">Disable hardware graphics acceleration</string>
+     <string name="debug_enable_debug_logging_label">Enable extra debug logging?</string>
      <string name="debug_enable_file_logging_label">Включить ведение журнала на SD-карту?</string>
+     <string name="debug_enable_strict_mode_label">Enable strict mode (with logging)</string>
      <string name="debug_enable_verbose_logging_label">Включить подробное ведение журнала?</string>
+     <string name="debug_force_one_minute_refresh_label">Force 1-minute refresh for POP/IMAP</string>
      <string name="debug_title">Выполнить отладку</string>
      <string name="default_">ПО УМОЛЧАНИЮ</string>
      <string name="default_setup">НАСТРОЙКИ ПО УМОЛЧАНИЮ</string>
@@ -389,6 +395,8 @@
      <string name="hierarchical_folder_top">%1$s∕</string>
      <string name="hint_quick_reply_all">Ответить на все здесь</string>
      <string name="ignore_spam_warning">Я доверяю отправителю</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="imap_name">IMAP</string>
      <string name="inbox_folders_heading">Входящие</string>
      <string name="info">Детали</string>
      <string name="input_password_prompt">Введите пароль:</string>
@@ -403,6 +411,8 @@
      <string name="login_failed_ticker">Ошибка авторизации %s</string>
      <string name="login_failed_title">Не удалось войти в аккаунт</string>
      <string name="long_press_to_select_tip">Чтобы выбрать несколько цепочек, нажмите и удерживайте одну из них, а затем нажимайте на следующие</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_name_display_drafts">Черновики</string>
      <string name="mailbox_name_display_inbox">Входящие</string>
@@ -517,6 +527,7 @@
      <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="okay_action">OK</string>
      <string name="other_mail">Другая почта</string>
      <string name="outbox_alert_button_confirm">Изменить</string>
@@ -575,6 +586,8 @@
      <string name="policy_require_smime">Требовать сообщения SMIME</string>
      <string name="policy_screen_timeout">Блокировать экран при простое</string>
      <string name="policy_text_truncation">Ограничивать размер текст. эл. сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pop3_name">POP3</string>
      <string name="prefDialogTitle_conversationListIcon">Фотографии отправителей</string>
      <string name="prefDialogTitle_removal_action">Я предпочитаю:</string>
      <string name="preference_removal_action_title">Архивация или удаление</string>
@@ -592,6 +605,14 @@
      <string name="previous_action">Назад</string>
      <string name="prompt_title">Совет</string>
      <string name="protocol">Протокол</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="protocol_eas">eas</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="protocol_imap">imap</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="protocol_legacy_imap">imap</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="protocol_pop3">pop3</string>
      <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если Вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер.</string>
      <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
      <string name="pull_to_refresh">Потяните, чтобы обновить</string>
@@ -600,7 +621,6 @@
      <string name="quick_3">Я отвечу позже</string>
      <string name="quick_4">Это нужно обсудить при встрече</string>
      <string name="quick_responses_empty_view">Нет шаблонов для быстрых ответов</string>
-     <string name="quote_begin">&lt;div class=\"quote\"></string>
      <string name="quoted_text">Включить цитируемый текст</string>
      <string name="quoted_text_label">Цитировать</string>
      <string name="read_string">прочитано</string>
@@ -733,12 +753,6 @@
 Выберите "<b>Настройки синхронизации</b>, чтобы включить ее, или <b>Синхронизировать сейчас</b>, чтобы синхронизировать почту один раз."</string>
      <string name="wait_for_sync_body">Ваши сообщения загружаются</string>
      <string name="wait_for_sync_body_2">Сервер Exchange спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
-     <string name="wait_for_sync_body_txt_array_1">Сервер Exchange спросит Вас через</string>
-     <string name="wait_for_sync_body_txt_array_2">1–30</string>
-     <string name="wait_for_sync_body_txt_array_3">секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на</string>
-     <string name="wait_for_sync_body_txt_array_4">предупреждение системы</string>
-     <string name="wait_for_sync_body_txt_array_5">.</string>
-     <string name="wait_for_sync_note">Сделайте свайп вниз, чтобы получить уведомление. Нажмите, чтобы завершить настройку безопасности.</string>
      <string name="wait_for_sync_title">Синхронизация…</string>
      <string name="wait_help_context">подождите</string>
      <string name="widget_all_mail">Все входящие</string>

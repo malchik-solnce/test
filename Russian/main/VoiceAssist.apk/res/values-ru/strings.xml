@@ -297,6 +297,8 @@
      <string name="resource_default">Default ringtone</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_default_name">Resource</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_delete">Delete</string>
      <string name="resource_delete_all">Delete %1$d selected resources?</string>
      <string name="resource_delete_confirm">Delete these resources?</string>
      <string name="resource_delta_update_failed">Update failed: re-downloading theme…</string>
