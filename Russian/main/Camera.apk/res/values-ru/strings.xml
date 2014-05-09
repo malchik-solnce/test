@@ -338,7 +338,6 @@
      <string name="pref_camera_redeyereduction_title">Устранение красных глаз</string>
      <string name="pref_camera_referenceline_entry_off">Выкл.</string>
      <string name="pref_camera_referenceline_entry_on">Вкл.</string>
-     <string name="pref_camera_referenceline_entryvalue_default">referenceline-off</string>
      <string name="pref_camera_referenceline_title">Вспомогательная сетка</string>
      <string name="pref_camera_saturation_title">Насыщенность</string>
      <string name="pref_camera_scenedetect_title">Автообнаружение сцены</string>
