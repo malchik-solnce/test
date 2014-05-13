@@ -24,8 +24,7 @@
      <string name="access_control_password_title">Ограничение доступа</string>
      <string name="access_control_recording_intro_header">Нарисуйте графический ключ:</string>
      <string name="access_control_reset_by_account">Войдите в аккаунт Xiaomi для восстановления пароля</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="accessibility_captioning_title">Captions</string>
+     <string name="accessibility_captioning_title">Титры</string>
      <string name="accessibility_enable">Включить доступ</string>
      <string name="accessibility_feature_state_off">Выкл.</string>
      <string name="accessibility_feature_state_on">Вкл.</string>
@@ -187,8 +186,7 @@
      <string name="app_install_location_title">Место установки</string>
      <string name="app_log_tab_title">Журнал разрешений</string>
      <string name="app_manage_tab_title">Приложения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="app_memory_use">Memory use</string>
+     <string name="app_memory_use">Использование памяти</string>
      <string name="app_name">Безопасность</string>
      <string name="app_name_label">Приложение</string>
      <string name="app_not_found_dlg_text">Приложение не найдено в списке установленных</string>
@@ -482,8 +480,7 @@
      <string name="bluetooth_profile_dun">Dial-up доступ к сети</string>
      <string name="bluetooth_profile_headset">Профиль HSP/HFP</string>
      <string name="bluetooth_profile_hid">Профиль HID</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="bluetooth_profile_map">Message Access</string>
+     <string name="bluetooth_profile_map">Доступ к сообщениям</string>
      <string name="bluetooth_profile_opp">Профиль OPP</string>
      <string name="bluetooth_profile_pan">Интернет-доступ</string>
      <string name="bluetooth_profile_pan_nap">Профиль PAN</string>
@@ -550,7 +547,7 @@
      <string name="button_text_done">Готово</string>
      <string name="button_text_fix">Исправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="button_text_known">I know</string>
+     <string name="button_text_known">OK</string>
      <string name="button_text_quick_scan">Сканировать</string>
      <string name="button_text_security">Безопасно</string>
      <string name="button_text_uninstall">Удалить</string>
@@ -559,7 +556,7 @@
      <string name="button_text_view_power">Посмотреть</string>
      <string name="cache_garbage">Кэш</string>
      <string name="cache_header_label">КЭШ</string>
-     <string name="cache_list_empty_hints">Нет кешированных файлов</string>
+     <string name="cache_list_empty_hints">Нет кэшированных файлов</string>
      <string name="cache_manage_title">К очистке: %1$d | Освободится: %2$s</string>
      <string name="cache_manager_actionbar_title">Файлы кэша</string>
      <string name="cache_size_label">Кэш</string>
@@ -599,7 +596,7 @@
      <string name="captioning_locale">Язык</string>
      <string name="captioning_preset">Стиль титров</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="captioning_preview_characters">Aa</string>
+     <string name="captioning_preview_characters">KDev Group</string>
      <string name="captioning_preview_text">Титры будут выглядеть так</string>
      <string name="captioning_preview_title">Предпросмотр</string>
      <string name="captioning_standard_options_title">Стандартные параметры</string>
@@ -636,7 +633,7 @@
      <string name="close_rule">Отключить правила брэндмаузера</string>
      <string name="color_black">Черный</string>
      <string name="color_blue">Синий</string>
-     <string name="color_calibration_none">Естественный</string>
+     <string name="color_calibration_none">Натуральный</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="color_calibration_srgb">sRGB</string>
      <string name="color_custom">\#%1$02X%2$02X%3$02X</string>
@@ -868,8 +865,7 @@
      <string name="device_info_not_available">Недоступно</string>
      <string name="device_info_settings">Состояние телефона</string>
      <string name="device_internal_memory">Внутренняя память:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="device_memory">RAM</string>
+     <string name="device_memory">Память RAM:</string>
      <string name="device_miui_version">Версия MIUI:</string>
      <string name="device_name">Имя устройства</string>
      <string name="device_name_input_error">Не удалось сохранить имя устройства. Введите еще ​​раз.</string>
@@ -880,8 +876,7 @@
      <string name="device_status">Общая информация</string>
      <string name="device_status_activity_title">Общая информация</string>
      <string name="device_status_summary">Номер телефона, уровень сигнала и т.д.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dialog_message_auto_start_tips">Some security apps may incorrectly indicate that MIUI has prevented them from starting. To check the permissions that have been granted to individual apps, go to Settings > Apps.</string>
+     <string name="dialog_message_auto_start_tips">Некоторые приложения, работающие в фоне, могут вести себя некорректно без автозапуска. Чтобы посмотреть индивидуальные разрешения для приложения, перейдите в настройки > приложения.</string>
      <string name="dialog_msg_backup_and_cleanup_apps">После завершения резервного копирования, все данные приложений будут удалены (настройки учетных записей, базы данных и т.д.)</string>
      <string name="dialog_msg_backup_and_uninstall_apps">Создать резервную копию и удалить выбранные приложения?</string>
      <string name="dialog_msg_check_all">Подтверждаете выбор %1$s, содержащий %2$d элемен. списка?</string>
@@ -889,8 +884,7 @@
      <string name="dialog_msg_cleanup_system_cache">Это очистит кэшированные данные всех приложений</string>
      <string name="dialog_msg_load_cleanup_engine_error">Ошибка запуска очистки. Повторите позже.</string>
      <string name="dialog_msg_uninstall_apps">Удалить выбранные приложения?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dialog_title_auto_start_tips">About auto start</string>
+     <string name="dialog_title_auto_start_tips">Информация о автозапуске</string>
      <string name="dialog_title_backup_and_cleanup_apps">Сделать бэкап и удалить данные приложения?</string>
      <string name="dialog_title_backup_and_uninstall_apps">Бэкап и удаление</string>
      <string name="dialog_title_check_all">Выбор всего</string>
@@ -904,16 +898,14 @@
      <string name="dirac_control">Технология \"MI Sound\"</string>
      <string name="dirac_mode_earbuds">Гарнитура</string>
      <string name="dirac_mode_general">Общие</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dirac_mode_general_earbuds">General earbuds</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dirac_mode_general_inear">General inear</string>
-     <string name="dirac_mode_in_ear">"Наушники Xiaomi"</string>
+     <string name="dirac_mode_general_earbuds">Обычные наушники</string>
+     <string name="dirac_mode_general_inear">Обычные вкладыши</string>
+     <string name="dirac_mode_in_ear">Наушники Xiaomi</string>
      <string name="dirac_mode_off">Отключено</string>
-     <string name="dirac_mode_piston_1">Xiaomi piston-1</string>
+     <string name="dirac_mode_piston_1">Пистоны Xiaomi 1</string>
      <string name="dirac_mode_piston_100">Наушники Xiaomi (\"затычки\")</string>
-     <string name="dirac_mode_piston_2">Xiaomi piston-2</string>
-     <string name="dirac_mode_piston_youth">Xiaomi piston-youth</string>
+     <string name="dirac_mode_piston_2">Пистоны Xiaomi 2</string>
+     <string name="dirac_mode_piston_youth">Бюджетные пистоны Xiaomi</string>
      <string name="dirac_switch_summary">Использовать усилитель звука MiSound для динамика</string>
      <string name="dirac_switch_title">Усилитель MiSound</string>
      <string name="disable_adb_debug_summary">Отключить USB отладку</string>
@@ -1000,8 +992,7 @@
      <string name="dolby_roomsize_normal">Обычная комната</string>
      <string name="dolby_roomsize_summary">Доступно только при использовании наушников</string>
      <string name="dolby_roomsize_title">Объемное звучание:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="done_button">Done</string>
+     <string name="done_button">Готово</string>
      <string name="downloaded_rom_title">Пакет обновлений истек</string>
      <string name="drive_mode">Режим вождения</string>
      <string name="drive_mode_auto_reply">Настройки автоответа</string>
@@ -1083,7 +1074,7 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fancy_icon_power_center">com.miui.powercenter</string>
+     <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
      <string name="fcc_equipment_id">ID оборудования</string>
      <string name="filter">Фильтр</string>
      <string name="filter_apps_all">Все</string>
@@ -1289,8 +1280,7 @@
      <string name="history_details_title">Подробная история</string>
      <string name="home_app_uninstall_button">Удалить приложение</string>
      <string name="home_key">Кнопка \"Домой\"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="home_settings">Home</string>
+     <string name="home_settings">Домашний экран</string>
      <string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
      <string name="immediately_destroy_activities">Не сохранять действия</string>
      <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
@@ -1715,14 +1705,14 @@
      <string name="msd_install_succeed">Драйвер установлен</string>
      <string name="msd_install_windows_xp_step_2_1">"1. Если отображается мастер установки, 
 пожалуйста, следуйте инструкциям, чтобы завершить установку драйвера"</string>
-     <string name="msd_pc_system_install_finish_summary_vista">"For Windows Vista and newer versions of Windows,
-the %1$s music player will appear on your computer automatically"</string>
-     <string name="msd_pc_system_install_finish_summary_xp">"After you install this driver
-%1$s will appear as a USB mass storage device when connected to a computer."</string>
-     <string name="msd_pc_system_install_start_summary_vista">"For Windows Vista and newer versions of Windows, 
-%1$s will appear automatically as a USB mass storage"</string>
-     <string name="msd_pc_system_install_step_2_summary_xp">"2. %1$s will appear as a USB mass storage
- device when connected to your computer."</string>
+     <string name="msd_pc_system_install_finish_summary_vista">"Для версий Windows Vista и новее,
+музыкальный плеер \"%1$s\" будет автоматически отображаться на ПК"</string>
+     <string name="msd_pc_system_install_finish_summary_xp">"После установки этого драйвера,
+\"%1$s\" будет отображаться при подключении к ПК как USB-накопитель"</string>
+     <string name="msd_pc_system_install_start_summary_vista">"Для версий Windows Vista и новее,
+\"%1$s\" будет автоматически отображаться как USB-накопитель"</string>
+     <string name="msd_pc_system_install_step_2_summary_xp">"2. \"%1$s\" будет отображаться как USB-накопитель 
+ при подключении к ПК"</string>
      <string name="msg_cleanup_db_update_checking">Проверка…</string>
      <string name="msg_cleanup_db_update_time_unknown">Обновлено: неизвестно</string>
      <string name="msg_system_cache_hints">Очистка кэшированных данных не затронет файлы приложений, настройки учетных записей, базы данных и т.д.</string>
@@ -2633,8 +2623,7 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="search_status_bar">статус-бар</string>
      <string name="search_sync">синхронизация</string>
      <string name="search_tether">модем</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="search_unlock_set">unlock set</string>
+     <string name="search_unlock_set">разблокировка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="search_vpn">vpn</string>
      <string name="search_wallpaper">обои</string>
@@ -2819,8 +2808,6 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="status_bar_settings">Панель уведомлений</string>
      <string name="status_bt_address">Адрес Bluetooth</string>
      <string name="status_data_state">Передача данных в моб. сети</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="status_esn_number">ESN</string>
      <string name="status_network_type">Тип мобильной сети</string>
      <string name="status_number">Мой номер телефона</string>
      <string name="status_operator">Сеть</string>
@@ -2835,7 +2822,7 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="status_wimax_mac_address">МАС-адрес для 4G</string>
      <string name="storage_format">Форматирование</string>
      <string name="storage_label">ПАМЯТЬ</string>
-     <string name="storage_low_summary">Некоторые функции, например, синхронизация, могут работать некорректно. Попробуйте освободить место путем удаления приложений или медиа файлов</string>
+     <string name="storage_low_summary">Некоторые функции, например, синхронизация, могут работать некорректно. Попробуйте освободить место путем удаления приложений или медиа файлов.</string>
      <string name="storage_low_title">Заканчивается свободное место</string>
      <string name="storage_menu_usb">USB-подключение к компьютеру</string>
      <string name="storage_other_users">Другие пользователи</string>
@@ -2952,6 +2939,8 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="trackball_settings">Трекбол</string>
      <string name="trackball_wake_title">Пробуждение от трекбола</string>
      <string name="transition_animation_scale_title">Скорость переходов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="translation_contributors_title">Contributors</string>
      <string name="trust_switch_dialog_msg">"Система не будут спрашивать Вас о подтверждении любых операций связанных с безопасностью и конфиденциальностью. Пожалуйста, убедитесь, что хорошо знаете данного разработчика.
 Вы доверяете этому приложению?"</string>
      <string name="trusted_credentials">Надежные сертификаты</string>
@@ -3433,8 +3422,7 @@ the %1$s music player will appear on your computer automatically"</string>
      <string name="wifi_display_summary_disabled">Отключен</string>
      <string name="wifi_display_summary_off">Выкл</string>
      <string name="wifi_display_summary_on">Вкл</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wifi_display_wps_config">WPS configuration</string>
+     <string name="wifi_display_wps_config">Настройка WPS</string>
      <string name="wifi_dont_skip">Не пропускать</string>
      <string name="wifi_eap_anonymous">Неизвестный</string>
      <string name="wifi_eap_ca_cert">Сертификат центра сертификации</string>

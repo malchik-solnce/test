@@ -338,6 +338,10 @@
      <string name="vip_recommend_sub_title">За 5 юаней в месяц</string>
      <string name="vip_recommend_summary">Слушайте онлайн или скачивайте любимые песни исполнителей</string>
      <string name="vip_recommend_title">Высококачественная музыка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="volume_alert_playback_alert_title">Volume alert</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="volume_alert_playback_message">To prevent possible hearing damage, do not listen at high volume levels for long periods.</string>
      <string name="where_is_barcode">Где QR-код?</string>
      <string name="xiaomi_account_setting">Аккаунт Xiaomi</string>
 </resources>

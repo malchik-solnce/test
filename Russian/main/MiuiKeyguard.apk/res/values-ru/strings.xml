@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="contact_carrier_message">Свяжитесь с оператором, если у вас возникли дополнительные вопросы</string>
      <string name="emergency_call_string">Экстренные</string>
@@ -25,6 +25,7 @@
      <string name="input_pin_code_to_unlock">Введите PIN-код для разблокировки</string>
      <string name="input_puk_code">Введите PUK</string>
      <string name="input_puk_code_to_unlock">Введите PUK-код для разблокировки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="lock_screen_date">EEEE, dd.MM</string>
      <string name="lockscreen_access_pattern_cell_added">Ячейка добавлена</string>
      <string name="lockscreen_access_pattern_cleared">Комбинация очищена</string>
@@ -67,6 +68,7 @@
      <string name="short_pukcode_error_msg">Введите не менее 8 цифр</string>
      <string name="starting_camera_string">Запуск камеры</string>
      <string name="unlock_sim_string">Разблокировать SIM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unlock_string">OK</string>
      <string name="unlocking_sim_card">Разблокировка SIM-карты</string>
      <string name="unlockscreen_low_battery">Подключите зарядное устройство</string>

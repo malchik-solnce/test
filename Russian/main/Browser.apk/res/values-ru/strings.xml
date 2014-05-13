@@ -504,6 +504,10 @@
      <string name="sign_in_to" formatted="false">Войти в %s1 \"%s2\"</string>
      <string name="snapshot_failed">Не удалось сохранить страницу</string>
      <string name="snapshot_go_live">Интерактивная версия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ssl_certificate">Security certificate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ssl_certificate_is_valid">This certificate is valid.</string>
      <string name="ssl_continue">Продолжить</string>
      <string name="ssl_date_invalid">Дата этого сертификата недействительна</string>
      <string name="ssl_expired">Срок действия сертификата истек</string>
@@ -577,4 +581,6 @@
      <string name="webview_today">Сегодня</string>
      <string name="webview_yesterday">Вчера</string>
      <string name="week_picker_dialog_title">Установка недели</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_bookmark_title">Xiaomi</string>
 </resources>

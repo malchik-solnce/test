@@ -1,10 +1,7 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="new_account_types">
-        <item>Регистрация по телефону (рекомендуется)</item>
-        <item>Регистрация по е-mail</item>
-    </string-array>
-    <string-array name="mihome_reserve_week">
+     <string-array name="mihome_reserve_week">
         <item>Воскресенье</item>
         <item>Понедельник</item>
         <item>Вторник</item>
@@ -12,5 +9,13 @@
         <item>Четверг</item>
         <item>Пятница</item>
         <item>Суббота</item>
-    </string-array>
+     </string-array>
+     <string-array name="new_account_types">
+        <item>Регистрация по телефону (рекомендуется)</item>
+        <item>Регистрация по е-mail</item>
+     </string-array>
+     <string-array name="pay_types">
+        <item>@string/pay_alipay</item>
+        <item>@string/pay_uppay</item>
+     </string-array>
 </resources>

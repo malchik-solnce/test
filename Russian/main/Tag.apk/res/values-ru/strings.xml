@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="action_call">Call %s</string>
      <string name="action_text">Text %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Tags</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_done">Done</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="empty_tag_prompt">This tag is empty.</string>
      <string name="import_vcard">Import ^1</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mime_display_name">Data from NFC tag</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tag_empty">Empty tag</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tag_unknown">Unknown tag type</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_existing_tag">Tag</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_scanned_tag">New tag collected</string>
      <string name="vcard_title">Contact info for ^1</string>
 </resources>

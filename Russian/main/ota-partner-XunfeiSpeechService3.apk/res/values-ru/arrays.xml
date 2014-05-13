@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string-array name="array_role_entries">
+     <string-array name="array_role_entries">
         <item>Xiao Yan</item>
         <item>Xiao Feng</item>
         <item>Xiao Mei</item>
@@ -12,5 +13,18 @@
         <item>Xiao Lin</item>
         <item>Xiao Jing</item>
         <item>Jia Jia</item>
-    </string-array>
+     </string-array>
+     <string-array name="array_role_values">
+        <item>3</item>
+        <item>4</item>
+        <item>15</item>
+        <item>11</item>
+        <item>25</item>
+        <item>24</item>
+        <item>7</item>
+        <item>14</item>
+        <item>22</item>
+        <item>8</item>
+        <item>9</item>
+     </string-array>
 </resources>

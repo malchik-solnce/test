@@ -40,7 +40,7 @@
      <string name="download_succ_ok">Открыть</string>
      <string name="download_success">Получено: %1$s</string>
      <string name="download_title">Передача файла</string>
-     <string name="empty_file_notification_sent">Bluetooth передача: Remote rejected zero length file %1$s</string>
+     <string name="empty_file_notification_sent">Bluetooth передача: отклонено нулевых файлов %1$s</string>
      <string name="enabling_progress_content">Включение Bluetooth…</string>
      <string name="enabling_progress_title">Подождите…</string>
      <string name="format_progress_text">%1$d%%</string>

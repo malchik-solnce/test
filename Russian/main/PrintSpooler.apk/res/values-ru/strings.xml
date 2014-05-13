@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
      <string name="add_print_service_label">Добавить службу печати</string>
      <string name="advanced_settings_button">Настроить</string>
@@ -22,7 +22,9 @@
      <string name="no_connection_to_printer">Нет связи с принтером</string>
      <string name="page_count_unknown">Количество страниц</string>
      <string name="pages_range_example">напр., 1–5, 8, 11–13</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_accessAllPrintJobs">Allows the holder to access print jobs created by another app. Should never be needed for normal apps.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="permdesc_startPrintServiceConfigActivity">Allows the holder to start the configuration activities of a print service. Should never be needed for normal apps.</string>
      <string name="permlab_accessAllPrintJobs">доступ ко всем заданиям печати</string>
      <string name="permlab_startPrintServiceConfigActivity">запуск службы конфигурации печати</string>

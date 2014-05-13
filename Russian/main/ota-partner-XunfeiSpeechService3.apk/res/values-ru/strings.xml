@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-   <string name="action_settings">Настройки</string>
+     <string name="action_settings">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_id">5146b468</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_id_service">5146b468</string>
      <string name="app_name">Движок iFlytek 3.0</string>
      <string name="app_name_service">Движок iFlytek 3.0</string>
      <string name="application_download_finish_help">Нажмите для установки</string>
      <string name="application_download_stopped_help">Нажмите для перехода на страницу загрузки</string>
      <string name="btn_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="btn_confirm">OK</string>
      <string name="button_text_abort">Оборвать</string>
      <string name="button_text_cancel">Отменить</string>
      <string name="button_text_complete">Завершено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="button_text_confirm">OK</string>
      <string name="button_text_hide_download">Скрыть</string>
      <string name="button_text_setting">Настроить</string>
@@ -30,6 +37,7 @@
      <string name="download_cancel">Отмена</string>
      <string name="download_canceled">Загрузка отменена</string>
      <string name="download_check_network">Нет подключения к сети</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="download_confirm">OK</string>
      <string name="download_confirm_recommend">Подтверждение</string>
      <string name="download_dialog_title">Загрузка</string>
@@ -56,6 +64,7 @@
      <string name="download_unknown_filename">&lt;неизвестно></string>
      <string name="download_unknown_title">&lt;Без названия></string>
      <string name="fyr_download_no">Ресурсы не загружены. Скачайте!</string>
+     <string name="hello_world">Hello world!</string>
      <string name="http_error_bad_request">Неверный запрос</string>
      <string name="http_error_connect_timeout">Время ожидания истекло</string>
      <string name="http_error_content_length_invalid">Ошибка загрузки. Невозможно определить размер файла.</string>
@@ -75,6 +84,8 @@
      <string name="http_error_unknown">Неизвестная ошибка</string>
      <string name="iat_service_name">Синтезатор речи iFlytek</string>
      <string name="iat_settings_name">Настройки сентезатора iFlytek</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ivw_append_unit">160</string>
      <string name="logo">Синтезатор речи iFlytek</string>
      <string name="main_version">Версия</string>
      <string name="net_err_dialog_content">Нет подключения к сети</string>
@@ -85,15 +96,21 @@
      <string name="notification_filename_separator">"、 "</string>
      <string name="refresh_name">Обновлено</string>
      <string name="sample_text_cn">这是中文合成效果!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sample_text_en">this is English sample</string>
      <string name="summary_list_preference_role">Выберите тип голоса</string>
      <string name="tips">"Совет: 
 Проверяйте наличие обновлений регулярно, чтобы иметь всегда последнюю версию приложения."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_activity_wxtext">WXText</string>
      <string name="title_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="title_done">OK</string>
      <string name="title_list_preference_role">Настройки голоса</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tts_service_name">iFlytek TTS</string>
      <string name="tts_settings_name">Настройка iFlytek TTS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="version_code">3.0.1023</string>
      <string name="version_name">Версия:</string>
 </resources>
