@@ -248,8 +248,6 @@
      <string name="playlist_renamed_message">Плейлист переименован</string>
      <string name="playlists_title">Плейлисты</string>
      <string name="powered_by">При поддержке</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="project_device">Mi Box</string>
      <string name="project_device_mobile">Телефон</string>
      <string name="queue">В очередь</string>
      <string name="quit_player">Выйти</string>
@@ -289,6 +287,8 @@
      <string name="search_suggestion">Поиск предложений:</string>
      <string name="search_title">Поиск</string>
      <string name="select_all">Все</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="select_device">Select device</string>
      <string name="select_folder">Выберите папку</string>
      <string name="select_quit_time">Время до отключения (в минутах)</string>
      <string name="send_to">Отправить</string>

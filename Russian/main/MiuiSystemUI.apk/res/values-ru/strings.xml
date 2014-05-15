@@ -54,6 +54,8 @@
      <string name="battery_low_why">Статистика</string>
      <string name="bluetooth_tethered">Общий модем доступен через Bluetooth</string>
      <string name="call_status_dialing">Вызов</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="call_status_ringing">Ringing</string>
      <string name="camera_key_action_app_title">Открыть приложение</string>
      <string name="camera_key_action_category_title">Действия клавиши \"MI\"</string>
      <string name="camera_key_action_none_title">Запуск камеры</string>
@@ -144,8 +146,12 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="oldman_incall_text">incall</string>
      <string name="oldman_status_bar_time_format">HH:mm</string>
+     <string name="oldman_status_bar_time_format_12">h:mm</string>
+     <string name="oldman_status_bar_time_format_24">HH:mm</string>
      <string name="recent_apps_key">Недавние приложения</string>
      <string name="recent_apps_key_show">Показывать кнопку недавних приложений</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reject_call">Rejecting a call</string>
      <string name="return_to_incall_screen">Нажмите для возврата к разговору</string>
      <string name="screen_button_custom">Настройка кнопок</string>
      <string name="screen_button_disabled_message">Нижние клавиши отключены. Вы можете включить их снова, нажав клавиши \"Домой\" + \"Питание\".</string>

@@ -53,4 +53,11 @@
         <item>Ошибка синхронизации</item>
         <item>Внутренняя ошибка</item>
      </string-array>
+     <string-array name="wait_for_sync_body_txt_array">
+        <item>@string/wait_for_sync_body_txt_array_1</item>
+        <item>@string/wait_for_sync_body_txt_array_2</item>
+        <item>@string/wait_for_sync_body_txt_array_3</item>
+        <item>@string/wait_for_sync_body_txt_array_4</item>
+        <item>@string/wait_for_sync_body_txt_array_5</item>
+     </string-array>
 </resources>

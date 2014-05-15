@@ -36,7 +36,13 @@
      <string name="brief_intro">Описание</string>
      <string name="browse_devices">Устройства</string>
      <string name="browse_folder">Папка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btnplayerdefault">default</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btnplayerfavorite">Favorite</string>
      <string name="btnplayerforecast">Прогноз</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btnplayerfullscreen">full</string>
      <string name="btnplayerselect">Канал</string>
      <string name="buffering">Буферизация…</string>
      <string name="buffering_video_netplay_label_v5">Буферизация…</string>
@@ -51,6 +57,8 @@
      <string name="cancel_hide">Показать</string>
      <string name="cancel_select_all">Снять все</string>
      <string name="cancel_waitfornewset">Не следить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cancelappointment">cancel appointment</string>
      <string name="cant_connecting">Не удается подключиться к серверу</string>
      <string name="channel_more">Еще</string>
      <string name="check_network">Не удалось подключиться к сети. Проверь настройки.</string>
@@ -63,6 +71,8 @@
      <string name="clear_playhistory">Очистить историю просмотра</string>
      <string name="clear_playhistory_tip">Вся история просмотра в плеере будет удалена. Продолжить?</string>
      <string name="clearplayhistory">Очистить историю</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="click_to_list">click to view details</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cnlive">cnlive</string>
      <string name="comment">Комментарии</string>
@@ -96,6 +106,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlna_name">Shared device</string>
      <string name="download_add_success">Загрузка добавлена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="download_add_sucess">add task done</string>
      <string name="download_delete">Удалить задачу</string>
      <string name="download_fail">Ошибка загрузки</string>
      <string name="download_file_fail">Нет даступа к файлу. Возможно нехватает места на SD-карте.</string>
@@ -179,6 +191,8 @@
      <string name="local_count_ji">Сделано в Китае %d эп.</string>
      <string name="login_tip_content">Войдите в аккаунт для синхронизации и обновления шоу которые смотрите</string>
      <string name="login_tip_title">Авторизация</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="makeappointment">make appointment</string>
      <string name="manage">Управление</string>
      <string name="media_source_unavailable">Источник недоступен</string>
      <string name="mediaset">Серии</string>
@@ -214,6 +228,8 @@
      <string name="network_setting">Сеть</string>
      <string name="no_comment_tip">Нельзя отправить пустой комм</string>
      <string name="no_favorite">Пусто</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_favoritehistory">No favorite Channel</string>
      <string name="no_filter_media">Ничего не найдено</string>
      <string name="no_login_xiaomi_account">Войдите в Xiaomi аккаунт прежде чем комментировать</string>
      <string name="no_media">Пусто</string>

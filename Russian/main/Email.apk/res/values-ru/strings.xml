@@ -24,6 +24,8 @@
      <string name="account_folder_list_summary_inbox">Входящие</string>
      <string name="account_folder_list_summary_outbox">Исходящие</string>
      <string name="account_folder_list_summary_starred">Избранные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_name_toast">Duplicate with existing one, please rename</string>
      <string name="account_password_spaces_error">Пароль начинается или заканчивается пробелом. Некоторые серверы не поддерживают пароли с пробелами</string>
      <string name="account_security_dialog_content_fmt">Для аккаунта %s требуется обновить настройки безопасности</string>
      <string name="account_security_dialog_title">Обновления безопасности</string>
@@ -191,6 +193,8 @@
      <string name="address_display_format">%1$s | %2$s</string>
      <string name="address_display_format_with_via_domain">%1$s (%2$s из домена %3$s)</string>
      <string name="all_folders_heading">Все папки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="allread">All Readed</string>
      <string name="always_bcc_myself">Всегда копию себе</string>
      <string name="always_show_images">Всегда открывать картинки от этого отправителя</string>
      <string name="always_show_images_toast">Картинки от этого отправителя будут всегда показываться</string>
@@ -246,6 +250,7 @@
      <string name="change_folders_selection_dialog_title">Изменение папок</string>
      <string name="change_sync_settings">Настройки синхронизации</string>
      <string name="checking_for_mail">Проверка почты…</string>
+     <string name="checking_message">正在检查版本…</string>
      <string name="choosertitle_sharevia">Отправить через</string>
      <string name="clear">Да</string>
      <string name="clear_display_images_whitelist_dialog_message">Вы действительно хотите запретить показ изображений в письмах?</string>
@@ -255,9 +260,18 @@
      <string name="colon">:</string>
      <string name="compose">Написать</string>
      <string name="compose_help_context">написать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="compose_send">Send</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="compose_sent">Sent Successfully</string>
      <string name="confirm">да</string>
      <string name="confirm_discard_text">Удалить это сообщение?</string>
      <string name="confirm_response">Отправка ответа…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_save_message_no">No</string>
+     <string name="confirm_save_message_title">Save as draft?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_save_message_yes">Yes</string>
      <string name="confirm_send_message">Отправить это сообщение?</string>
      <string name="confirm_send_message_with_no_body">Введите текст сообщения</string>
      <string name="confirm_send_message_with_no_subject">Укажите тему</string>
@@ -321,22 +335,33 @@
      <string name="dismiss_tip_hover_text">Закрыть подсказку</string>
      <string name="done">Назад</string>
      <string name="done_action">Готово</string>
+     <string name="donot_download">暂不下载</string>
+     <string name="donot_upgrade">暂不更新</string>
      <string name="downlaod_cancel_confirm_download">Отменить загрузку</string>
      <string name="downlaod_cancel_continue_download">Отмена</string>
      <string name="downlaod_confirm_download">Загрузить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="downlaod_nonWifi_confirm_message">Download will consume the traffic, please confirm</string>
      <string name="download_again">Скачать еще раз</string>
      <string name="download_before_sharing">" еще не загружено. Сначала скачайте, прежде чем отправлять!"</string>
      <string name="download_cancel_confirm_title">Отменить загрузку?</string>
+     <string name="download_complete_message">点击马上更新，进行全新体验！</string>
      <string name="download_complete_not_cancel">Загрузка завершена. Отменить не удалось!</string>
+     <string name="download_complete_title">下载完成</string>
      <string name="download_confirm_message">Чтобы открыть этот файл, Вам нужно скачать размер вложения в 180Кб %1$s</string>
      <string name="download_confirm_title">Подтверждение загрузки</string>
      <string name="download_failed">Ошибка загрузки. Нажмите, чтобы повторить.</string>
+     <string name="download_now">立即下载</string>
+     <string name="downloading">正在下载</string>
      <string name="draft_count_format"> (%1$s)</string>
      <string name="drawer_close">Закрыть панель навигации</string>
      <string name="drawer_open">Открыть панель навигации</string>
+     <string name="eas_template">domain\\user</string>
      <string name="edit_quick_response_dialog">Быстрый ответ</string>
      <string name="elided_padding_token"> </string>
      <string name="email_feedback_uri" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_account_tip">Could not find account</string>
      <string name="empty_email_tip">Не удалось отправить пустое письмо</string>
      <string name="empty_spam">Удалить спам</string>
      <string name="empty_spam_dialog_title">Удалить спам?</string>
@@ -358,6 +383,7 @@
      <string name="file_not_found">Файл не найден на сервере</string>
      <string name="file_not_found_reDownload">Файл не найден. Повторите еще раз.</string>
      <string name="file_rar_not_support">Не поддерживает зашифрованный файл RAR!</string>
+     <string name="file_size">大小为</string>
      <string name="filtered_tag">[%1$s]%2$s</string>
      <string name="folder_icon_desc">Значок папки</string>
      <string name="folder_picker_title">Выберите папку</string>
@@ -504,14 +530,23 @@
      <string name="name_or_number_is_error">Неверный логин или пароль</string>
      <string name="net_check_title">Проверьте настройки сети</string>
      <string name="network_error">Нет подключения</string>
+     <string name="new_down_desc1">温馨提示：</string>
+     <string name="new_down_desc2">会保存上一版本的使用记录</string>
+     <string name="new_down_desc3">升级使用流量较多，建议使用Wifi</string>
+     <string name="new_feature_desc">改进信息：</string>
      <string name="new_incoming_messages_one">%s – новое сообщение. Показать.</string>
      <string name="new_messages">Новых сообщений: %1$d</string>
+     <string name="new_version">最新版本：</string>
      <string name="next_action">Далее</string>
      <string name="no">Нет</string>
      <string name="no_application_found">Файл не поддерживается вашими приложениями</string>
      <string name="no_conversations">Нет сообщений</string>
+     <string name="no_display_this_version">本版本不再提示</string>
+     <string name="no_enough_space">空间不足</string>
      <string name="no_mails">Нет сообщений</string>
      <string name="no_matched_attachment">Нет подобранных вложений!!</string>
+     <string name="no_sdcard">sd卡不存在或未加载成功</string>
+     <string name="no_update">版本已是最新，无需更新</string>
      <string name="non_synced_folder_description">Для просмотра цепочек писем синхронизируйте эту папку</string>
      <string name="not_subject">Нет темы</string>
      <string name="not_synced_title">Аккаунт не синхронизирован</string>
@@ -525,6 +560,7 @@
      <string name="notification_action_undo_delete">Удалено</string>
      <string name="notification_action_undo_remove_label">Ярлык удален</string>
      <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
+     <string name="now_version">当前版本：</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -534,6 +570,8 @@
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
      <string name="outbox_alert_title_sent_failed">Ошибка отправки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="parase_setup_data">Getting the config data...</string>
      <string name="password_changed_prompt">Не удалось войти</string>
      <string name="password_expire_warning_content_title">Истекает срок действия пароля</string>
      <string name="password_expire_warning_dialog_content_fmt">Вам следует в ближайшее время изменить PIN-код или пароль блокировки экрана, иначе данные аккаунта %s будут удалены. Изменить сейчас?</string>
@@ -664,6 +702,7 @@
      <string name="search_results_loaded">%1$d</string>
      <string name="search_results_searching_header">Поиск…</string>
      <string name="search_title">Единые E-mail</string>
+     <string name="search_txt_size_limit_prompt">Search string must be greater than 3。</string>
      <string name="search_unsupported">В этом аккаунте не поддерживается поиск</string>
      <string name="security_changed_ticker_fmt">В аккаунте %s обновлены настройки безопасности. Ничего делать не нужно.</string>
      <string name="security_needed_ticker_fmt">В аккаунте %s требуется обновить настройки безопасности</string>
@@ -697,6 +736,7 @@
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="sort_attachment">Сортировка</string>
      <string name="spaceChar">" "</string>
+     <string name="start_download">开始下载</string>
      <string name="status_network_error">Ошибка подключения</string>
      <string name="storage">Память</string>
      <string name="str_select_all">Выбрать все</string>
@@ -742,6 +782,10 @@
      <string name="unsent_messages_in_outbox">Неотправленных сообщений в папке \"%2$s\": %1$s</string>
      <string name="updated_at">Обновлено:%1$s</string>
      <string name="updated_just_now">Обновлено</string>
+     <string name="upgrade_check">检查更新</string>
+     <string name="upgrade_network_error">网络异常，请检查您的网络连接</string>
+     <string name="upgrade_now">马上更新</string>
+     <string name="upgrade_title">升级</string>
      <string name="validation_failed_prompt">Проверка не удалась. Пожалуйста, установите сервер %s.</string>
      <string name="veiled_address" />
      <string name="veiled_alternate_text" />
@@ -753,6 +797,17 @@
 Выберите "<b>Настройки синхронизации</b>, чтобы включить ее, или <b>Синхронизировать сейчас</b>, чтобы синхронизировать почту один раз."</string>
      <string name="wait_for_sync_body">Ваши сообщения загружаются</string>
      <string name="wait_for_sync_body_2">Сервер Exchange спросит Вас через 1-30 секунд. Пожалуйста, подтвердите настройки безопасности и активируйте. Обратите внимание на предупреждение системы.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wait_for_sync_body_txt_array_1">Exchange Server will prompt you within</string>
+     <string name="wait_for_sync_body_txt_array_2">1–30</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wait_for_sync_body_txt_array_3">seconds.Please confirm the security setting and activate.Pay attention to</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wait_for_sync_body_txt_array_4">system alert</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wait_for_sync_body_txt_array_5">.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wait_for_sync_note">Please slide from the top to get the notification. Click to finish the security setting.</string>
      <string name="wait_for_sync_title">Синхронизация…</string>
      <string name="wait_help_context">подождите</string>
      <string name="widget_all_mail">Все входящие</string>
