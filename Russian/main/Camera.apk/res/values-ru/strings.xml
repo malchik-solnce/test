@@ -15,7 +15,6 @@
      <string name="accessibility_more_ptions_closed">Дополнительные настройки отключены</string>
      <string name="accessibility_more_ptions_opened">Дополнительные настройки включены</string>
      <string name="accessibility_open_more_ptions">Вкл. доп. настройки</string>
-     <string name="accessibility_opti_zoom_button">Opti_Zoom</string>
      <string name="accessibility_review_thumbnail">Недавние фото</string>
      <string name="accessibility_scroll_button_slider">Camera-Video-Switcher</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -198,13 +197,10 @@
      <string name="pref_camera_auto_chroma_flash_title">Авто Chroma вспышка</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
-     <string name="pref_camera_auto_opti_zoom_title">Автом. увеличение, если соотношение больше чем 2</string>
      <string name="pref_camera_autoexposure_entry_centerweighted">Взвешенный по центру</string>
      <string name="pref_camera_autoexposure_entry_frameaverage">Средний по кадру</string>
      <string name="pref_camera_autoexposure_entry_spotmetering">Точечный</string>
      <string name="pref_camera_autoexposure_title">Режим автоэкспозамера</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_coloreffect_default">none</string>
      <string name="pref_camera_coloreffect_entry_aqua" />
      <string name="pref_camera_coloreffect_entry_brannan">Рассвет</string>
      <string name="pref_camera_coloreffect_entry_earlybird">Осень</string>
@@ -228,8 +224,6 @@
      <string name="pref_camera_coloreffect_entry_xproii">XProII</string>
      <string name="pref_camera_coloreffect_entry_yesteryear">Прошлый год</string>
      <string name="pref_camera_coloreffect_title">Эффекты</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_contrast_default">5</string>
      <string name="pref_camera_contrast_title">Контрастность</string>
      <string name="pref_camera_current_k_value">Текущее значение</string>
      <string name="pref_camera_default_suffix">(по умолчанию)</string>
@@ -268,12 +262,6 @@
      <string name="pref_camera_hdr_title">HDR</string>
      <string name="pref_camera_hdr_type_entry_live">Живой</string>
      <string name="pref_camera_hdr_type_entry_normal">Обычный</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_hdr_type_entryvalue_default">live</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_hdr_type_entryvalue_live">live</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_hdr_type_entryvalue_normal">normal</string>
      <string name="pref_camera_hdr_type_title">Тип HDR</string>
      <string name="pref_camera_hfr_entry_off">Выкл.</string>
      <string name="pref_camera_hfr_title">Высокая частота кадров (медленное движение)</string>
@@ -374,10 +362,6 @@
      <string name="pref_camera_skinToneEnhancement_title">Улучшение цвета кожи</string>
      <string name="pref_camera_sound_entry_off">Выкл.</string>
      <string name="pref_camera_sound_entry_on">Вкл.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_sound_entryvalue_off">off</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_sound_entryvalue_on">on</string>
      <string name="pref_camera_sound_title">Звуки камеры</string>
      <string name="pref_camera_sound_title_entry_off">Выкл.</string>
      <string name="pref_camera_sound_title_entry_on">Вкл.</string>
@@ -394,8 +378,6 @@
      <string name="pref_camera_volumekey_function_entry_shutter">Затвор</string>
      <string name="pref_camera_volumekey_function_entry_volume">Громкость</string>
      <string name="pref_camera_volumekey_function_entry_zoom">Зум</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pref_camera_volumekey_function_entryvalue_exposure">exposure</string>
      <string name="pref_camera_volumekey_function_title">Функция клавиши громкости</string>
      <string name="pref_camera_watermark_entry_off">Выкл.</string>
      <string name="pref_camera_watermark_entry_on">Вкл.</string>

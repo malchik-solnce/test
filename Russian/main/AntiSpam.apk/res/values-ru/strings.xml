@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+     <string name="ACaddnumcontent">输入开头号码,系统自动补通配符*</string>
      <string name="ACaddnumtitle">Добавить префикс номера телефона в белый список</string>
      <string name="AD_ALLOW">Разрешить рекламу</string>
      <string name="AD_APPInfo">Информация о приложении</string>
@@ -19,14 +20,19 @@
      <string name="AD_Unistall">Удалить</string>
      <string name="Call_ADRESS">Регионы</string>
      <string name="Call_BLACKLIST">Вызовы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="Call_DEFAULT">Smart blocklist</string>
      <string name="Call_MODENAME">По умолчанию</string>
      <string name="Call_PREFIX">Префиксы</string>
      <string name="Call_PRIVATE_CALL">Приватные вызовы</string>
+     <string name="NACaddnumcontent">输入电话号码</string>
      <string name="NACaddnumtitle">Добавить номер телефона в белый список</string>
      <string name="PAST_BLOCK">Ранее заблокированые</string>
      <string name="Phonepass">Разрешить вызовы</string>
      <string name="SMS_ADRESS">Регионы</string>
      <string name="SMS_BLACKLIST">Сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="SMS_DEFAULT">Smart blocklist</string>
      <string name="SMS_KEYWORDS">Ключевые слова</string>
      <string name="SMS_MODENAME">По умолчанию</string>
      <string name="SMS_PREFIX">Префиксы</string>
@@ -42,6 +48,7 @@
      <string name="addwhitelist">В белый список</string>
      <string name="all_address_choose_hint">Все регионы</string>
      <string name="app_name">Черный список</string>
+     <string name="backsound_set_hint">Set your backsound to %s?</string>
      <string name="baidu_thanks">При поддержке Baidu</string>
      <string name="bl_block_info" formatted="false">Вызовов: %d | Сообщений: %d</string>
      <string name="bl_no_blacklist">Пусто</string>
@@ -50,6 +57,7 @@
      <string name="blacklist_prefix_add_hint">Добавить все номера с префиксом в черный список</string>
      <string name="block_message_number">Заблокировано: %d</string>
      <string name="block_phone_number">Заблокировано: %d</string>
+     <string name="call_delete_hint">Delete all blocked calls from selected number?</string>
      <string name="cancle">Отмена</string>
      <string name="close_callwait">Выключить</string>
      <string name="customizer_mode_user_define_name">Мой режим</string>
@@ -85,9 +93,11 @@
      <string name="dlg_remove_address_blacklist">Удалить регион из черного списка и восстановить связанные сообщения в список диалогов?</string>
      <string name="dlg_remove_address_whitelist">Удалить регион из белого списка?</string>
      <string name="dlg_remove_blacklist">Удалить этот номер из черного списка?</string>
+     <string name="dlg_remove_blacklist_ing">Removing from blocklist…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_remove_blacklist_ok">OK</string>
      <string name="dlg_remove_whitelist">Удалить выбранные номера из белого списка?</string>
+     <string name="dlg_remove_whitelist_ing">Removing from exceptions…</string>
      <string name="dlg_retore">Восстановить это сообщение?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dlg_retore_ok">OK</string>
@@ -138,6 +148,7 @@
      <string name="note_sms_none">Нет сообщений</string>
      <string name="one_address_choose_hint">Регион: %s1</string>
      <string name="open_callwait">Включить</string>
+     <string name="sms_delete_hint">Delete all blocked messages sent from selected number?</string>
      <string name="st_advanced_setting_group">Дополнительно блокировать</string>
      <string name="st_antispam_black_adress_add">Выбрать регион</string>
      <string name="st_antispam_bw_adress_add">Добавить регион</string>

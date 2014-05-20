@@ -62,8 +62,6 @@
      <string name="auto_answer_pref_summary_miui">Автоматический ответ на вызовы</string>
      <string name="auto_answer_pref_title_miui">Автоответ</string>
      <string name="auto_answer_scenario_enteries_always_miui">Всегда</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="auto_answer_scenario_enteries_bluetooth_only_miui">Bluetooth</string>
      <string name="auto_answer_scenario_enteries_headset_bluetooth_miui">Гарнитура/Bluetooth</string>
      <string name="auto_answer_scenario_enteries_headset_only_miui">Гарнитура</string>
      <string name="auto_answer_scenario_title_miui">Автоответ</string>
@@ -167,8 +165,6 @@
      <string name="call_settings_category_miui">НАСТРОЙКИ ВЫЗОВА</string>
      <string name="call_settings_miui">Вызовы</string>
      <string name="call_title_redialing_with_times_miui">Повторный набор: попытка № %d</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="call_type">CallType</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="call_type_title">IMS Call type</string>
      <string name="call_waiting_sum_miui">Во время разговора, сообщите мне о входящих звонках</string>

@@ -595,8 +595,6 @@
      <string name="captioning_foreground_color">Цвет текста</string>
      <string name="captioning_locale">Язык</string>
      <string name="captioning_preset">Стиль титров</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="captioning_preview_characters">KDev Group</string>
      <string name="captioning_preview_text">Титры будут выглядеть так</string>
      <string name="captioning_preview_title">Предпросмотр</string>
      <string name="captioning_standard_options_title">Стандартные параметры</string>
@@ -980,8 +978,6 @@
      <string name="dolby_bassboost_title">Усиление баса:</string>
      <string name="dolby_effects">Эффекты Dolby</string>
      <string name="dolby_eq_enter_alert_msg">Вы можете использовать только эквалайзер в данном режиме. Включить?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="dolby_eq_enter_alert_title">Dolby Music</string>
      <string name="dolby_mode_movie">Фильм</string>
      <string name="dolby_mode_music">Музыка</string>
      <string name="dolby_mode_off">Выключить</string>
@@ -1069,12 +1065,6 @@
      <string name="external_data_size_label">SD-карта</string>
      <string name="factory_reset_summary">Вы можете удалить Ваши личные данные в Восстановление и сброс или выбрать установленные приложения для удаления и отформатировать SD-карту до заводских настроек</string>
      <string name="failed_to_open_app_settings_toast">Ошибка открытия настроек для %1$s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fancy_icon_antispam">com.miui.antispam.AntiSpam</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fancy_icon_network_assistant">com.wali.miui.networkassistant</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="fancy_icon_power_center">com.miui.powercenter.PowerCenter</string>
      <string name="fcc_equipment_id">ID оборудования</string>
      <string name="filter">Фильтр</string>
      <string name="filter_apps_all">Все</string>
@@ -1820,8 +1810,6 @@
      <string name="opt_restore_perm">Восстановлено разрешений по умолчанию для %d приложений</string>
      <string name="opt_resume_desc">Продолжить</string>
      <string name="opt_scanning">Сканирование…:</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="opt_score">83</string>
      <string name="opt_score_desc">" %"</string>
      <string name="opt_state_done">Готово</string>
      <string name="opt_state_pause">Пауза</string>
@@ -2156,8 +2144,6 @@
      <string name="power_mode_auto_clean_memory_in_ten_minutes">Через 10 минут</string>
      <string name="power_mode_auto_clean_memory_never">Никогда</string>
      <string name="power_mode_balanced_title">Сбалансированный режим</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_mode_bluetooth">Bluetooth</string>
      <string name="power_mode_chooser_button_text">Применить</string>
      <string name="power_mode_cpu_state">Исполь. ЦП</string>
      <string name="power_mode_cpu_state_balance">Сбалансированное</string>
@@ -2166,8 +2152,6 @@
      <string name="power_mode_cpu_state_performance_desc">Производительность приоритетней автономной работы</string>
      <string name="power_mode_cpu_state_save">Энергосбережение</string>
      <string name="power_mode_cpu_state_save_desc">Автономная работа приоритетней производительности</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_mode_gps">GPS</string>
      <string name="power_mode_internet">2G/3G</string>
      <string name="power_mode_my_mode">Мой режим</string>
      <string name="power_mode_my_mode_summary">Автоматическое сохранение ежедневного статуса использования</string>
@@ -2201,11 +2185,6 @@
      <string name="power_save_low_battery_option_recovery_title">Батарея заряжена</string>
      <string name="power_save_low_battery_option_summary">После подзарядки батареи выше нижнего порога, устройство вернется к последнему режиму</string>
      <string name="power_save_low_battery_option_title">Батарея села</string>
-     <string name="power_save_low_battery_percentage_fifty">50%</string>
-     <string name="power_save_low_battery_percentage_forty">40%</string>
-     <string name="power_save_low_battery_percentage_ten">10%</string>
-     <string name="power_save_low_battery_percentage_thirty">30%</string>
-     <string name="power_save_low_battery_percentage_twenty">20%</string>
      <string name="power_save_low_battery_seekbar_title">Переключить режим, когда заряд батареи чем %1$d%%</string>
      <string name="power_save_low_battery_title">Смена режима по питанию</string>
      <string name="power_save_on_time_auto_save_title">Включить</string>
@@ -2235,11 +2214,7 @@
      <string name="power_usage_summary">На что расходуется заряд батареи</string>
      <string name="power_usage_summary_title">Состояние батареи</string>
      <string name="power_used_hours">ч.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_used_hours_test">8</string>
      <string name="power_used_mins">мин.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="power_used_mins_test">23</string>
      <string name="power_used_prefix">Используется</string>
      <string name="power_wifi">Wi-Fi</string>
      <string name="pref_button_light">Включить подсветку</string>
@@ -2263,20 +2238,6 @@
      <string name="pref_volume_wake_summary">Нажатие увеличения/уменьшения громкости для пробуждения устройства</string>
      <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
      <string name="preference_change_password_title">Изменить пароль</string>
-     <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
-     <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
-     <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
-     <string name="preference_key_manual_update_cleanup_db">key_manual_update_cleanup_db</string>
-     <string name="preference_key_module_antipam">module_antipam</string>
-     <string name="preference_key_module_antivirus">key_module_antivirus</string>
-     <string name="preference_key_module_garbage_cleanup">key_garbage_cleanup</string>
-     <string name="preference_key_module_network_assistant">key_network_assistant</string>
-     <string name="preference_key_module_power_center">module_power_center</string>
-     <string name="preference_key_power_usage_details_title">key_power_usage_details_title</string>
-     <string name="preference_key_shortcut_antispam">key_shortcut_antispam</string>
-     <string name="preference_key_shortcut_network_assistant">key_shortcut_network_assistant</string>
-     <string name="preference_key_shortcut_optimize_center">_key_shortcut_optimize_center</string>
-     <string name="preference_key_shortcut_perm_center">key_shortcut_perm_center</string>
      <string name="preferred_app_settings">Приложения по умолчанию</string>
      <string name="preferred_app_settings_default">По умолчанию</string>
      <string name="preferred_app_settings_reset">Сбросить настройки</string>
@@ -2492,15 +2453,11 @@
      <string name="restrict_background_data_notification_summary">Приложения не смогут подключаться к сети, если ограничены фоновые данные</string>
      <string name="restrict_background_data_title">Ограничение данных</string>
      <string name="restriction_bluetooth_config_summary">Разрешить изменение сопряжений и настроек Bluetooth</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="restriction_bluetooth_config_title">Bluetooth</string>
      <string name="restriction_location_enable_summary">Разрешить приложениям использовать информацию о местоположении</string>
      <string name="restriction_location_enable_title">Мое местоположение</string>
      <string name="restriction_menu_change_pin">Изменить PIN-код</string>
      <string name="restriction_menu_reset">Отменить ограничения</string>
      <string name="restriction_nfc_enable_summary">Разрешить обмен данными, когда телефон касается другого устройства</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="restriction_nfc_enable_title">NFC</string>
      <string name="restriction_settings_title">Ограничения</string>
      <string name="restriction_wifi_config_summary">Разрешить изменение настроек Wi-Fi и мобильного интернета</string>
      <string name="restriction_wifi_config_title">Wi-Fi и мобильный интернет</string>
@@ -2684,8 +2641,6 @@
      <string name="settings_safetylegal_activity_unreachable">Устройство не подключено к Интернету. Чтобы просмотреть эту информацию, откройте страницу %s на любом компьютере с интернет-доступом.</string>
      <string name="settings_safetylegal_title">Сведения о безопасности</string>
      <string name="settings_shortcut">Ярлык настроек</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="seventy">70</string>
      <string name="show_all_anrs">Все ANR</string>
      <string name="show_all_anrs_summary">Уведомлять о том, что приложение не отвечает</string>
      <string name="show_background_processes">Показать процессы в кэше</string>
@@ -3614,7 +3569,6 @@
      <string name="wifi_suspend_optimizations_summary">Экономить заряд батареи, когда используется Wi-Fi</string>
      <string name="wifi_tether_checkbox_text">Точка доступа Wi-Fi</string>
      <string name="wifi_tether_configure_ap_text">Настроить точку доступа Wi-Fi</string>
-     <string name="wifi_tether_configure_ssid_default">Хот-спот Android</string>
      <string name="wifi_tether_configure_subtext">Точка доступа %1$s %2$s</string>
      <string name="wifi_tether_enabled_subtext">Точка доступа %1$s активна</string>
      <string name="wifi_tether_failed_subtext">Ошибка подключения</string>

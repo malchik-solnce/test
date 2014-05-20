@@ -52,6 +52,8 @@
      <string name="open_download">Открыть</string>
      <string name="pause_download">Пауза</string>
      <string name="paused_by_app">Приостановлено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paused_insufficient_space">Waiting for sufficient space</string>
      <string name="paused_queued_for_wifi">Ожидание Wi-Fi</string>
      <string name="paused_unknown">Остановлено</string>
      <string name="paused_waiting_for_network">Ожидание сетевого подключения</string>

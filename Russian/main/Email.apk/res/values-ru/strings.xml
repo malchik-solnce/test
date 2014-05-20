@@ -421,8 +421,6 @@
      <string name="hierarchical_folder_top">%1$s∕</string>
      <string name="hint_quick_reply_all">Ответить на все здесь</string>
      <string name="ignore_spam_warning">Я доверяю отправителю</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="imap_name">IMAP</string>
      <string name="inbox_folders_heading">Входящие</string>
      <string name="info">Детали</string>
      <string name="input_password_prompt">Введите пароль:</string>
@@ -624,8 +622,6 @@
      <string name="policy_require_smime">Требовать сообщения SMIME</string>
      <string name="policy_screen_timeout">Блокировать экран при простое</string>
      <string name="policy_text_truncation">Ограничивать размер текст. эл. сообщения</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pop3_name">POP3</string>
      <string name="prefDialogTitle_conversationListIcon">Фотографии отправителей</string>
      <string name="prefDialogTitle_removal_action">Я предпочитаю:</string>
      <string name="preference_removal_action_title">Архивация или удаление</string>
@@ -643,14 +639,6 @@
      <string name="previous_action">Назад</string>
      <string name="prompt_title">Совет</string>
      <string name="protocol">Протокол</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="protocol_eas">eas</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="protocol_imap">imap</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="protocol_legacy_imap">imap</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="protocol_pop3">pop3</string>
      <string name="provider_note_live">Доступ по протоколу POP, позволяющий этой программе подключаться, разрешен только в некоторых аккаунтах Plus. Если Вам не удается войти с помощью своего адреса электронной почты и пароля, скорее всего, у вас бесплатный аккаунт (не Plus). Чтобы войти в такой аккаунт, используйте браузер.</string>
      <string name="provider_note_t_online">Прежде чем настраивать аккаунт, перейдите на веб-сайт оператора связи и установите пароль для доступа к электронной почте по протоколу POP3</string>
      <string name="pull_to_refresh">Потяните, чтобы обновить</string>

@@ -258,25 +258,12 @@
      <string name="date_time_set">Установить</string>
      <string name="day">дн.</string>
      <string name="days">дн.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="db_default_journal_mode">PERSIST</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="db_default_sync_mode">FULL</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="db_wal_sync_mode">FULL</string>
      <string name="decline">Отклонить</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="defaultMsisdnAlphaTag">MSISDN1</string>
      <string name="defaultVoiceMailAlphaTag">Голосовая почта</string>
      <string name="default_audio_route_category_name">Система</string>
      <string name="default_audio_route_name">Телефон</string>
      <string name="default_audio_route_name_dock_speakers">Динамики док-станции</string>
      <string name="default_audio_route_name_headphones">Наушники</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_media_route_name_hdmi">HDMI</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="default_sms_application">com.android.mms</string>
-     <string name="default_text_encoding">Latin-1</string>
      <string name="delete">Удалить</string>
      <string name="deleteText">Удалить</string>
      <string name="deny">Отклонить</string>
@@ -410,8 +397,6 @@
      <string name="httpErrorUnsupportedAuthScheme">Схема аутентификации сайта не поддерживается</string>
      <string name="httpErrorUnsupportedScheme">Протокол не поддерживается</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="icu_abbrev_wday_month_day_no_year">eeeMMMMd</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="imProtocolAim">AIM</string>
      <string name="imProtocolCustom">Создать свой ярлык</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -460,8 +445,6 @@
      <string name="js_dialog_before_unload_positive_button">Покинуть</string>
      <string name="js_dialog_before_unload_title">Подтверждение действия</string>
      <string name="js_dialog_title">Подтвердите действие на %s</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="js_dialog_title_default">JavaScript</string>
      <string name="keyboard_headset_required_to_hear_password">Подключите гарнитуру, чтобы услышать пароль</string>
      <string name="keyboard_password_character_no_headset">Точка</string>
      <string name="keyboardview_keycode_alt">Клавиша ALT</string>
@@ -642,12 +625,6 @@
      <string name="media_route_status_scanning">Сканирование…</string>
      <string name="media_shared">Сейчас USB-накопитель используется компьютером</string>
      <string name="media_unknown_state">Неизвестно состояние внешнего носителя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mediasize_chinese_om_dai_pa_kai">Dai Pa Kai</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mediasize_chinese_om_jurro_ku_kai">Jurro Ku Kai</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mediasize_chinese_om_pa_kai">Pa Kai</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mediasize_chinese_prc_1">PRC 1</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -859,8 +836,6 @@
      <string name="owner_name">Владелец</string>
      <string name="passwordIncorrect">Неверный пароль</string>
      <string name="password_keyboard_label_alpha_key">АБВ</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="password_keyboard_label_alt_key">ALT</string>
      <string name="password_keyboard_label_symbol_key">\?123</string>
      <string name="paste">Вставить</string>
      <string name="perm_costs_money">это может стоить денег</string>
@@ -1712,8 +1687,6 @@ Attempts Remaining :"</string>
      <string name="wifi_p2p_show_pin_message">PIN-код:</string>
      <string name="wifi_p2p_to_message">Кому:</string>
      <string name="wifi_p2p_turnon_message">Начать соединение через Wi-Fi Direct. Модуль Wi-Fi будет отключен.</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="wifi_tether_configure_ssid_default">AndroidAP</string>
      <string name="wifi_watchdog_network_disabled">Не удалось подключиться к сети Wi-Fi</string>
      <string name="wifi_watchdog_network_disabled_detailed">" – плохое интернет-соединение"</string>
      <string name="wireless_display_route_description">Беспроводной монитор</string>

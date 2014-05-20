@@ -379,17 +379,9 @@
         <item>Запрос</item>
         <item>Запретить</item>
      </string-array>
-     <string-array name="perms_disable_keyguard_values">
-        <item>2</item>
-        <item>0</item>
-     </string-array>
      <string-array name="phone_call_noise_suppression_title">
         <item>Один микрофон</item>
         <item>Два микрофона</item>
-     </string-array>
-     <string-array name="phone_call_noise_suppression_values">
-        <item>1</item>
-        <item>2</item>
      </string-array>
      <string-array name="power_dialog_auto_clean_memory_items">
         <item>Через 1 минуту</item>
@@ -575,10 +567,6 @@
         <item>Неандерталец</item>
         <item>Шимпанзе</item>
         <item>Обезьяна</item>
-     </string-array>
-     <string-array name="values_color_calibration">
-        <item>0</item>
-        <item>1</item>
      </string-array>
      <string-array name="vpn_states">
         <item>Отключено</item>

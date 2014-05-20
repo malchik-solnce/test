@@ -7,8 +7,6 @@
      <string name="alarm_config_12h">Alarm at 8:00(AM)</string>
      <string name="alarm_config_24h">Alarm at 8:00</string>
      <string name="alarm_label">Название (не обязательно)</string>
-     <string name="alarm_summary_12h">hh:mm a</string>
-     <string name="alarm_summary_24h">kk:mm</string>
      <string name="alarm_time">Время</string>
      <string name="alarm_value">Будильник %s%%</string>
      <string name="app">Запустить</string>

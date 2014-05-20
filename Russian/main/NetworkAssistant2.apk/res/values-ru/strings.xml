@@ -96,18 +96,6 @@
      <string name="notification_title">%1$s-%2$s: исполь. около %3$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok_button">OK</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_name_cmcc">China Mobile</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_name_telcom">China Telecom</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_name_unicom">China Unicom</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_number_cmcc">10086</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_number_telcom">10000</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="operator_number_unicom">10010</string>
      <string name="per_month_pkg_traffic_settings">Настройка лимита данных</string>
      <string name="permit_running_network">Разрешить фоновые данные</string>
      <string name="person_hotpot">Мобильные точки доступа</string>
@@ -138,8 +126,6 @@
      <string name="pref_free_traffic_exceed_limit">Сообщать о достижении лимита трафика</string>
      <string name="pref_free_traffic_limit_warn">Предупреждение о пределе трафика</string>
      <string name="pref_free_traffic_settings">Настройка предела трафика</string>
-     <string name="pref_key_new_installed_app_firewall_mobile">pref_key_new_installed_app_firewall_mobile</string>
-     <string name="pref_key_new_installed_app_firewall_wifi">pref_key_new_installed_app_firewall_wifi</string>
      <string name="pref_leisure_no_overlay">Включено</string>
      <string name="pref_leisure_not_opened">Выключено</string>
      <string name="pref_manual_adjust">Настроить вручную</string>
