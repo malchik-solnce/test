@@ -1430,6 +1430,7 @@
      <string name="location_title">Мое местоположение</string>
      <string name="lock_after_timeout">Автоблокировка</string>
      <string name="lock_after_timeout_summary">После %1$s спящего режима</string>
+     <string name="lock_intro_message">lock_intro_message</string>
      <string name="lock_screen_unlock_show">Интерфейс ввода пароля</string>
      <string name="lock_screen_unlock_show_summary">Не используйте другие локскрины после включения, достаточно зайти в интерфейс для разблокировки экрана</string>
      <string name="lock_settings_common_title">Настройка блокировки</string>
