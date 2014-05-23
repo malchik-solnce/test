@@ -344,6 +344,11 @@
      <string name="sync_dspt">Использовать аккаунт Xiaomi для синхронизации данных</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
+     <string name="sync_sub_1_intl_sms">A text message will be sent to activate your SIM card (international rates apply)</string>
+     <string name="sync_sub_1_sms">A text message will be sent to activate your SIM card (normal carrier rates apply)</string>
+     <string name="sync_sub_1_sms_1_intl_sms">2 text messages will be sent to activate your SIM cards (domestic and international carrier rates apply)</string>
+     <string name="sync_sub_2_intl_sms">2 text messages will be sent to activate your SIM cards (international carrier rates apply)</string>
+     <string name="sync_sub_2_sms">2 text messages will be sent to activate your SIM cards (normal carrier rates apply)</string>
      <string name="title_reg">Регистрация в сети Xiaomi</string>
      <string name="trust_device">Я доверяю устройству</string>
      <string name="unactivated_user">Не активирован</string>
