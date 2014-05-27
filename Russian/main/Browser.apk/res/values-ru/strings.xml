@@ -142,8 +142,12 @@
      <string name="contextmenu_sharelink">Отправить ссылку</string>
      <string name="contextmenu_view_image">Просмотр изображения</string>
      <string name="copy_link">Скопировать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
      <string name="create_shortcut_bookmark">Добавить ярлык на главную</string>
      <string name="date_picker_dialog_clear">Очистить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="date_picker_dialog_other_button_label">Other</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="date_picker_dialog_set">OK</string>
      <string name="date_picker_dialog_title">Выберите дату</string>

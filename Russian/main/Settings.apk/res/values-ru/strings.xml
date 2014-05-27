@@ -510,6 +510,32 @@
      <string name="bluetooth_tethering_overflow_error">Макс. число подключаемых устройств: %1$d</string>
      <string name="bluetooth_turning_off">Отключение Bluetooth…</string>
      <string name="bluetooth_turning_on">Включение Bluetooth…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_add_device">Add device</string>
+     <string name="bluetooth_unlock_change_device_confirm_msg">The old matched device will be replaced with the new one, are you sure to continue?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_change_matched_device">Choose other device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_confirm_device_text">Please clap the device to confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_delete_device">Delete this device</string>
+     <string name="bluetooth_unlock_delete_device_confirm_msg">Are you sure to delete this device？</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_device_matched_text">Use this device to unlock keyguard</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_no_matched_device_yet">No device available yet</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_settings_devices_title">Device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_settings_toggle_title">Apply to</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_settings_unlock_device">Unlock keyguard</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_title">Unlock by bluetooth device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_turned_off">Turned off</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_turned_on">Turned on</string>
      <string name="bluetooth_untether_blank">Подключение к %1$s будет прервано</string>
      <string name="bluetooth_visibility_timeout">Тайм-аут видимости</string>
      <string name="breathing_light_color_menu_title">Выбери цвет</string>
@@ -2588,6 +2614,10 @@
      <string name="search_wifi">wi-fi</string>
      <string name="security_enable_widgets_disabled_summary">Отключено администратором</string>
      <string name="security_enable_widgets_title">Включить виджеты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="security_keyguard_category_name">Keyguard</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="security_password_category_name">Password</string>
      <string name="security_passwords_title">Пароли</string>
      <string name="security_privacy_settings_title">Конфиденциальность</string>
      <string name="security_relative">БЕЗОПАСНОСТЬ</string>
@@ -3576,6 +3606,9 @@
      <string name="wifi_tether_setting_title">Основные настройки</string>
      <string name="wifi_tether_starting">Включение…</string>
      <string name="wifi_tether_stopping">Выключение…</string>
+     <string name="wifi_type_approval" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_type_approval_title">Type Approval</string>
      <string name="wifi_unchanged">(не изменялось)</string>
      <string name="wifi_unspecified">(не указано)</string>
      <string name="wifi_update">Обновить статистику</string>

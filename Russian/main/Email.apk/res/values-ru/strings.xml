@@ -250,7 +250,6 @@
      <string name="change_folders_selection_dialog_title">Изменение папок</string>
      <string name="change_sync_settings">Настройки синхронизации</string>
      <string name="checking_for_mail">Проверка почты…</string>
-     <string name="checking_message">正在检查版本…</string>
      <string name="choosertitle_sharevia">Отправить через</string>
      <string name="clear">Да</string>
      <string name="clear_display_images_whitelist_dialog_message">Вы действительно хотите запретить показ изображений в письмах?</string>
@@ -327,16 +326,22 @@
      <string name="default_signature">Отправлено через Xiaomi</string>
      <string name="delete">Удалить</string>
      <string name="deleted">Удалено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="device_activity_btn_str">Return To Activate</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="device_activity_lint_str">Enable mail service complete update and activate safety equipment</string>
      <string name="device_admin_description">Включение серверных политик безопасности</string>
      <string name="device_admin_label">Электронная почта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="device_not_activiey_lint1">Device Manager is not activated</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
      <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование Вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами</string>
      <string name="discard">Удалить</string>
      <string name="discard_drafts">Удалить черновики</string>
      <string name="dismiss_tip_hover_text">Закрыть подсказку</string>
      <string name="done">Назад</string>
      <string name="done_action">Готово</string>
-     <string name="donot_download">暂不下载</string>
-     <string name="donot_upgrade">暂不更新</string>
      <string name="downlaod_cancel_confirm_download">Отменить загрузку</string>
      <string name="downlaod_cancel_continue_download">Отмена</string>
      <string name="downlaod_confirm_download">Загрузить</string>
@@ -345,14 +350,10 @@
      <string name="download_again">Скачать еще раз</string>
      <string name="download_before_sharing">" еще не загружено. Сначала скачайте, прежде чем отправлять!"</string>
      <string name="download_cancel_confirm_title">Отменить загрузку?</string>
-     <string name="download_complete_message">点击马上更新，进行全新体验！</string>
      <string name="download_complete_not_cancel">Загрузка завершена. Отменить не удалось!</string>
-     <string name="download_complete_title">下载完成</string>
      <string name="download_confirm_message">Чтобы открыть этот файл, Вам нужно скачать размер вложения в 180Кб %1$s</string>
      <string name="download_confirm_title">Подтверждение загрузки</string>
      <string name="download_failed">Ошибка загрузки. Нажмите, чтобы повторить.</string>
-     <string name="download_now">立即下载</string>
-     <string name="downloading">正在下载</string>
      <string name="draft_count_format"> (%1$s)</string>
      <string name="drawer_close">Закрыть панель навигации</string>
      <string name="drawer_open">Открыть панель навигации</string>
@@ -383,7 +384,6 @@
      <string name="file_not_found">Файл не найден на сервере</string>
      <string name="file_not_found_reDownload">Файл не найден. Повторите еще раз.</string>
      <string name="file_rar_not_support">Не поддерживает зашифрованный файл RAR!</string>
-     <string name="file_size">大小为</string>
      <string name="filtered_tag">[%1$s]%2$s</string>
      <string name="folder_icon_desc">Значок папки</string>
      <string name="folder_picker_title">Выберите папку</string>
@@ -490,6 +490,8 @@
      <string name="menu_photo_save_all">Сохранить все</string>
      <string name="menu_photo_share">Поделиться</string>
      <string name="menu_photo_share_all">Поделиться</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_resend_all">Resend all</string>
      <string name="menu_search">Поиск</string>
      <string name="menu_settings">Настройки</string>
      <string name="menu_show_original">Показать исходный размер</string>
@@ -528,23 +530,14 @@
      <string name="name_or_number_is_error">Неверный логин или пароль</string>
      <string name="net_check_title">Проверьте настройки сети</string>
      <string name="network_error">Нет подключения</string>
-     <string name="new_down_desc1">温馨提示：</string>
-     <string name="new_down_desc2">会保存上一版本的使用记录</string>
-     <string name="new_down_desc3">升级使用流量较多，建议使用Wifi</string>
-     <string name="new_feature_desc">改进信息：</string>
      <string name="new_incoming_messages_one">%s – новое сообщение. Показать.</string>
      <string name="new_messages">Новых сообщений: %1$d</string>
-     <string name="new_version">最新版本：</string>
      <string name="next_action">Далее</string>
      <string name="no">Нет</string>
      <string name="no_application_found">Файл не поддерживается вашими приложениями</string>
      <string name="no_conversations">Нет сообщений</string>
-     <string name="no_display_this_version">本版本不再提示</string>
-     <string name="no_enough_space">空间不足</string>
      <string name="no_mails">Нет сообщений</string>
      <string name="no_matched_attachment">Нет подобранных вложений!!</string>
-     <string name="no_sdcard">sd卡不存在或未加载成功</string>
-     <string name="no_update">版本已是最新，无需更新</string>
      <string name="non_synced_folder_description">Для просмотра цепочек писем синхронизируйте эту папку</string>
      <string name="not_subject">Нет темы</string>
      <string name="not_synced_title">Аккаунт не синхронизирован</string>
@@ -558,7 +551,6 @@
      <string name="notification_action_undo_delete">Удалено</string>
      <string name="notification_action_undo_remove_label">Ярлык удален</string>
      <string name="notification_exchange_calendar_added">Добавлен календарь Exchange</string>
-     <string name="now_version">当前版本：</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -568,6 +560,8 @@
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
      <string name="outbox_alert_title_sent_failed">Ошибка отправки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="outbox_no_mails">No mails in Outbox</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="parase_setup_data">Getting the config data...</string>
      <string name="password_changed_prompt">Не удалось войти</string>
@@ -724,7 +718,6 @@
      <string name="single_new_message_notification_title">%1$s: %2$s</string>
      <string name="sort_attachment">Сортировка</string>
      <string name="spaceChar">" "</string>
-     <string name="start_download">开始下载</string>
      <string name="status_network_error">Ошибка подключения</string>
      <string name="storage">Память</string>
      <string name="str_select_all">Выбрать все</string>
@@ -770,10 +763,6 @@
      <string name="unsent_messages_in_outbox">Неотправленных сообщений в папке \"%2$s\": %1$s</string>
      <string name="updated_at">Обновлено:%1$s</string>
      <string name="updated_just_now">Обновлено</string>
-     <string name="upgrade_check">检查更新</string>
-     <string name="upgrade_network_error">网络异常，请检查您的网络连接</string>
-     <string name="upgrade_now">马上更新</string>
-     <string name="upgrade_title">升级</string>
      <string name="validation_failed_prompt">Проверка не удалась. Пожалуйста, установите сервер %s.</string>
      <string name="veiled_address" />
      <string name="veiled_alternate_text" />
@@ -802,6 +791,16 @@
      <string name="widget_large_unread_count">%d+</string>
      <string name="widget_other_views">Нажмите, чтобы изменить</string>
      <string name="wrong_password">Неверный пароль!</string>
+     <string name="xiaomi_bytes_unit">%1$sB</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_external_storage_unavailable">Storage unavailable, please check the SD card.</string>
+     <string name="xiaomi_kilobytes_unit">%1$sKB</string>
+     <string name="xiaomi_megabytes_unit">%1$sMB</string>
+     <string name="xiaomi_update_dialog_message">"Introducing version %1$s
+Size: %2$s"</string>
+     <string name="xiaomi_update_dialog_message_diff">"Introducing version %1$s
+Delta update size: %2$s"</string>
+     <string name="xiaomi_update_dialog_title">%1$s update!</string>
      <string name="yes">Да</string>
      <string name="zip_viewer_no_file">Нет файлов!</string>
 </resources>
