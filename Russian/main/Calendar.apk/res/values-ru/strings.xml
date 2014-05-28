@@ -174,6 +174,8 @@
      <string name="pengzu">彭祖</string>
      <string name="prefDialogTitle_vibrateWhen">Вибрация</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_error_no_ringtone_select">None selected</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pref_title_alarm_remind">Alarm reminder</string>
      <string name="pref_title_alert_remind">Всплывающее</string>
      <string name="pref_title_no_remind">Выключено</string>
@@ -249,6 +251,7 @@
      <string name="tomorrow_at_time_fmt">Завтра в %s</string>
      <string name="topic_event_list_header_label">Предстоящие события</string>
      <string name="user_notice_online_agreement">您正在浏览MIUI订阅日历，这是一项在线服务，其页面显示和数据更新需要连接互联网。使用该服务表示您同意并愿意遵守%1$s和%2$s。</string>
+     <string name="view_all_matches">查看所有赛程</string>
      <string name="view_event_calendar_label">Календарь:</string>
      <string name="view_event_organizer_label">Организатор:</string>
      <string name="view_event_response_label">Принять приглашение?</string>

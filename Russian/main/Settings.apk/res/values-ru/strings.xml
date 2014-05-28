@@ -1533,6 +1533,8 @@
      <string name="manage_notification_access">Доступ к уведамлениям</string>
      <string name="manage_notification_access_summary_zero">Приложения не могут читать уведомления</string>
      <string name="manage_space_text">Управление местом</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="manage_xiaomi_router">Manage Xiaomi router</string>
      <string name="manageapplications_settings_summary">Управление установленными приложениями и их удаление</string>
      <string name="manageapplications_settings_title">Приложения</string>
      <string name="manually_add_network">Добавить сеть</string>
@@ -3662,6 +3664,14 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="xiaomi_cloud_service">Mi Cloud</string>
      <string name="xiaomi_money_service">Центр Mi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_router_available_notif_summary">Click to view</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_router_available_notif_title">Xiaomi router is available</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_router_notif_summary">Notify me when a Xiaomi router is available</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xiaomi_router_notif_title">Xiaomi router notification</string>
      <string name="yes">Да</string>
      <string name="zone_auto">Часовой пояс сети</string>
      <string name="zone_auto_summaryOff">Использовать часовой пояс сети</string>

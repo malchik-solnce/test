@@ -274,6 +274,18 @@
      <string name="miui_quicksearch_enable_pref_title">Поиск в уведомлениях</string>
      <string name="miui_search_notification_message">Нажмите, чтобы открыть</string>
      <string name="miui_search_notification_title">Быстрый поиск</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuichromium_error_page_mobile">Mobile network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuichromium_error_page_reason_network">View link URL</string>
+     <string name="miuichromium_error_page_reason_server">"The browser can't load this page"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuichromium_error_page_reload">Reload</string>
+     <string name="miuichromium_error_page_title">"Can't find this page"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuichromium_error_page_url">View page URL</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miuichromium_error_page_wlan">WLAN settings</string>
      <string name="miuichromium_save_password_message">Вы хотите, чтобы браузер запомнил этот пароль?</string>
      <string name="miuichromium_save_password_never">Никогда</string>
      <string name="miuichromium_save_password_notnow">Не сейчас</string>
