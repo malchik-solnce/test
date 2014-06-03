@@ -88,10 +88,16 @@
      <string name="err_no_enough_space">No enough space on tag</string>
      <string name="err_no_nfc">Устройство не поддерживает NFC. Приложение может не работать.</string>
      <string name="err_tag_not_supported">"Your phone doesn't support tagging"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_tag_protected">This tag is password protected. Please enter the correct password.</string>
      <string name="err_tag_read_only">"You can't write to this tag"</string>
      <string name="error_password">Ошибка пароля</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="failed_install">Failed to install</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="failed_to_erase">Failed to erase the tag</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="failed_to_write">Failed to write the tag</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="gps">GPS satellites</string>
      <string name="help_title">Помощь</string>
@@ -152,12 +158,10 @@
      <string name="play_song">Play a song</string>
      <string name="preference">Настройки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pwd_alert">Set a password now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pwd_pref">Protect tag from rewriting</string>
      <string name="pwd_pref_desc">寫入貼紙時將激活貼紙的寫保護功能，他人改寫你的貼紙需要提供密碼</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pwd_prot_off">OFF</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="pwd_prot_on">ON</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="read_a_tag">Read a tag</string>
      <string name="reading">Чтение…</string>
@@ -238,6 +242,7 @@ touch the back of your phone to another tag."</string>
      <string name="write_pon_pon_tile">Запись тега</string>
      <string name="write_success">Успешно записано</string>
      <string name="write_tag">Создать тег</string>
+     <string name="writing">Writing…</string>
      <string name="xiaomi_bytes_unit">%1$sб</string>
      <string name="xiaomi_external_storage_unavailable">Память недоступна. Проверьте SD-карту.</string>
      <string name="xiaomi_kilobytes_unit">%1$sкб</string>

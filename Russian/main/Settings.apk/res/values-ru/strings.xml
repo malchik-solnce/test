@@ -3505,6 +3505,8 @@
      <string name="wifi_scan_notify_text_location_on">Для повышения определения местоположения и для других целей, приложения Google и другие могут сканировать соседние сети, даже если Wi-Fi выключен. Если Вы не хотите, чтобы это происходило, перейдите в расширенные настройки> Всегда искать сети.</string>
      <string name="wifi_secured_first_item">Защита %1$s</string>
      <string name="wifi_secured_second_item">, защита %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_security">Security</string>
      <string name="wifi_security_none">Нет</string>
      <string name="wifi_setting_frequency_band_error">При настройке полосы частот возникла неполадка</string>
      <string name="wifi_setting_frequency_band_summary">Укажите рабочий диапазон частот</string>

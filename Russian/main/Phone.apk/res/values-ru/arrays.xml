@@ -18,14 +18,14 @@
         <item>Voice</item>
         <item>Video</item>
      </string-array>
-     <string-array name="incoming_call_widget_6way_ims_direction_descriptions">
+     <array name="incoming_call_widget_6way_ims_direction_descriptions">
         <item>@android:string/description_direction_right</item>
         <item>@string/description_direction_up_right</item>
         <item>@string/description_direction_up_left</item>
         <item>@android:string/description_direction_left</item>
         <item>@string/description_direction_down_left</item>
         <item>@string/description_direction_down_right</item>
-     </string-array>
+     </array>
      <string-array name="incoming_call_widget_6way_ims_target_descriptions">
         <item>@string/description_target_answer</item>
         <item>@string/description_target_send_sms</item>

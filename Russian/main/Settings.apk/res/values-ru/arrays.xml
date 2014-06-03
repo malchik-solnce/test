@@ -338,12 +338,12 @@
 Откройте и выберите файл AndroidFileTransfer.dmg для установки"</item>
         <item></item>
      </string-array>
-     <array name="msd_pc_system_install_step_2_summary">
+     <string-array name="msd_pc_system_install_step_2_summary">
         <item>@string/msd_pc_system_install_step_2_summary_xp</item>
         <item></item>
-        <item>Теперь Вы можете передавать файлы на желаемые устройства</item>
+        <item>Transfer files like you would to any other external hard drive.</item>
         <item></item>
-     </array>
+     </string-array>
      <string-array name="multi_sim_entries">
         <item>Оператор 1</item>
         <item>Оператор 2</item>
@@ -644,6 +644,12 @@
      <string-array name="wifi_proxy_settings">
         <item>Нет</item>
         <item>Вручную</item>
+     </string-array>
+     <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
      </string-array>
      <string-array name="wifi_signal">
         <item>Слабый</item>

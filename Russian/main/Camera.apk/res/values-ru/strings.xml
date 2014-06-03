@@ -524,6 +524,7 @@
      <string name="wifi_details">Wi-Fi:</string>
      <string name="wifi_open_fail">Не возможно открыть Wi-Fi</string>
      <string name="wifi_pwd">Пароль:</string>
+     <string name="wifi_security">Security:</string>
      <string name="wifi_ssid">SSID:</string>
      <string name="wifi_warning">Пожалуйста, убедитесь, что это безопасно перед подключением к этой Wi-Fi</string>
 </resources>
