@@ -202,6 +202,10 @@
      <string name="app_name">Почта</string>
      <string name="archive">В архив</string>
      <string name="archived">Отправлено в архив</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="att_download_failed_content">Download failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="att_download_failed_title">Attachment download failed</string>
      <string name="att_mgr_no_attachment">Нет вложений!</string>
      <string name="att_mgr_title_order_mime">По формату</string>
      <string name="att_mgr_title_order_name">По имени</string>
@@ -336,6 +340,10 @@
      <string name="device_not_activiey_lint1">Device Manager is not activated</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="device_not_activiey_lint2">Mail service does not work properly exchange</string>
+     <string name="dialog_auto_download_failed">"Can't finish auto-download"</string>
+     <string name="dialog_insufficient_space_for_single_account_on_internal">No enough space for %s.</string>
+     <string name="dialog_insufficient_space_on_external">"Can't finish download. There isn't enough space on external storage."</string>
+     <string name="dialog_insufficient_space_on_internal">"There isn't enough space on internal storage."</string>
      <string name="disable_admin_warning">ВНИМАНИЕ! Отключение прав на администрирование Вашего телефона для приложения почты приведет к удалению всех аккаунтов электронной почты, которые используют эти права. Кроме того, будут удалены все письма, контакты, календари и другие данные, связанные с этими аккаунтами</string>
      <string name="discard">Удалить</string>
      <string name="discard_drafts">Удалить черновики</string>
@@ -437,6 +445,8 @@
      <string name="long_press_to_select_tip">Чтобы выбрать несколько цепочек, нажмите и удерживайте одну из них, а затем нажимайте на следующие</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mail">Mail</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_name_display_drafts">Черновики</string>
      <string name="mailbox_name_display_inbox">Входящие</string>

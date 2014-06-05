@@ -87,6 +87,8 @@
      <string name="channel_not_support">Поисковая система временно не доступна</string>
      <string name="china">Китай</string>
      <string name="china_date">%1$s %2$s %3$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="chooser">Please choose</string>
      <string name="click_download">Нажмите, чтобы скачать</string>
      <string name="clocking">Будильник добавлен, Нажмите, чтобы посмотреть.</string>
      <string name="confirm">ОК</string>
