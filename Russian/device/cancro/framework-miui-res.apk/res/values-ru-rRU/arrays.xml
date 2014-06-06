@@ -11,6 +11,7 @@
         <item>Будильник через %2$s %3$s</item>
         <item>Будильник через %1$s %2$s %3$s</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 30 must: 28 -->
      <string-array name="alphabet_table">
         <item>\#</item>
         <item>А</item>
@@ -42,6 +43,7 @@
         <item>Ю</item>
         <item>Я</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 31 must: 29 -->
      <string-array name="alphabet_table_with_starred">
         <item>!</item>
         <item>\#</item>
