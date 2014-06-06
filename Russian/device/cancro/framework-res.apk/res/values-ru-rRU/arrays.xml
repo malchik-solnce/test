@@ -2,43 +2,56 @@
 <!-- Builded with CloudBuildr -->
 <resources>
      <string-array name="app_ops_labels">
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to access location</item>
-        <item>Trying to use vibrate</item>
-        <item>Trying to read contacts</item>
-        <item>Trying to modify contacts</item>
-        <item>Trying to read call log</item>
-        <item>Trying to modify call log</item>
-        <item>Trying to read calendar</item>
-        <item>Trying to modify calendar</item>
-        <item>Trying to access location</item>
-        <item>Trying to post notification</item>
-        <item>Trying to access location</item>
-        <item>Trying to make phone call</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to receive MMS</item>
-        <item>Trying to receive SMS</item>
-        <item>Trying to send SMS</item>
-        <item>Trying to read SMS</item>
-        <item>Trying to write/modify SMS</item>
-        <item>Trying to modify settings</item>
-        <item>Trying to draw on top</item>
-        <item>Trying to access notifications</item>
-        <item>Trying to access Camera</item>
-        <item>Trying to record audio</item>
-        <item>Trying to play audio</item>
-        <item>Trying to read clipboard</item>
-        <item>Trying to modify clipboard</item>
-        <item>Trying to turn on/off Wifi</item>
-        <item>Trying to turn on/off bluetooth</item>
-        <item>Trying to turn on/off mobile data</item>
-        <item>Trying to send MMS</item>
-        <item>Trying to read MMS</item>
-        <item>Trying to write MMS</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>Tиспользовать виброотклик</item>
+        <item>считать данные контактов</item>
+        <item>изменить данные контактов</item>
+        <item>считать данные списка вызовов</item>
+        <item>изменить данные списка вызовов</item>
+        <item>считать данные календаря</item>
+        <item>изменить данные календаря</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>вывести уведомление</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>выполнить телефонный звонок</item>
+        <item>считать SMS-сообщения</item>
+        <item>создать SMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>получить MMS-сообщение</item>
+        <item>получить SMS-сообщение</item>
+        <item>отправить SMS-сообщение</item>
+        <item>считать SMS-сообщения</item>
+        <item>создать SMS-сообщение</item>
+        <item>изменить системные параметры</item>
+        <item>отображение поверх других элементов</item>
+        <item>получить доступ к уведомлениям</item>
+        <item>получить доступ к камере</item>
+        <item>запись аудио</item>
+        <item>воспроизведение аудио</item>
+        <item>считать содержимое буфера обмена</item>
+        <item>изменить содержимое буфера обмена</item>
+		<item>Trying to use media buttons</item>
+        <item>Trying to use audio focus</item>
+        <item>Trying to use master volume</item>
+        <item>Trying to use voice volume</item>
+        <item>использовать громкость звонка</item>
+        <item>использовать громкость медиа</item>
+        <item>использовать громкость будильника</item>
+        <item>использовать громкость уведомлений</item>
+        <item>использовать громкость Bluetooth</item>
+        <item>держать устройство включенным</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>получить доступ к местоположению устройства</item>
+        <item>переключить состояние Wi-Fi</item>
+        <item>переключить состояние Bluetooth</item>
+        <item>переключить состояние мобильного интернета</item>
+        <item>отправить MMS-сообщение</item>
+        <item>считать MMS-сообщения</item>
+        <item>создать MMS-сообщение</item>
+		<item>запуститься в автозагрузке</item>
      </string-array>
      <string-array name="emailAddressTypes">
         <item>Домашний</item>
@@ -61,18 +74,6 @@
         <item>Google Talk</item>
         <item>ICQ</item>
         <item>Jabber</item>
-     </string-array>
-     <string-array name="lockscreen_num_pad_klondike">
-        <item></item>
-        <item></item>
-        <item>ABC</item>
-        <item>DEF</item>
-        <item>GHI</item>
-        <item>JKL</item>
-        <item>MNO</item>
-        <item>PQRS</item>
-        <item>TUV</item>
-        <item>WXYZ</item>
      </string-array>
      <string-array name="organizationTypes">
         <item>Рабочий</item>
