@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
+<!-- Builded with CloudBuildr -->
 <resources>
-    <string name="app_name">Basic Daydreams</string>
-    <string name="color_dream_name">Цвета</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_name">Basic Daydreams</string>
+     <string name="color_dream_name">Цвета</string>
 </resources>

@@ -27,8 +27,23 @@
 
 翻转手机，对着次麦克风说话，扬声器将会放出声音"</string>
      <string name="cit_audio_lb_topmic_to_speaker_title">顶部麦克到扬声器回环测试</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_audio_loopback_check_one_title">Main microphone receiver feedback test</string>
+     <string name="cit_audio_loopback_check_summary_first">"Main microphone receiver feedback test
+
+Hold the phone as if you are making a call, speak into the microphone and should hear your voice in the receiver."</string>
+     <string name="cit_audio_loopback_check_summary_second">"Secondary microphone speaker feedback test.
+
+Turn the phone so that the headphone input is facing downward. Speak into the receiver. You should hear your voice played through the external speaker."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_audio_loopback_check_two_title">Secondary microphone speaker feedback test</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_audio_loopback_dualmic_earpiece_title">Ambient noise reduction test</string>
      <string name="cit_audio_loopback_next">Следующий</string>
      <string name="cit_audio_loopback_previous">Предыдущий</string>
+     <string name="cit_audio_loopback_summary_dualmic_earpiece">"Ambient noise reduction test
+
+Hold the phone as if you're answering a call, speak in to the microphone. You should hear your voice with reduced noise in the background played through the receiver."</string>
      <string name="cit_battery_temp_fail">Неудача (value=%d)</string>
      <string name="cit_battery_temp_pass">Пройдено</string>
      <string name="cit_batterylight_blue">Cиний</string>
@@ -188,6 +203,8 @@
      <string name="cit_tool_bluetooth_dut">进入蓝牙测试模式</string>
      <string name="cit_tool_bluetooth_le_tx_h">进入蓝牙低功耗TX测试(2.480GHz)模式</string>
      <string name="cit_tool_bluetooth_le_tx_l">进入蓝牙低功耗TX测试(2.402GHz)模式</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_bluetooth_mode">Enter Bluetooth test mode</string>
      <string name="cit_tool_bluetooth_not_on">蓝牙未打开！！</string>
      <string name="cit_tool_bluetooth_off">Выключить</string>
      <string name="cit_tool_bluetooth_on">Включить</string>
@@ -202,6 +219,8 @@
      <string name="cit_tool_log_kmsg">Последний отчет ядра</string>
      <string name="cit_tool_log_logcat">ADB отчет</string>
      <string name="cit_tool_log_modem">Отчет модема</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_log_no_sdcard">Insert SD card now</string>
      <string name="cit_tool_log_ril">RIL отчет</string>
      <string name="cit_tool_log_toast">Лог был сохранен как %s</string>
      <string name="cit_tool_log_toast_generate_bugreport">Генерируется отчет об ошибке (это займет около 10 секунд)</string>

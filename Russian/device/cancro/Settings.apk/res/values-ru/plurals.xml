@@ -29,8 +29,28 @@
         <item quantity="other">Приложения читающие уведомления: %d</item>
         <item quantity="one">Приложения читающие уведомления: %d</item>
      </plurals>
+     <plurals name="power_center_battery_day">
+        <item quantity="other">"%d days "</item>
+        <item quantity="one">"%d day "</item>
+     </plurals>
+     <plurals name="power_center_battery_hour">
+        <item quantity="other">"%d hrs "</item>
+        <item quantity="one">"%d hr "</item>
+     </plurals>
+     <plurals name="power_center_battery_minute">
+        <item quantity="other">"%d mins "</item>
+        <item quantity="one">"%d min "</item>
+     </plurals>
+     <plurals name="print_search_result_count_utterance">
+        <item quantity="other">%1$s printers found</item>
+        <item quantity="one">%1$s printer found</item>
+     </plurals>
      <plurals name="show_dev_countdown">
         <item quantity="other">You are now %1$d steps away from being a developer.</item>
         <item quantity="one">You are now %1$d step away from being a developer.</item>
+     </plurals>
+     <plurals name="wrong_pin_code">
+        <item quantity="other">Incorrect SIM PIN code, you have %d remaining attempts.</item>
+        <item quantity="one">Incorrect SIM PIN code, you have %d remaining attempt before you must contact your carrier to unlock your device.</item>
      </plurals>
 </resources>

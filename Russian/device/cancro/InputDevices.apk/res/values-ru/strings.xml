@@ -5,6 +5,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="keyboard_layout_belgian">Belgian</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="keyboard_layout_brazilian">Brazilian</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="keyboard_layout_bulgarian">Bulgarian</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="keyboard_layout_croatian">Croatian</string>
@@ -13,7 +15,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="keyboard_layout_danish">Danish</string>
      <string name="keyboard_layout_english_uk_label">English (UK)</string>
+     <string name="keyboard_layout_english_us_colemak_label">English (US), Colemak style</string>
      <string name="keyboard_layout_english_us_dvorak_label">English (US), Dvorak style</string>
+     <string name="keyboard_layout_english_us_intl">English (US), International style</string>
      <string name="keyboard_layout_english_us_label">English (US)</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="keyboard_layout_estonian">Estonian</string>
