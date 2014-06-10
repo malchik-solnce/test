@@ -120,8 +120,52 @@
      <string name="menu_item_sort_type">По типу</string>
      <string name="migrate_announcement_msg">Если у Вас есть аккаунт KuaiPan, Вы можете привязать его в настройках и получить доступ к данным</string>
      <string name="migrate_announcement_title">MiDrive был перенесен в KuaiPan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mobile_photo">Phone photos</string>
+     <string name="mobile_photo_desc" />
      <string name="move_failed">Ошибка перемещения</string>
      <string name="multi_select_title">Выбрано: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_app">App data</string>
+     <string name="my_app_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bak">Backups</string>
+     <string name="my_bak_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bakup">Phone backups</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bakup_app">Apps</string>
+     <string name="my_bakup_app_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bakup_doc">Docs</string>
+     <string name="my_bakup_doc_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bakup_music">Music</string>
+     <string name="my_bakup_music_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bakup_other">Other</string>
+     <string name="my_bakup_other_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bakup_pic">Photos</string>
+     <string name="my_bakup_pic_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_bakup_video">Videos</string>
+     <string name="my_bakup_video_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_camera_album">Albums</string>
+     <string name="my_camera_album_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_doc">Docs</string>
+     <string name="my_doc_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_music">Music</string>
+     <string name="my_music_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_photo">Photos</string>
+     <string name="my_photo_desc" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="my_video">Videos</string>
+     <string name="my_video_desc" />
      <string name="name_illegal">Имя не может быть пустым</string>
      <string name="net_lose_connected">Сеть недоступна, невозможно получить размер</string>
      <string name="networkView_notConnected">Нет доступных сетей</string>
@@ -191,6 +235,12 @@
      <string name="server_control_advanced_settings">Расширенные настройки</string>
      <string name="server_control_charset">Кодирование передачи</string>
      <string name="server_control_settings">Настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share_box">Shared</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share_box_receive">Received</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="share_box_send">Sent</string>
      <string name="share_link_failed">Ошибка создания ссылки, попробуйте снова!</string>
      <string name="show_message">Файл не может быть открыт без загрузки. Загрузить?</string>
      <string name="sign_description">Подключение…</string>
