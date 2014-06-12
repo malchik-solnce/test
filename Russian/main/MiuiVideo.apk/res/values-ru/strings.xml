@@ -7,7 +7,14 @@
      <string name="about_title">О программе</string>
      <string name="about_version_label">版本号</string>
      <string name="actors_colon">"В главных ролях: "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_more_addons">add more specials</string>
      <string name="add_review">Добавить отзыв</string>
+     <string name="addon" />
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="addon_category">Hot Specials</string>
+     <string name="addon_install_complete_disc">您已完成%s专区插件的安装，您可直接启动进入专区，或从“我的视频”里进入专区</string>
+     <string name="addon_update_desc">New version found, update mow?</string>
      <string name="adjust_position_next_media_notice">Далее</string>
      <string name="adjust_position_prev_media_notice">Назад</string>
      <string name="airkan_control_device_des">Вы можете управлять воспроизведением видео с помощью кнопки в нижней части</string>
@@ -94,6 +101,9 @@
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Вы принимаете условия использования предусмотренных Sohu Video, iQiyi и других контент-провайдеров видео?</string>
      <string name="delete">Удалить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="delete_addon">Delete</string>
+     <string name="delete_addon_content">Delete this item?</string>
      <string name="delete_media">Удалить</string>
      <string name="delete_media_content">Удалить выбранные файлы?</string>
      <string name="di_count_ji">%d серия</string>
@@ -153,6 +163,8 @@
      <string name="in_download_notification">%d видео уже загружается</string>
      <string name="in_pause">Приостановлено</string>
      <string name="in_waiting">Ожидание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="install_comfirm">click to install</string>
      <string name="jni_invalid_param">Неправильный параметр</string>
      <string name="jni_no_media_source">Нет доступа к источнику видео</string>
      <string name="jni_res_connect_error">Не удалось подключиться к сети</string>
@@ -231,6 +243,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_favoritehistory">No favorite Channel</string>
      <string name="no_filter_media">Ничего не найдено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_hot_special">not special</string>
      <string name="no_login_xiaomi_account">Войдите в Xiaomi аккаунт прежде чем комментировать</string>
      <string name="no_media">Пусто</string>
      <string name="no_myfavorite">Пусто</string>
@@ -272,6 +286,8 @@
      <string name="others">Прочие</string>
      <string name="pause_download">Загрузка приостановлена</string>
      <string name="paused">Приостановлено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pick_addon_to_delete">choose items</string>
      <string name="pick_hide_to_show">Выберите</string>
      <string name="pick_myfavorite_to_cancel">Выберите</string>
      <string name="pick_video_to_delete">Выберите</string>
@@ -319,6 +335,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="souhu">Souhu</string>
      <string name="special_subject">Специальные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="start_addon">start addon</string>
      <string name="start_download">Скачать</string>
      <string name="start_time">время начала</string>
      <string name="subchannel_all">Все</string>
@@ -354,6 +372,8 @@
      <string name="update_to_count_ji">Добавлена %d серия</string>
      <string name="update_to_count_qi">Добавлен %s сезон</string>
      <string name="updatedalready">Обновлено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="upgrade">Upgrade</string>
      <string name="use_cellular_network">Мобильный интернет</string>
      <string name="use_cellular_network_summary">Использовать мобильный интернет для загрузки видео. Возможны денежные затраты.</string>
      <string name="variety">Разное</string>

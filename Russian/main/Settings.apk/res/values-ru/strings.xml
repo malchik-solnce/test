@@ -376,6 +376,7 @@
      <string name="bluetooth_connection_notif_message">Нажмите, чтобы подключиться к устройству \"%1$s\"</string>
      <string name="bluetooth_connection_permission_request">Запрос на подключение по каналу Bluetooth</string>
      <string name="bluetooth_device">Bluetooth устройство без названия</string>
+     <string name="bluetooth_device_address">Device address:</string>
      <string name="bluetooth_device_advanced_enable_opp_title">Разрешить получение файлов</string>
      <string name="bluetooth_device_advanced_online_mode_summary">Подключиться к устройству Bluetooth</string>
      <string name="bluetooth_device_advanced_online_mode_title">Подключить</string>

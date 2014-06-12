@@ -48,6 +48,12 @@
         <item>Синяя</item>
         <item>Темная</item>
      </string-array>
+     <string-array name="pre_webapp_text_sizes">
+        <item>Larger</item>
+        <item>Large</item>
+        <item>Normal</item>
+        <item>Small</item>
+     </string-array>
      <string-array name="pref_content_plugins_choices">
         <item>Да</item>
         <item>По требованию</item>

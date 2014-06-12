@@ -92,7 +92,15 @@
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Вы уверены, что хотите закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Закрытие вкладок</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_loading_tips">Pull down to sync</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_no_new_data_toast">No new data, please retry later</string>
      <string name="cloud_tab">Облачная вкладка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_time_tips">Last sync time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_up_to_loading_tips">Release to sync</string>
      <string name="color_picker_button_black">Черный</string>
      <string name="color_picker_button_blue">Синий</string>
      <string name="color_picker_button_cancel">Отмена</string>
@@ -157,6 +165,10 @@
      <string name="delete_bookmark_warning">Удалить закладку \"%s\"?</string>
      <string name="delete_folder">Удалить папку</string>
      <string name="delete_multi_bookmarks_alert_title">Вы уверены, что хотите удалить %1$s закладок?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_geolocation_reject">Reject</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="dialog_geolocation_share">Agree</string>
      <string name="disable_autofill">Отключить автозаполнение</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="dont_remind_again">Remember my choice</string>
@@ -237,6 +249,8 @@
      <string name="js_disable_confirm_message">Отключение JavaScript может привести к неправильному отображению некоторых сайтов. Продолжить?</string>
      <string name="js_disable_confirm_title">Отключение JavaScript</string>
      <string name="js_engine_flags">Установить флаги JS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_tips">Pull down to refresh</string>
      <string name="local_bookmarks">Локальные</string>
      <string name="location">Адрес</string>
      <string name="low_memory_error">Не хватает памяти для завершения данной операции</string>
@@ -456,6 +470,11 @@
      <string name="pref_video_preload_title">Загрузка видео</string>
      <string name="pref_volume_key_enabled">Кнопки громкости</string>
      <string name="pref_volume_key_operation">Действие для кнопок громкости</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_webapp_settings_fontsize">Font Size</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_webapp_settings_hidebottombar">Always hide the bottom bar</string>
+     <string name="pref_webapp_settings_savewidth">"2G/3G don't download images"</string>
      <string name="pref_zoom_on_double_tap">Зум при двойном нажатии</string>
      <string name="preview">Предварительный просмотр</string>
      <string name="profiler_error_toast">Не удалось запустить профайлер</string>
@@ -549,6 +568,10 @@
      <string name="sub_sync_item_browser_title_history_summary">Синхронизировать историю просмотров</string>
      <string name="sub_sync_item_browser_title_novel">Синхр. книг</string>
      <string name="sub_sync_item_browser_title_novel_summary">Синхронизировать книги браузера</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_webapp">Sync webapp</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sub_sync_item_browser_title_webapp_summary">Sync added webapps and my favorites</string>
      <string name="sync_item_browser_summary">Синхронизировать данные в облако - легкое использование браузера на разных устройствах</string>
      <string name="sync_item_browser_title">Синхронизация браузера</string>
      <string name="tab_history">История</string>
@@ -565,6 +588,8 @@
      <string name="too_many_windows_dialog_message">Невозможно открыть новую вкладку: закройте хотя бы одну</string>
      <string name="too_many_windows_dialog_title">Открыто макс. число вкладок</string>
      <string name="ua_switcher_desktop">Полная версия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="up_to_loading_tips">Release to refresh</string>
      <string name="uploads_disabled">Добавление файлов отключено</string>
      <string name="url_copy_done">Ссылка скопирована</string>
      <string name="url_hint">Введите адрес или поиск</string>
@@ -576,6 +601,34 @@
      <string name="username">Имя</string>
      <string name="view_certificate">Просмотреть сертификат</string>
      <string name="warning">Внимание</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_add_to_desktop">Add to desktop</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_add_to_favorite_toast">Add to favorite list over</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_addtodeskpop_append">Added</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_app_name">Light Web Apps Store</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_dialog_title">Add the app to your desktop</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_menu_addtodesk">Add To Desk</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_menu_already_addtodesk">Already add to Desk</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_menu_exit">Exit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_menu_favorites">My Favorites</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_menu_nightmode">Night Mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_menu_settings">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_menu_share">Share</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_settings_title">Settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webapp_webapp_favortes_title">My Favortes</string>
      <string name="website_settings_clear_all">Удалить все</string>
      <string name="website_settings_clear_all_dialog_cancel_button">Отмена</string>
      <string name="website_settings_clear_all_dialog_message">Удалить все данные веб-сайта и разрешения на доступ к сведениям о Вашем местоположении?</string>
