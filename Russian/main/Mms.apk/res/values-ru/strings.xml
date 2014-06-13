@@ -23,7 +23,13 @@
      <string name="adding_attachments">Добавление. Подождите…</string>
      <string name="adding_attachments_title">Добавление вложений</string>
      <string name="adding_recipients">Добавление получателей…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_dlg_cancel_button">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alert_dlg_ok_button">OK</string>
      <string name="app_label">Сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="app_name">Device Management</string>
      <string name="attach_image">Изображение</string>
      <string name="attach_record_sound">Записать аудио</string>
      <string name="attach_record_video">Снять видео</string>
@@ -65,6 +71,9 @@
      <string name="confirm_delete_message">Сообщение будет удалено</string>
      <string name="confirm_dialog_locked_title">Удалить заблокированное сообщение?</string>
      <string name="confirm_dialog_title">Удаление</string>
+     <string name="confirm_dlg__msg">CMCC notice: CMCC free post-service will not be provided if you cancel the service.Are you sure to cancel?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_dlg_title">Device Management</string>
      <string name="confirm_export_dialog_description">После удаления приватного контакта Ваша переписка восстановится в обычный режим. Продолжить?</string>
      <string name="confirm_export_dialog_title">Удаление приватного контакта</string>
      <string name="confirm_no_block_positive">Не блокировать и восстановить</string>
@@ -174,6 +183,8 @@
      <string name="loading_all_messages">Загрузка всех сообщений…</string>
      <string name="loading_conversations">Загрузка цепочек…</string>
      <string name="loading_mms">Загрузка MMS…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="manage_permission_app_label">Device Management Permission</string>
      <string name="me">Я</string>
      <string name="menu_compose_new">Новое сообщение</string>
      <string name="menu_delete_messages">Удалить сообщения</string>
@@ -380,6 +391,17 @@ SMS (%1$d), MMS (%2$d)"</string>
      <string name="select_recipient">Выбрать получателя</string>
      <string name="select_top_text">Текст вверху</string>
      <string name="send">Отправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_message_dlg_check_hint">Remember my choice</string>
+     <string name="send_message_dlg_mgs">CMCC notice: We need to register your device to device management platform to provide the free post-service (Post-service is a platform by CMCC that can manage the terminal devices. It provides you the service of remote settings and app upgrade. ). A free message of device information will be sent for registration. The message will be sent only once and do not need you personal data (Do not send of Hong Kong, Macao, Taiwan and international roaming). Select “OK” to agree to register and use the service. Select “Cancel” to give up and no service will be provided from CMCC.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_message_dlg_title">Device Management</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_message_notification_msg">Device Management send message permission request</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_message_notification_tickerText">Device Management permission request</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="send_message_notification_title">Device Management</string>
      <string name="send_signature_confirm_dialog_message">Вы не ввели содержание сообщения. Хотите отправить его?</string>
      <string name="send_signature_confirm_dialog_title">Отправить подтверждение</string>
      <string name="send_sms">Отправить сообщение</string>

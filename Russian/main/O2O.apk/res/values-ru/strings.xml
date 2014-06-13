@@ -6,6 +6,7 @@
      <string name="allcategory">Все категории</string>
      <string name="app_name">Магазин</string>
      <string name="app_version">Версия:Beta V%1$s</string>
+     <string name="apply_refund">申请退款</string>
      <string name="available_day_left">Осталось дней:%1$s</string>
      <string name="available_deadline">Действует до:%1$s</string>
      <string name="available_deadline_all">有效期至:%1$s</string>
@@ -45,6 +46,7 @@
      <string name="item_announcement">特别通知</string>
      <string name="item_loading">Загрузка…</string>
      <string name="item_nores">免预约</string>
+     <string name="item_receiptnumber">消费券</string>
      <string name="itemdetail">Информация</string>
      <string name="itemdetailbutton">Подробнее</string>
      <string name="itemnotes">Как купить</string>
@@ -72,6 +74,7 @@
      <string name="menu_preferences">Настройки</string>
      <string name="menu_refresh">Обновить</string>
      <string name="merchant_phone">电话：%1$s</string>
+     <string name="modify_region">修改位置</string>
      <string name="money">юань</string>
      <string name="money_prefix">总计</string>
      <string name="moreinfo">查看图文优惠详情</string>
@@ -80,6 +83,18 @@
 	%d: 0 must: 0 -->
      <!-- Original string: 查看全部%1$s家店铺 -->
      <string name="moremerchant">Все филиалы</string>
+     <string name="movie">电影</string>
+     <string name="movie_amount">数量:</string>
+     <string name="movie_amount_static">张</string>
+     <string name="movie_announcement">无特殊情况，电影票出票后不可退换</string>
+     <string name="movie_begin_time">观影时间:%1$s</string>
+     <string name="movie_date">时间:</string>
+     <string name="movie_name">电影:</string>
+     <string name="movie_order_info">订单信息</string>
+     <string name="movie_price">单价:</string>
+     <string name="movie_purchased_phone_number">购买手机号:</string>
+     <string name="movie_seat">座位:</string>
+     <string name="movie_total_price">总价:</string>
      <string name="my_passbook_title">未使用消费券</string>
      <string name="mylife_tag">Мои</string>
      <string name="nearby_distance">米</string>
@@ -113,6 +128,8 @@
      <!-- Original string: %1$s元 -->
      <string name="orig_price">/цена произ.</string>
      <string name="passbook_count">%1$s</string>
+     <string name="passbook_status_pwd">%1$s</string>
+     <string name="passbook_status_split"> | </string>
      <string name="payment">Оплата</string>
      <string name="personal_account_default">Аккаунт</string>
      <string name="personal_buy_history">История покупок</string>

@@ -44,6 +44,7 @@
         <item>com.autonavi.minimap</item>
         <item>com.baidu.BaiduMap</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 7 must: 8 -->
      <string-array name="normal_status">
         <item>Ничего</item>
         <item>Новый</item>

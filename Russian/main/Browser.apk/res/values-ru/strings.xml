@@ -349,6 +349,8 @@
      <string name="pref_content_autofit_summary">Подгонять веб-страницы под размер экрана</string>
      <string name="pref_content_block_float_popups">Блокир. плав. окна</string>
      <string name="pref_content_block_popups">Блокир. всплыв. окна</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_content_brightness_setting">Brightness settings</string>
      <string name="pref_content_cloud_speedup">Enable cloud speed-up</string>
      <string name="pref_content_fontsize_setting">Настройки шрифта</string>
      <string name="pref_content_homepage">Стартовая страница</string>
