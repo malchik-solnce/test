@@ -167,6 +167,8 @@
      <string name="not_enough_space">SD-карта заполнена</string>
      <string name="not_selectable_in_scene_mode">Недоступно в режиме съемки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="object_track_enable_toast">Slide on preview screen to enable object tracking.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
      <string name="orientation">Ориентация</string>
      <string name="pano_dialog_panorama_failed">Не удалось сохранить панораму</string>

@@ -37,6 +37,33 @@
      <string name="data_usage_restricted_title">Ограничение фоновых данных</string>
      <string name="data_usage_warning_body">Нажмите для просмотра сведений</string>
      <string name="data_usage_warning_title">Предупреждение трафика</string>
+     <string name="datausage_purchase_backto_ns">返回网络助手</string>
+     <string name="datausage_purchase_banner_title">"%s超值流量套餐
+小米手机用户专享"</string>
+     <string name="datausage_purchase_buy">立刻购买</string>
+     <string name="datausage_purchase_confirm_tip">您选择购买：</string>
+     <string name="datausage_purchase_get_captcha">获取验证码(%d)</string>
+     <string name="datausage_purchase_get_captcha_again">重新获取验证码</string>
+     <string name="datausage_purchase_get_captcha_failed">获取验证码失败，请检查网络设置后重新获取验证码</string>
+     <string name="datausage_purchase_goto_monthsetting">立即修改套餐设置</string>
+     <string name="datausage_purchase_ordering">正在订购，请稍后...</string>
+     <string name="datausage_purchase_pay_captcha_hint">收到验证码后自动填写</string>
+     <string name="datausage_purchase_pay_captcha_tips">"收到验证码并自动填写后，点击“确认购买”会立即进行购买。
+验证码有效时间为10分钟。"</string>
+     <string name="datausage_purchase_pay_confirm">确认购买</string>
+     <string name="datausage_purchase_pay_hint">退订请拨打%s</string>
+     <string name="datausage_purchase_pkglist_networkerror">网络错误，请检查网络连接</string>
+     <string name="datausage_purchase_pkglist_nodata">"您当前的流量包与可订购流量包冲突，无法继续订购
+具体请咨询当地运营商"</string>
+     <string name="datausage_purchase_pkglist_servererror">服务器内部错误</string>
+     <string name="datausage_purchase_result_failed">"订购失败，请咨询当地运营商
+具体结果请以运营商短信为准"</string>
+     <string name="datausage_purchase_result_ok">"恭喜您成功订购%s
+具体结果请以运营商短信为准"</string>
+     <string name="datausage_purchase_title_confirm">流量包详情</string>
+     <string name="datausage_purchase_title_order">流量购买</string>
+     <string name="datausage_purchase_title_pkglist">流量购买</string>
+     <string name="datausage_purchase_view_detail">查看详情</string>
      <string name="declaration_dialog_msg">Эта функция может помочь вам отслеживать использование трафика мобильного интернета, чтобы предотвратить дополнительные денежные расходы. Для достижения наилучших результатов, установите предел трафика.</string>
      <string name="deleted_apps">Удаленные приложения</string>
      <string name="detail_app_button">О приложении</string>
@@ -160,6 +187,20 @@
      <string name="system_app">Системные приложения</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>
      <string name="tips_message">Более подробно о информации вашего пакета трафика, вы можете узнать набрав %2$s (%1$s)</string>
+     <string name="traffic_config_alert_body">"向运营商查询得知:%s
+
+是否将您的套餐修改为运营商提供的数据？"</string>
+     <string name="traffic_config_alert_body_leisure">"
+您实际的闲时套餐为%1$s，与您设置的%2$s不符。"</string>
+     <string name="traffic_config_alert_body_leisure_notset">"
+您有%s的闲时套餐流量，目前您尚未开启闲时流量。"</string>
+     <string name="traffic_config_alert_body_normal">"
+您实际的日常套餐为%1$s，与您设置的%2$s不符。"</string>
+     <string name="traffic_config_alert_cancel">取消</string>
+     <string name="traffic_config_alert_nomore">不再提醒</string>
+     <string name="traffic_config_alert_ok">确定</string>
+     <string name="traffic_config_alert_setted">套餐设置成功</string>
+     <string name="traffic_config_alert_title">校正%s套餐信息</string>
      <string name="traffic_correction_failed">Не удалось получить информацию</string>
      <string name="traffic_correction_start_correction">Соединение с оператором услуг…</string>
      <string name="traffic_correction_start_correction_failed">Ошибка запроса. Проверьте настройки оператора.</string>

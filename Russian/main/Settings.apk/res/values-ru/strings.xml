@@ -2905,6 +2905,10 @@
      <string name="title_data_flow_no">Контроль трафика отключен</string>
      <string name="title_data_flow_yes">Контроль трафика включен</string>
      <string name="title_dolby_control">Параметры Dolby</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_font">Font</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_font_current">Using</string>
      <string name="title_font_size">Размер шрифта</string>
      <string name="title_hdmi_color_calibration">Предустановки цвета</string>
      <string name="title_install_virus_no">Защита отключена</string>

@@ -229,6 +229,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_alarm_default">Alarm</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_allow">Allow</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_app_name">Resource Browser</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_apply">Apply</string>
@@ -295,6 +297,9 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_comment_upload_not_logined">Please log in first</string>
      <string name="resource_comment_upload_success">Comment sent! Your comment will be displayed after a brief review.</string>
+     <string name="resource_connect_network_message">Do you allow the application to connect network?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="resource_connect_network_settings">Every time notification when networking</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_default">Default ringtone</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -410,6 +415,7 @@
      <string name="resource_ranking_free">Free</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_ranking_purchase">Paid</string>
+     <string name="resource_remind_another_time">"Don't remind me"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="resource_ringtone_default">Ringtones</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
