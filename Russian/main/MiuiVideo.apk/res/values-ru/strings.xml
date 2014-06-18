@@ -126,6 +126,18 @@
      <string name="download_is_in_tasklist">В списке загрузок</string>
      <string name="download_is_success">Загружено</string>
      <string name="end_live_status">Завершен</string>
+     <string name="failed_text">can not get certificate, retry please!</string>
+     <string name="failed_text_11">verify fail! retry please!</string>
+     <string name="failed_text_21">the film you try to play is not online, please wait!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="failed_text_49">the account do not buy this film, can not play, you can buy it in thunder cinema</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="failed_text_502">the film you try to play is offline or expired, can not play it</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="failed_text_708">the number of terminal is too many, please play it on the terminal you play ever</string>
+     <string name="failed_text_parse_file">error! wrong file format</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="failed_title">attention</string>
      <string name="favorite">" избранное"</string>
      <string name="favorited_cannot_hide">Избранные нельзя скрыть</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -147,7 +159,10 @@
      <string name="fullscreen_to_play">Полный экран</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="funshion">Funshion</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_cert_file_failed">can not get thunder certificate,please press the back key</string>
      <string name="gong_count_dlna">DLNA: %d</string>
+     <string name="gong_count_netdevice">%d net devices</string>
      <string name="gong_count_xiang">Файлов: %d</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="good">OK</string>
@@ -196,6 +211,7 @@
      <string name="loading">" "<CDATA>Загрузка </CDATA>" "</string>
      <string name="loading_review"><CDATA>Загрузка </CDATA></string>
      <string name="loading_review_failed">Ошибка загрузки комментария</string>
+     <string name="loading_text"><CDATA>Loading... </CDATA></string>
      <string name="loading_tv">" "<CDATA>Загрузка </CDATA>" "</string>
      <string name="loading_video">" "<CDATA>Загрузка </CDATA>" "</string>
      <string name="loading_video_netplay_label">Загрузка…</string>
@@ -235,6 +251,8 @@
      <string name="mydlna">Мое DLNA</string>
      <string name="myfavorite">" Избранное"</string>
      <string name="myfavorite_onlylocal">" избранное"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="net_device_name">net device</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="netease">NetEase</string>
      <string name="network_setting">Сеть</string>
@@ -349,6 +367,8 @@
      <string name="temp_play_history_button_label">История просмотров</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="tencent">Tencent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="thunder_cinema">thunder cinema</string>
      <string name="time_colon">"Год: "</string>
      <string name="to_be_play_label_v5">"Далее: "</string>
      <string name="to_live_status">Ожидание начала</string>
@@ -414,6 +434,10 @@
      <string name="write_comment">Добавить</string>
      <string name="xiaomi_account_type_unsupported">Ваша система не поддерживает аккаунт Xiaomi</string>
      <string name="xiaomi_user">Аккаунт Xiaomi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xunlei_cinema_title">thunder cinema</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="xunlei_login_error">thunder login in error</string>
      <string name="year" />
      <string name="yestorday">"Вчера "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

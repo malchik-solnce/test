@@ -3,6 +3,14 @@
 <resources>
      <string name="Parse_error_dlg_text">При синтаксическом анализе пакета возникла неполадка</string>
      <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ad_block_button_title">Block adware</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ad_relative">Adware</string>
+     <string name="adware_count">Contains %d plugins</string>
+     <string name="adware_hint">These plugins are used by third-party developers to display advertisements on your device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="adware_title">AdWare</string>
      <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
 
 Разрешить и запомнить выбор?"</string>

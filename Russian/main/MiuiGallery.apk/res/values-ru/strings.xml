@@ -265,7 +265,12 @@
      <string name="internal_sd_card_hm">Память телефона</string>
      <string name="invalid_invition_url">Неверная ссылка приглашения</string>
      <string name="invalid_recipient_message">Исправьте получателя (получателей) или они не будут получать сообщения</string>
-     <string name="item_not_sync">Этот файл не был синхронизирован с облаком и не может быть загружен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="item_not_sync_for_origin_image">This picture has not been synchronized to the cloud and its origin image can not be downloaded</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="item_not_sync_for_origin_video">This video has not been synchronized to the cloud and can not be downloaded</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="item_not_sync_for_refocus_data">This picture has not been synchronized to the cloud and its refocus data can not be downloaded</string>
      <string name="kick_owner_user_positive_button_text">Удалить</string>
      <string name="kick_owner_user_title">Удалить этот номер?</string>
      <string name="kick_sharer">Удалить получателя</string>
@@ -498,6 +503,8 @@
      <string name="try_to_send">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ubifocus_data_missing">Some data is lost</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ubifocus_guide_text">Hold 0.5s to refocus</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ubifocus_map_error">Some data is wrong</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

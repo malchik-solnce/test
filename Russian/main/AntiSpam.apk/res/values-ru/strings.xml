@@ -37,9 +37,13 @@
      <string name="SMS_MODENAME">По умолчанию</string>
      <string name="SMS_PREFIX">Префиксы</string>
      <string name="SMSpass">Разрешить сообщения</string>
+     <string name="ad_block_hint">%d blocked</string>
      <string name="ad_install_monitor">Мониторинг приложений</string>
      <string name="ad_install_monitor_hint">Проверять приложения на наличие рекламы при установке</string>
+     <string name="ad_permission_hint">"Using ad blocker may also affect your apps' performance or prevent them from working normally."</string>
      <string name="ad_relative_setting">Общие настройки</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ad_single_block_hint">Blocked</string>
      <string name="ad_update_setting">Настройки обновления</string>
      <string name="ad_update_time">Обновлено: %s</string>
      <string name="ad_update_time_unKnown">Обновлено: неизвестно</string>

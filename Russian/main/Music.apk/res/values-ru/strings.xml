@@ -149,6 +149,12 @@
      <string name="id3_modify_confirm_check">Сохранить изменения ID3?</string>
      <string name="id3_modify_confirm_text">Сохранить</string>
      <string name="impunity_declaration">Онлайн музыка предоставляется сервисом Baidu Online Music. Нажмите \"Принимаю\", чтобы принять <a href="http://music.baidu.com/doc/agreement">Условия использования</a> и продолжить.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="impunity_declaration_ignore">Do not prompt</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="impunity_declaration_settings">Every time notification when networking</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="impunity_declaration_summary">When entering the music, there will popup to remind</string>
      <string name="impunity_declaration_title">Примечание</string>
      <string name="keep_quit_position_settings">Помнить позицию</string>
      <string name="keep_quit_position_summary">Возвращаться к состоянию на момент выхода. Рекомендуется включить.</string>
@@ -199,8 +205,6 @@
      <string name="modify_tracks_id3_background">Изменить ID3 выбранной песни в фоновом режиме</string>
      <string name="more">Еще</string>
      <string name="music_browser_label">Музыка</string>
-     <string name="music_filter">ФИЛЬТРАЦИЯ ФАЙЛОВ</string>
-     <string name="music_filter_helper">Чтобы скрывать файлы, которые не связаны с музыкой, применяется размер фильтра 800 КБ. Порог можно настроить в меню Настройки-Файловый фильтр.</string>
      <string name="music_not_loaded">Музыка не загружена</string>
      <string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к интернету</string>
      <string name="music_picker_title">Выберите трек</string>
@@ -315,6 +319,8 @@
      <string name="sync_enable_toast">Вы можете изменить параметры сихронизации в настройках > аккаунты > MiCloud</string>
      <string name="synchronize_playlist_setting">Синхронизация плейлистов</string>
      <string name="synchronize_playlist_summary">Синхронизировать плейлисты в MiCloud</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="take_effect_afater_restart">The music must be restarted in order for the new setting to take effect</string>
      <string name="track_bit_rate_hd">Высокое</string>
      <string name="track_bit_rate_standard">Обычное</string>
      <string name="track_bit_rate_uhd">Наилучшее</string>

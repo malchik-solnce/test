@@ -57,8 +57,6 @@
      <string name="resource_account_login_title">Вход</string>
      <string name="resource_account_switch">Сменить аккаунт</string>
      <string name="resource_alarm_default">Будильник</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_allow">Allow</string>
      <string name="resource_app_name">Компоненты</string>
      <string name="resource_apply">Применить</string>
      <string name="resource_apply_trial">Попробовать</string>
@@ -100,9 +98,6 @@
      <string name="resource_comment_upload_not_bought">Вы должны применить тему, прежде чем комментировать</string>
      <string name="resource_comment_upload_not_logined">Сначала войдите в аккаунт</string>
      <string name="resource_comment_upload_success">Комментарий отправлен!</string>
-     <string name="resource_connect_network_message">Do you allow the application to connect network?</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="resource_connect_network_settings">Every time notification when networking</string>
      <string name="resource_default">Мелодия по умолчанию</string>
      <string name="resource_default_name">Ресурс</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -176,7 +171,6 @@
      <string name="resource_ranking">Популярные</string>
      <string name="resource_ranking_free">Бесплатные</string>
      <string name="resource_ranking_purchase">Платные</string>
-     <string name="resource_remind_another_time">"Don't remind me"</string>
      <string name="resource_ringtone_default">Мелодии</string>
      <string name="resource_ringtone_playing_error">ошибка проигрывания</string>
      <string name="resource_ringtone_volume_mute">Громкость мелодии отключена</string>
@@ -253,6 +247,21 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_no">No</string>
      <string name="theme_select_others">Прочее</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_user_agreement_allow">Agree</string>
+     <string name="theme_user_agreement_content1">Read the applicable terms carefully before you use this product:</string>
+     <string name="theme_user_agreement_content2">" User agreement"</string>
+     <string name="theme_user_agreement_content3">" and "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_user_agreement_content4">Privacy policy</string>
+     <string name="theme_user_agreement_content5">. Do you agree its requiring network?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_user_agreement_remind_again">Notify when requiring network</string>
+     <string name="theme_user_agreement_remind_never">"Don't remind me"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_user_agreement_remind_summary">Take effect next boot</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="theme_user_agreement_title">Declaration and Impunity</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="theme_yes">Yes</string>
      <string name="third_party_pickers_activity_title">Установить %1$s</string>
