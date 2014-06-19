@@ -183,6 +183,7 @@
      <string name="settings">Настройки</string>
      <string name="sorted_button">Сортировка</string>
      <string name="sorted_dialog_title">Сортировка</string>
+     <string name="spinner_title">%1$s - Mobile data: %2$s</string>
      <string name="stop_app_button">Остановить</string>
      <string name="system_app">Системные приложения</string>
      <string name="tips_dialog_title">Не знаете свой лимит?</string>

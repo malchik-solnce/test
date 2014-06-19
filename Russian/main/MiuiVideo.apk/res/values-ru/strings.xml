@@ -37,6 +37,7 @@
      <string name="authenticating_manually">Ошибка аутентификации</string>
      <string name="auto_play">Автовоспроизведение</string>
      <string name="auto_play_summary">Воспроизводить видео после буферизации или завершения загрузки</string>
+     <string name="backkey_remark">*备注：按返回键退出</string>
      <string name="be_living_status">Сейчас</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="bestv">Bestv</string>
@@ -100,6 +101,7 @@
      <string name="day" />
      <string name="declaration">Условия использования</string>
      <string name="declaration_content">Вы принимаете условия использования предусмотренных Sohu Video, iQiyi и других контент-провайдеров видео?</string>
+     <string name="declaration_content_short">Do you accept the terms of use stipulated by Sohu Video, iQiyi, and other video content providers?</string>
      <string name="delete">Удалить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="delete_addon">Delete</string>
@@ -172,6 +174,8 @@
      <string name="hided_cannot_favorite">Скрытые нельзя избрать</string>
      <string name="hint_can_not_get_source_info">Нет источника видео</string>
      <string name="hint_without_selected_set">Источник не выбран, автоматический поиск…</string>
+     <string name="home_net_content">视频应用将会使用您的网络流量，是否要继续？</string>
+     <string name="home_net_title">联网提示</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="icntv">iCNTV</string>
      <string name="in_download">Загрузка</string>
@@ -298,6 +302,8 @@
      <string name="offline_setting">Оффлайн медиа</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ok_no_more">OK and No More Promopts</string>
      <string name="online_video">Онлайн</string>
      <string name="open_camera">Камера</string>
      <string name="other_setting">Прочие</string>
@@ -347,6 +353,8 @@
      <string name="select_media_source">Выберите источник</string>
      <string name="series_colon">"Эпизодов: "</string>
      <string name="setting">Настройки</string>
+     <string name="setting_use_network">允许使用网络</string>
+     <string name="setting_use_network_summery">视频应用将会使用您的网络流量</string>
      <string name="show_hidemedia">Показывать скрытые файлы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina">Sina</string>
@@ -363,6 +371,8 @@
      <string name="success_cancel_myfavorite">Убрано из избранного</string>
      <string name="success_cancel_waitfornewset">Слежение остановлено</string>
      <string name="success_to_cancel_myfavorite">Отменено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sure">Agree</string>
      <string name="tags_colon">"Жанр: "</string>
      <string name="temp_play_history_button_label">История просмотров</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

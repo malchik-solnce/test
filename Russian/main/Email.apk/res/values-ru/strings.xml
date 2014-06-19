@@ -119,6 +119,12 @@
      <string name="account_setup_incoming_headline">Настройки сервера входящих сообщений</string>
      <string name="account_setup_incoming_imap_path_prefix_hint">По желанию</string>
      <string name="account_setup_incoming_imap_path_prefix_label">Префикс пути IMAP</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_setup_incoming_mail_adress_label">Email Address</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_setup_incoming_mail_domain_hint">Can be empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_setup_incoming_mail_domain_label">Domain</string>
      <string name="account_setup_incoming_password_label">Пароль</string>
      <string name="account_setup_incoming_port_label">Порт</string>
      <string name="account_setup_incoming_security_label">Тип безопасности</string>

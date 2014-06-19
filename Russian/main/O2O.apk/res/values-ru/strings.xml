@@ -165,6 +165,7 @@
      <string name="shrink">Свернуть</string>
      <string name="source">Источнок:%1$s</string>
      <string name="source_all">本次团购内容由%1$s提供，消费时请告知店员使用%1$s团购券。</string>
+     <string name="top_item_tips">选座</string>
      <string name="total_passbook">/共%1$s张</string>
      <string name="update_status_failed">Ошибка обновлени. Нет ответа от сервера.</string>
      <string name="update_status_local_app_failed">Ошибка обновления локального приложения</string>
