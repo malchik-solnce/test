@@ -205,6 +205,8 @@
      <string name="modify_tracks_id3_background">Изменить ID3 выбранной песни в фоновом режиме</string>
      <string name="more">Еще</string>
      <string name="music_browser_label">Музыка</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="music_filter">Filter files</string>
      <string name="music_not_loaded">Музыка не загружена</string>
      <string name="music_open_other_connect">Скачать музыку с помощью мобильного подключения к интернету</string>
      <string name="music_picker_title">Выберите трек</string>
