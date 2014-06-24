@@ -63,6 +63,7 @@
      <string name="big_screen_alertdialog_title">Проектор</string>
      <string name="bigscreen_slide_exit">Выход из слайдшоу</string>
      <string name="bigscreen_slide_fail_cause_loading">Повторите попытку, чтобы начать слайд-шоу после загрузки изображения</string>
+     <string name="bigscreen_slide_playing">Slideshow is playing in the device: %s</string>
      <string name="bigscreen_video_quit">Нажмите, чтобы выйти</string>
      <string name="browse_category">Просмотр изображений</string>
      <string name="by_email">Почта</string>
@@ -121,12 +122,20 @@
 
 Альбомов:%s
 Фото: %s"</string>
-     <string name="confirm_delete_home_merge_item">Удалить выбранные изображения (%s) с устройства и облака?</string>
-     <string name="confirm_delete_pictures">%s фотографий</string>
+     <string name="confirm_delete_has_cloud_image">Delete %s picture(s) in &lt;b>cloud&lt;/b>?</string>
+     <string name="confirm_delete_has_cloud_image_video">Delete %s item(s) in &lt;b>cloud&lt;/b>?</string>
+     <string name="confirm_delete_has_cloud_local_image">Delete %s picture(s) in &lt;b>local and cloud&lt;/b>?</string>
+     <string name="confirm_delete_has_cloud_local_image_video">Delete %s item(s) in &lt;b>local and cloud&lt;/b>?</string>
+     <string name="confirm_delete_has_cloud_local_video">Delete %s video(s) in &lt;b>local and cloud&lt;/b>?</string>
+     <string name="confirm_delete_has_cloud_video">Delete %s video(s) in &lt;b>cloud&lt;/b>?</string>
+     <string name="confirm_delete_has_local_image">Delete %s picture(s)?</string>
+     <string name="confirm_delete_has_local_image_video">Delete %s item(s)?</string>
+     <string name="confirm_delete_has_local_video">Delete %s video(s)?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_delete_init_message">Photo will be deleted from this device and from your Mi Cloud as well. If you only want delete in local, please operate in Local.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="confirm_delete_init_title">Hint</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить?</string>
-     <string name="confirm_delete_this_picture">Удалить это изображение?</string>
-     <string name="confirm_delete_this_video">Удалить это видео?</string>
-     <string name="confirm_delete_videos">%s видео</string>
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
      <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
      <string name="confirm_download_video_title">Загрузка видео</string>
@@ -460,6 +469,7 @@
      <string name="size_above">%1$s или более</string>
      <string name="size_below">%1$s или менее</string>
      <string name="size_between">между %1$s и %2$s</string>
+     <string name="skip_hide_special_album">"System albums (Camera, Screenshots) can't be set as hidden."</string>
      <string name="slideshow">Слайд-шоу</string>
      <string name="slideshow_category">Слайд-шоу</string>
      <string name="slideshow_dream_name">Слайд-шоу</string>

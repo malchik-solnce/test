@@ -746,6 +746,12 @@
      <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку</string>
      <string name="cryptkeeper_emergency_call">Вызов службы экстренной помощи</string>
      <string name="cryptkeeper_return_to_call">Вернуться к вызову</string>
+     <string name="cta_button_text_agree">同意</string>
+     <string name="cta_button_text_cancel">取消</string>
+     <string name="cta_checkbox_title">不再提示</string>
+     <string name="cta_dialog_msg">您将使用小米公司的安全中心服务，为了保证功能的正常使用以及相关病毒库能够得到及时的更新，在使用过程中需要联网，您是否同意？</string>
+     <string name="cta_dialog_title">声明和条款</string>
+     <string name="cta_settings">允许联网</string>
      <string name="current_backup_pw_prompt">Введите текущий пароль</string>
      <string name="current_input_method">По умолчанию</string>
      <string name="current_use_ese">Использование встроенного защитного элемента</string>
@@ -2287,6 +2293,7 @@
      <string name="pref_volume_wake_summary">Нажатие увеличения/уменьшения громкости для пробуждения устройства</string>
      <string name="pref_volume_wake_title">Включение экрана при нажатии</string>
      <string name="preference_change_password_title">Изменить пароль</string>
+     <string name="preference_key_cta_settings">key_cta_settings</string>
      <string name="preferred_app_settings">Приложения по умолчанию</string>
      <string name="preferred_app_settings_default">По умолчанию</string>
      <string name="preferred_app_settings_reset">Сбросить настройки</string>
