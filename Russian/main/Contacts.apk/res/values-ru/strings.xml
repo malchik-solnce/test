@@ -194,6 +194,15 @@
      <string name="createContactShortcutSuccessful">Виджет контакта добавлен на рабой стол</string>
      <string name="create_group_dialog_title">Создание новой группы</string>
      <string name="create_group_item_label">Создать новую группу</string>
+     <string name="cta_notice_checkbox">"Don't show me this again"</string>
+     <string name="cta_notice_new_contact_message">Saving contacts under account \"%s\" will access network, agree?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_notice_ok">Agree</string>
+     <string name="cta_notice_photo_message">Editing contacts photo with photo package will access network, agree?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_notice_settings">Remind when accessing network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_notice_title">Remind</string>
      <string name="customLabelPickerTitle">Название ярлыка</string>
      <string name="custom_list_filter">Настройка отображения</string>
      <string name="custom_nickname_hint">Введите: М или Ж</string>

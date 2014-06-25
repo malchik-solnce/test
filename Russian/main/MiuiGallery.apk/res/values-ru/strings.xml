@@ -131,11 +131,16 @@
      <string name="confirm_delete_has_local_image">Delete %s picture(s)?</string>
      <string name="confirm_delete_has_local_image_video">Delete %s item(s)?</string>
      <string name="confirm_delete_has_local_video">Delete %s video(s)?</string>
+     <string name="confirm_delete_home_merge_item">Delete %s picture(s) in local and cloud?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_delete_init_message">Photo will be deleted from this device and from your Mi Cloud as well. If you only want delete in local, please operate in Local.</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="confirm_delete_init_title">Hint</string>
+     <string name="confirm_delete_pictures">Delete %s pictures</string>
      <string name="confirm_delete_system_album">%s системный альбом. Вы уверены, что хотите удалить?</string>
+     <string name="confirm_delete_this_picture">Delete this picture?</string>
+     <string name="confirm_delete_this_video">Delete this video?</string>
+     <string name="confirm_delete_videos">Delete %s videos</string>
      <string name="confirm_download">Вам необходимо скачать %s. Подсказка не будет больше показана.</string>
      <string name="confirm_download_video_message">Необходима загрузка видео. Скачивание возобновится при доступном Wi-Fi соединении.</string>
      <string name="confirm_download_video_title">Загрузка видео</string>
@@ -518,7 +523,11 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ubifocus_map_error">Some data is wrong</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="ubifocus_refocus_fail_tip">Cannot refocus due to some missing or wrong data</string>
+     <string name="ubifocus_refocus_data_missing">Cannot refocus due to some missing data</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ubifocus_refocus_download_tip">Please download refocus data before refocusing</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ubifocus_refocus_map_error">Cannot refocus due to some wrong data</string>
      <string name="unit_mm">мм</string>
      <string name="unpublish_failed">Не удалось отменить публикацию!</string>
      <string name="unpublish_succeeded">Альбом снят с публикации!</string>

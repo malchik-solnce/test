@@ -39,6 +39,8 @@
      <string name="cancel">Отмена</string>
      <string name="cannot_connect_camera_once">Не возможно подключится к камере. Перезайдите в приложение.</string>
      <string name="cannot_connect_camera_twice">Не возможно подключится к камере. Перезагрузите устройство.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cannot_move_warning_message">Taking picture, do not move the device</string>
      <string name="clear_effects">Убрать эффекты</string>
      <string name="close">Закрыть</string>
      <string name="cloud_album_details">Облачный альбом:</string>
@@ -503,6 +505,7 @@
      <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
      <string name="ubi_focus_exit_button_text">Выйти</string>
+     <string name="ubifocus_capture_warning_message">It is better when the preview screen contains both near (less than one meter from the lens) and far objects</string>
      <string name="undo">Назад</string>
      <string name="unit_mm">мм</string>
      <string name="video_camera_label">Видеокамера</string>

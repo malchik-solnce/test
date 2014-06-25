@@ -59,6 +59,14 @@
 • Синхронизировать все мероприятия – ты никогда не потеряешь их"</string>
      <string name="creating_event">Мероприятие создано</string>
      <string name="creating_event_with_guest">Приглашение отправлено</string>
+     <string name="cta_notice_checkbox">"Don't show me this again"</string>
+     <string name="cta_notice_message">\"Birthday reminding\" in Calendar will remind you the birthday of your contacts ahead of time, but it will access your contacts, agree?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_notice_ok">Agree</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_notice_title">Remind</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cta_notify_settings">Remind when accessing contacts</string>
      <string name="custom">Особое… (настраивается только на сайте)</string>
      <string name="daily">Ежедневно</string>
      <string name="data_notice_change_settings">更改设置</string>

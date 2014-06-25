@@ -81,10 +81,16 @@
      <string name="HIPS_Perm_AudioRecorder">Диктофон</string>
      <string name="HIPS_Perm_AudioRecorder_Desc">Доступ к диктофону</string>
      <string name="HIPS_Perm_AudioRecorder_Hint">%1$s приложения, имеющие доступ к диктофону</string>
+     <string name="HIPS_Perm_AutoStart">开机后自动启动</string>
+     <string name="HIPS_Perm_AutoStart_Desc">开机后自动启动</string>
+     <string name="HIPS_Perm_AutoStart_Hint">%1$s款软件有权开机后自动启动</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="HIPS_Perm_Bluetooth_Connectivity">Bluetooth</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity_Desc">Доступ к подключению Bluetooth</string>
      <string name="HIPS_Perm_Bluetooth_Connectivity_Hint">%1$s приложения, имеющие доступ к Bluetooth</string>
+     <string name="HIPS_Perm_Calendar">访问日历</string>
+     <string name="HIPS_Perm_Calendar_Desc">访问日历</string>
+     <string name="HIPS_Perm_Calendar_Hint">%1$s款软件有权访问日历</string>
      <string name="HIPS_Perm_Call">Телефонные звонки</string>
      <string name="HIPS_Perm_CallLog">Журнал вызовов</string>
      <string name="HIPS_Perm_CallLog_Access">Читать журнал вызовов</string>
@@ -140,6 +146,9 @@
      <string name="HIPS_Perm_Network_Send">отправлять данные</string>
      <string name="HIPS_Perm_Network_UnknownAddr">Неизвестный адрес</string>
      <string name="HIPS_Perm_Network_WIFIEvent">Wi-Fi</string>
+     <string name="HIPS_Perm_Notification">发送通知栏消息</string>
+     <string name="HIPS_Perm_Notification_Desc">发送通知栏消息</string>
+     <string name="HIPS_Perm_Notification_Hint">%1$s款软件有权发送通知栏消息</string>
      <string name="HIPS_Perm_PhoneID">Идентификация телефона</string>
      <string name="HIPS_Perm_PhoneID_Desc">Получать идентификаторы вашего телефона, включая IMEI, IMSI, и т.д</string>
      <string name="HIPS_Perm_PhoneID_Hint">%1$s приложения, имеющие доступ к идентификаторам вашего телефона</string>
@@ -187,6 +196,9 @@
      <string name="HIPS_Perm_Settings_Hint">%1$s приложения, имеющие доступ к системным настройкам</string>
      <string name="HIPS_Perm_Settings_Modify">Изменять настройки системы</string>
      <string name="HIPS_Perm_SilenceRinger">Звонок без звука</string>
+     <string name="HIPS_Perm_SystemAlert">显示悬浮窗</string>
+     <string name="HIPS_Perm_SystemAlert_Desc">显示悬浮窗</string>
+     <string name="HIPS_Perm_SystemAlert_Hint">%1$s款软件有权显示悬浮窗</string>
      <string name="HIPS_Perm_VideoRecorder">Запись видео</string>
      <string name="HIPS_Perm_VideoRecorder_Desc">Доступ к записи видео</string>
      <string name="HIPS_Perm_VideoRecorder_Hint">%1$s приложения, имеющие доступ к записи видео</string>
@@ -196,6 +208,9 @@
      <string name="HIPS_Perm_WIFI_Connectivity">Wi-Fi</string>
      <string name="HIPS_Perm_WIFI_Connectivity_Desc">Доступ к подключению Wi-Fi</string>
      <string name="HIPS_Perm_WIFI_Connectivity_Hint">%1$s приложения, имеющие доступ к подключению Wi-Fi</string>
+     <string name="HIPS_Perm_Wakelock">阻止休眠</string>
+     <string name="HIPS_Perm_Wakelock_Desc">阻止休眠</string>
+     <string name="HIPS_Perm_Wakelock_Hint">%1$s款软件有权阻止休眠</string>
      <string name="HIPS_SecurityPrompt_Accept">Разр. (%d)</string>
      <string name="HIPS_SecurityPrompt_AcceptRoot">Разр.</string>
      <string name="HIPS_SecurityPrompt_Caption">Предупреждение</string>
