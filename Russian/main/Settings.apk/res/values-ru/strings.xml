@@ -54,7 +54,10 @@
 Примечание. Тройным нажатием увеличиваются все области, кроме клавиатуры и панели навигации."</string>
      <string name="accessibility_screen_magnification_title">Жесты для увеличения</string>
      <string name="accessibility_service_default_description">Нет описания</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="accessibility_service_no_apps_confirm">I know</string>
      <string name="accessibility_service_no_apps_message">Бесплатное приложение TalkBack дает голосовое описание элементов интерфейса для пользователей с нарушением зрения. Установить его из Android Маркета?</string>
+     <string name="accessibility_service_no_apps_prompt">TalkBack provides spoken feedback to help blind and low-vision users. Get this service for free from the Google Play Store.</string>
      <string name="accessibility_service_no_apps_title">Нужна программа чтения с экрана?</string>
      <string name="accessibility_services_title">Службы</string>
      <string name="accessibility_settings">Спец. возможности</string>

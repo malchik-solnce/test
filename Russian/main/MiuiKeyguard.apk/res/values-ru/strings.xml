@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_unlock_rssi_far_debug_msg">Bluetooth device is too far to unlock.</string>
      <string name="contact_carrier_message">Свяжитесь с оператором, если у вас возникли дополнительные вопросы</string>
      <string name="emergency_call_string">Экстренные</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="empty_password_error_msg">Password field should not be empty</string>
      <string name="experimental_try_string">Попытка</string>
      <string name="experimental_validate">Проверить</string>
      <string name="experimental_validate_fail">Ошибка входа</string>
@@ -52,6 +56,8 @@
      <string name="lockscreen_transport_play_description">Кнопка проигрывания</string>
      <string name="lockscreen_transport_prev_description">Предыдущее</string>
      <string name="login_website_in_case_forget_password">Для сброса пароля, зайдите на i.xiaomi.com</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_keyguard_ble_unlock_succeed_msg">Unlocked by bluetooth device</string>
      <string name="miui_unlockscreen_password_wrong">Попытайтесь снова:</string>
      <string name="open_wifi_settings">Открыть настройки подключения</string>
      <string name="phone_locked_string">Устройство заблокировано</string>

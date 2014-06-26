@@ -1,15 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Builded with NXT -->
+<!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Photo Screensavers</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="flipper_screensaver_name">Photo Frame</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="local_source_name">Photos on Device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="need_to_configure">No photos selected.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="no_photos">No photos on the device.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="photodream_select_all">Select All</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="photodream_select_none">Deselect All</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="posts_album_name">Photos from Posts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="stock_photo_album_name">Stock Photos</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="table_screensaver_name">Photo Table</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="unknown_album_name">Unnamed Album</string>
 </resources>

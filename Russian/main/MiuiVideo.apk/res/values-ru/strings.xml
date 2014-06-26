@@ -182,6 +182,8 @@
      <string name="in_pause">Приостановлено</string>
      <string name="in_waiting">Ожидание</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="info_title">information</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="install_comfirm">click to install</string>
      <string name="jni_invalid_param">Неправильный параметр</string>
      <string name="jni_no_media_source">Нет доступа к источнику видео</string>
@@ -321,9 +323,12 @@
      <string name="play_setting">Воспроизведение</string>
      <string name="playvideo">Воспроизвести</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="post_playcount">times</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pps">PPS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pptv">PPTV</string>
+     <string name="prex_playcount">play:</string>
      <string name="publish">Отправить</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="qiyi">iQiyi</string>

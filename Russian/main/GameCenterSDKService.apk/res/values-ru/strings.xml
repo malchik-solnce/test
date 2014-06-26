@@ -1,171 +1,224 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
-     <string name="access_denied">Доступ запрещен</string>
      <string name="account">Счет</string>
-     <string name="account_detail">"Xiaomi счет: %1$s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_access_denied">Access denied</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_activating">Activating...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_alert_title_remove_account">Delete account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_app_name">Xiaomi service framework</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_bad_authentication">Authentication failed. Invalid username or password.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_btn_reg">Sign up account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_button_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_checking_account">Verifying account...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_completed">Finish</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_confirm">Confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_data_keep_in_phone">Keep on my device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_data_wipe_from_phone">Delete from my device</string>
      <string name="account_dspt">"Xiaomi счета могут синхронизации и резервного копирования SMS-сообщения, контакты, фотографии, и т.д."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_email_already_be_used">Email address already used</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_error_dup_phone">Phone has been registered</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_error_network">Network error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_error_no_sms_service">SMS service not available</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_error_server">Server error</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_error_sim_not_ready">SIM not ready</string>
+     <string name="account_error_unknown">Unknown error:%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_failed_to_send_activate_email">Failed to send activation email.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_find_password_on_web_msg">Please visit account.xiaomi.com to retrieve password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_forget_password">Forgot password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_getting_acc">Retrieving account information</string>
      <string name="account_hint_text">Адрес электронной почты/номер Телефона</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_i_know">I know</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_input_password_hint">Input password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_login">Sign in</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_login_failed">Sign in failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_login_notice">Signing in...</string>
+     <string name="account_login_tip">Welcome %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_account">Xiaomi account</string>
+     <string name="account_micloud_account_label">Account: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_account_name">Xiaomi account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_account_not_actived">Account not activated</string>
+     <string name="account_micloud_active_email_sent_1">We have sent an activation link to your email:</string>
+     <string name="account_micloud_active_email_sent_2" />
+     <string name="account_micloud_active_email_visit">Visit %s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_activing_account">Activating your account, waiting...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_click_email">Click the link in the email to activate your Xiaomi Account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_click_email_to_valid">Click the activation link in your inbox</string>
+     <string name="account_micloud_confirm_logout_account">Are your sure to logout account ?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_delete_account">Delete account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_email">Input your Email address</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_error_email">Invalid email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_error_empty_pwd">Password is blank</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_error_empty_username">User is blank</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_error_illegal_pwd">Invalid password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_input_password_prompt">Input password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_logout_account">Logout account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_password_confirm_hint">Confirm Password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_password_error_inconsistent">Passwords mismatch</string>
+     <string name="account_micloud_password_req_notice">8~16 chars, contains digits, alphabet letters, case sensitive</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_reg_new">New</string>
+     <string name="account_micloud_resend_active_email">Re-send activation email</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_micloud_use_existing">Existing</string>
+     <string name="account_micloud_val_sms_alert">An SMS will be sent to validate your phone number. Continue?</string>
+     <string name="account_micloud_welcome_skip_login"><u>Skip this step</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_mili_center">MiCredit center</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_modfiy_accname">Change nickname</string>
      <string name="account_name">Аккаунт: %1$s</string>
-     <string name="activating">Активация...</string>
-     <string name="alert_title_remove_account">Удалить учетную запись</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_name_long">User name too long</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_next_login_show_dialog">Keep me logged in</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_password">Password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_prev">Back</string>
+     <string name="account_quick_login_title">"Authentication is required.
+Please input your password"</string>
+     <string name="account_reg_by_email_failure">Registration failed:%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_reg_failed">Registration failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_reg_type_email">Register via email</string>
+     <string name="account_reg_type_phone">Register via phone number (recommended)</string>
+     <string name="account_relogin">Re-login</string>
+     <string name="account_remove_account_notice">What would you like to do with the previously synced messages and contacts on your device?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_remove_confirm">Delete it</string>
+     <string name="account_remove_unactivated_account_notice">The Xiaomi account is not activated, remove it now?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_skip_login">Skip login</string>
+     <string name="account_skip_setup_account_msg">Using your Xiaomi Account, you can synchronize and backup your SMS, contacts, photos, notes, etc. Continue and setup later?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_skip_setup_account_title">Skip account setting</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_tip_isnull">Game ID cannot be left blank or empty</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_title_reg">Sign up Xiaomi account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_unactivated_user">Unactivated</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_update_list">Updating the list</string>
+     <string name="account_user_agreement_p1">"By signing in, you are agreeing to
+ the "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_agreement_p2">Xiaomi terms of service</string>
+     <string name="account_user_agreement_p3"> and the </string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="account_user_agreement_p4">Privacy policy</string>
+     <string name="account_user_agreement_p5">"By signing up, you are agreeing to
+ the "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="app_name">Xiaomi SDK</string>
-     <string name="bad_authentication">Ошибка аутентификации. Неверное имя пользователя или пароль.</string>
-     <string name="balance">Баланс: %1$s MiCredits</string>
-     <string name="balance_giftcard_payment">%1$s MiCredits (в%2$s-MiCredit подарочная карта Travel)</string>
-     <string name="balance_payment">%1$s MiCredits</string>
-     <string name="bankcall_bank_account">Банковские карты:</string>
-     <string name="bankcall_call_hint">Вам позвонят из UnionPay (020-96585) в ближайшее время.</string>
-     <string name="bankcall_card">Банковская карта</string>
-     <string name="bankcall_card_hint">Пожалуйста, введите номер счета</string>
-     <string name="bankcall_card_type">%1$s%2$s</string>
-     <string name="bankcall_card_type_tailnum">%1$s%2$s(Карты Нет. %3$s)</string>
-     <string name="bankcall_city">Город</string>
-     <string name="bankcall_credit_card">Кредитная карта</string>
-     <string name="bankcall_debit_card">Дебетовые карты</string>
-     <string name="bankcall_denom">Сумма:</string>
-     <string name="bankcall_denom_number">японская%1$s</string>
-     <string name="bankcall_error_card">Номер счета поврежденных: пожалуйста, исправьте ваш номер счета.</string>
-     <string name="bankcall_error_card_info">Account info неверно: пожалуйста, исправьте информацию о вашей учетной записи.</string>
-     <string name="bankcall_hint">Эта услуга шифруется и уполномоченным UnionPay.</string>
-     <string name="bankcall_id_card">ID карты нет.</string>
-     <string name="bankcall_id_card_hint">ID карты нет. связанный с учетной записью,</string>
-     <string name="bankcall_merchant">Приемник:</string>
-     <string name="bankcall_name">Имя</string>
-     <string name="bankcall_name_hint">Имя, связанный с учетной записью</string>
-     <string name="bankcall_phone">Телефон</string>
-     <string name="bankcall_phone_credit_hint">"Банковский счет соответствующих личный телефонный номер"</string>
-     <string name="bankcall_phone_debit_hint">Убедитесь, что у вас хорошее соединение с Интернет.</string>
-     <string name="bankcall_province">Провинции</string>
-     <string name="bankcall_saved_card_info">%1$s - Card Нет. %2$s</string>
-     <string name="bankcall_xiaomi_company">Xiaomi Corporation " (Пекин)</string>
-     <string name="btn_back">Возвращение</string>
-     <string name="btn_call">Вызов</string>
-     <string name="btn_count_down_auto">Осведомиться %1$s секунд</string>
-     <string name="btn_delete_record">Удалить</string>
-     <string name="btn_mili_center_recharge">Пополнить MiCredit</string>
-     <string name="btn_net_connection_retry">Повторить</string>
-     <string name="btn_next">Далее</string>
-     <string name="btn_other_bankcard">Воспользуйтесь другой картой</string>
-     <string name="btn_prev">Предыдущая</string>
-     <string name="btn_query">Узнать</string>
-     <string name="btn_recharge_confirm">Подтверждение покупки</string>
-     <string name="btn_recharge_large">Пополнить</string>
-     <string name="btn_recharge_other">Пополнить</string>
-     <string name="btn_recharge_success">Сверху до полного</string>
-     <string name="btn_recharge_success_quick">Сверху до полного</string>
-     <string name="btn_reg">Зарегистрироваться счета</string>
-     <string name="btn_wait_call">Ждем-с...</string>
-     <string name="btn_wait_call_count">Ожидание (%1$s)</string>
-     <string name="btn_wait_confirm">Ожидание</string>
-     <string name="btn_wait_confirm_count">Ожидание (в%1$s Travel)</string>
-     <string name="button_call">Вызов</string>
-     <string name="button_cancel">Отменить</string>
-     <string name="button_pay">Подтвердить</string>
-     <string name="button_recharge">Пополнить</string>
-     <string name="button_recharge_pay">Подтвердить</string>
-     <string name="button_retry">Повторить</string>
-     <string name="checking_account">Проверка учетной записи...</string>
-     <string name="completed">Готово</string>
-     <string name="confirm">Подтвердить</string>
-     <string name="data_keep_in_phone">Держать на моем устройстве</string>
-     <string name="data_wipe_from_phone">Удалить из моих устройств</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_account_begingame">Enter</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="btn_ok">OK</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="create_account_txt">My game ID</string>
      <string name="delete">Удалить</string>
-     <string name="email_already_be_used">Адрес электронной почты уже используется</string>
-     <string name="error_account_changed_summary">"Сведения о вашей учетной записи изменилось. Пожалуйста, войдите в систему снова."</string>
-     <string name="error_account_changed_title">Счет изменился</string>
-     <string name="error_auth_summary">Для входа в учетную запись об ошибке, пожалуйста, войдите в систему снова.</string>
-     <string name="error_auth_title">Ошибка входа</string>
-     <string name="error_bankcard_verify_summary">Не удалось проверить, карты нет.</string>
-     <string name="error_common_summary">Системная ошибка. Пожалуйста, попробуйте еще раз позже.</string>
-     <string name="error_common_title">Системная ошибка</string>
-     <string name="error_dup_phone">Телефон был зарегистрирован</string>
-     <string name="error_expired_summary">Ваш заказ истек</string>
-     <string name="error_frozen_summary">"Ваш счет заморожен. Пожалуйста, свяжитесь с Xiaomi обслуживания клиентов."</string>
-     <string name="error_frozen_title">Заморожен</string>
-     <string name="error_giftcard_summary">"Не мог получить подарок card info."</string>
-     <string name="error_has_bought_summary">Вы уже купили этот продукт.</string>
-     <string name="error_has_bought_title">Повторных покупок</string>
-     <string name="error_illegal_order_summary">Чтобы ошибки. Пожалуйста, повторите попытку позже</string>
-     <string name="error_illegal_order_title">Чтобы ошибки</string>
-     <string name="error_mili_summary">Недостаточно средств.</string>
-     <string name="error_network">Ошибка сети</string>
-     <string name="error_network_summary">"Не могу подключиться к сети."</string>
-     <string name="error_network_title">Ошибка сети</string>
-     <string name="error_no_sms_service">SMS-услуга не предоставляется</string>
-     <string name="error_server">Ошибка сервера</string>
-     <string name="error_server_summary">Ошибка сервера. Пожалуйста, повторите попытку позже</string>
-     <string name="error_server_title">Ошибка сервера</string>
-     <string name="error_sim_not_ready">SIM-не готовы</string>
-     <string name="error_too_frequent_visits_summary">"Номер счета, на который действие превышен. Подождите пять минут и попробуйте еще раз."</string>
-     <string name="error_too_frequent_visits_title">Ух ты... замедлить там</string>
-     <string name="error_unknown">Неизвестная ошибка: %1$s</string>
-     <string name="error_user_id_mismatch_summary">Пожалуйста, проверьте и заново войти в свой аккаунт</string>
-     <string name="error_user_id_mismatch_title">Ошибка записи</string>
-     <string name="error_verify_summary">Ваше приложение не имеет разрешения запроса услуги</string>
-     <string name="error_verify_title">Никакого разрешения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="deputy_no_accountinfo">No information about alternative account retrieved</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_code_authentication_error">Xiaomi account error. Please check</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_code_canceled">Payment request has been cancelled</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="error_code_duplicate_purchase">Operation too frequent. No need to click again.</string>
+     <string name="error_code_exception">Error... try again?</string>
+     <string name="error_code_network_error">Poor connection... check your network settings?</string>
      <string name="experimental_validate">Проверить</string>
      <string name="experimental_validate_fail">Проверить не удалось, пожалуйста, попробуйте снова</string>
-     <string name="failed_to_send_activate_email">Не удалось отправить письмо с кодом активации.</string>
-     <string name="find_password_on_web_msg">Пожалуйста, посетите account.xiaomi.com чтобы восстановить пароль</string>
-     <string name="forget_password">Забыл пароль</string>
-     <string name="format_date">МММ. ДД, гггг</string>
-     <string name="format_time">Dd MMM yyyy-hh:mmaa</string>
-     <string name="frozen">(Замороженные)</string>
-     <string name="giftcard_acitivity_and_denomination">%2$s-MiCredit подарочная карта от %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="giftcard_denom">MiCredit</string>
-     <string name="giftcard_denom_available">MiCredit доступны</string>
-     <string name="giftcard_denom_frozen">MiCredit замороженные</string>
-     <string name="giftcard_empty">Нет подарочные карты.</string>
-     <string name="giftcard_expire">%1$s истек</string>
-     <string name="giftcard_hint">MiCredits добавлены с помощью подарочной карты будут потрачены первый автоматически.</string>
-     <string name="giftcard_record">Мои подарочные карты</string>
-     <string name="giftcard_value">(%1$s-MiCredit подарочную карту)</string>
+     <string name="float_window_menu_custome">Customer services</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="float_window_menu_gone">Hide</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="float_window_menu_message">Forum</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="float_window_menu_more">More</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="float_window_menu_strategy">Walkthrough</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="float_window_menu_ticket">Vouchers</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_new_ticket_failed">Failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="get_new_ticket_succeeded">Success</string>
      <string name="hfb_app_name">话付宝</string>
-     <string name="hfb_commit">提交订单</string>
      <string name="hfb_complete">购买完成</string>
-     <string name="hfb_complete_hint">(请查收信息 к вокзалу, 并按提示完成支付)</string>
      <string name="hfb_confirm">确认支付</string>
+     <string name="hfb_confirm_code">验证码：</string>
      <string name="hfb_customer_service_phone">客服电话 : в</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="hfb_customer_service_phone_number">4006125880</string>
-     <string name="hfb_dialog_exit_content">交易尚未完成 к вокзалу, 确定放弃交易？</string>
      <string name="hfb_fail_hint">"* 如未收到短信请咨询中国移动通信账户支付客服中心 : в 4006125880(只收市话费 к вокзалу, 无长途话费)сборов 125880只支付移动手机 к вокзалу, 0.3元/分 к вокзалу, 无长途话费 юаней. * 有短信签名功能的手机 к вокзалу, 请回复前去掉签名的自动附加功能 к вокзалу, 以免回复系统无法识别拒绝支付 юаней."</string>
      <string name="hfb_fail_label">购买失败</string>
-     <string name="hfb_fail_pad_result">您没有回复短信, в 请到收件箱中按%1$s短信提示回复后再查询。</string>
-     <string name="hfb_fail_result">"此手机号码暂时无法完成支付 к вокзалу, 请稍后再试或使用其他支付方式购买 к вокзалу, 感谢您的支持 понравилось! 客服电话 : в 4006125880"</string>
+     <string name="hfb_get_confirm_code">获取验证码</string>
      <string name="hfb_goods_name">商品名称 : в</string>
-     <string name="hfb_goods_price_value_format">%1$s(不含通信费)</string>
-     <string name="hfb_hint">"1The 中国移动通信账户支付是中国移动电子商务的支付方式之一 юаней. 2, используете 10658008是中国移动通信账户支付专用短信特服号码 юаней. 3ив 本服务支持移动全球通 лекарствоведения 动感地带 лекарствоведения 神州行等品牌的用户 к вокзалу, 用户使用中国移动通信账户支付 : в 无免费试用 и сборов 支付成功 к вокзалу, 即可扣费 и сборов 商品价格不含通信费 юаней. 4. для 部分省份“赠送”“返还”的话费不可用于购买商品 юаней. 如 : в 北京 лекарствоведения 黑龙江等 юаней. 5. при реализации 中国移动通信账户支付客服电话 : в 4006125880 (в 只收市话费 к вокзалу, 无长途话费) и сборов 125880 (в 只支持移动手机 к вокзалу, 0.3元/分 к вокзалу, 无长途话费) и 6 лекарствоведения 按次产品无需退订 и сборов 包月产品如需退订 к вокзалу, 请发送0000到10658008"</string>
+     <string name="hfb_goods_name_content">米币</string>
      <string name="hfb_instruct">"请您按照10658008的短信提示确认回复后，点击'购买完成'。谢谢！"</string>
      <string name="hfb_main_title">订单支付</string>
-     <string name="hfb_network_progress">正在请求订单 к вокзалу, 请保持网络通畅</string>
      <string name="hfb_order_price">订单价格 : в</string>
      <string name="hfb_other_case">如您未收到10658008的短信提示请点击</string>
-     <string name="hfb_pad_info">请您按照%1$s的短信提示确认回复后, в 点击购买完成。谢谢 происходит</string>
      <string name="hfb_pay_by_phone">支付手机 : в</string>
-     <string name="hfb_pay_by_phone_hint">中国移动手机号码</string>
      <string name="hfb_retry_receive">重新接收</string>
      <string name="hfb_return">返 回</string>
-     <string name="hfb_sms1_progress_label">正在以短信提交订单 к вокзалу, 请稍候...</string>
-     <string name="hfb_sms2_progress_label">正在以短信形式确认支付 к вокзалу, 请稍候...</string>
-     <string name="hfb_sms_error">短信发送失败 понравилось!</string>
-     <string name="hfb_sms_pay">特别提示 : в 点击“确认支付”即同意向10658008发送短信以完成支付 и сборов 费用由本机话费扣除 юаней.</string>
      <string name="hfb_succ_label">购买成功</string>
+     <!-- The count of MNPS does not match! Now: 3 must: 0
+	%s: 3 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: 感谢您使用通信账户支付服务。 -->
      <string name="hfb_succ_result">"感谢您使用通信账户支付服务。 购买【%1$s】费用为【%2$s元】 客服电话：%3$s"</string>
-     <string name="hfb_tariff">资费说明</string>
-     <string name="hfb_trans_error_label">未查到支付结果 к вокзалу, 请保持网络通畅</string>
-     <string name="hfb_trans_result_progress_label">正在查询支付结果...</string>
-     <string name="hfb_umpay_info">* 10658008是中国移动通信账户支付专用短信特服号码</string>
-     <string name="hfb_upgrade_download_fail">新版本下载失败 к вокзалу, 请稍后再试.</string>
-     <string name="hfb_upgrade_download_sucess">新版本下载成功,开始安装.</string>
-     <string name="i_know">Я знаю,</string>
-     <string name="input_password_hint">Ввод пароля</string>
-     <string name="label_balance">Баланс:</string>
-     <string name="label_order_name">Продукт:</string>
-     <string name="label_order_price">Цена:</string>
      <string name="linkpay_account">卡号:</string>
      <string name="linkpay_account_cannot_be_null">账号不能为空</string>
      <string name="linkpay_achieve_charge">完成充值</string>
@@ -300,192 +353,589 @@
      <string name="linkpay_you_will_pay">您将支付</string>
      <string name="linkpay_yuan">元</string>
      <string name="linkpay_zhifubao">支付宝</string>
-     <string name="login">Знак в</string>
-     <string name="login_failed">Знак в не</string>
-     <string name="login_notice">Подписание в...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="loading_default_text">Loading...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="login_tip_40error">Failed to verify your account. Please leave the game and try to log in again to continue.</string>
+     <string name="login_tip_error1">"Your account hasn't been activated. Please activate your account and log in again"</string>
+     <string name="login_tip_error10">Failed to log in to your account. Error code[8]，please try again</string>
+     <string name="login_tip_error11">Failed to log in to your account. Error code[9]，please try again</string>
+     <string name="login_tip_error12">Failed to log in to your account. Error code[7-%s],please try again</string>
+     <string name="login_tip_error13">Failed to log in to your account. Error code[10]，please try again</string>
+     <string name="login_tip_error2">You have cancelled log-in . Please log in to your Xiaomi account first</string>
+     <string name="login_tip_error3">Login error. Error code[1]，Please log in to your account first</string>
+     <string name="login_tip_error4">Failed to retrieve your account info.. Error code[2]，please log in again</string>
+     <string name="login_tip_error5">Failed to log in to your account. Error code[3]，please try again</string>
+     <string name="login_tip_error6">Failed to log in to your account. Error code[4]，please try again</string>
+     <string name="login_tip_error7">Failed to log in to your account. Error code[5]，please try again</string>
+     <string name="login_tip_error8">Failed to log in to your account. Error code[6]，please try again</string>
+     <string name="login_tip_error9">Failed to verify token，please try to log in again</string>
      <string name="memu_refresh">Обновить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_bt_bbs">Forum</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_bt_customer">Customer Service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_bt_game">Game vouchers</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_bt_message">Message</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_bt_share">Share</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="menu_bt_strategy">Walkthrough</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="meuu_bt_seting">setting</string>
+     <string name="mibi_account_detail">"Xiaomi account:
+%1$s"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_app_name">Payment service</string>
+     <string name="mibi_balance">Balance: %1$s MiCredits</string>
+     <string name="mibi_balance_payment">%1$s MiCredits</string>
+     <string name="mibi_bankcall_bank_account">Bank card:</string>
+     <string name="mibi_bankcall_call_hint">You will receive a call from UnionPay (020-96585) shortly.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_card">Bank card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_card_hint">Please enter account number</string>
+     <string name="mibi_bankcall_card_type">%1$s-%2$s</string>
+     <string name="mibi_bankcall_card_type_tailnum">%1$s-%2$s(Card No. %3$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_city">City</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_credit_card">Credit card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_debit_card">Debit card</string>
+     <string name="mibi_bankcall_denom">Amount:</string>
+     <string name="mibi_bankcall_denom_number">￥%1$s</string>
+     <string name="mibi_bankcall_error_card">Account number invalid: please correct your account number.</string>
+     <string name="mibi_bankcall_error_card_info">Account info is incorrect: please correct your account information.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_hint">This service is encrypted and authorized by UnionPay.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_id_card">ID card no.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_id_card_hint">ID card no. associated with the account</string>
+     <string name="mibi_bankcall_merchant">Receiver:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_name">Name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_name_hint">Name associated with the account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_phone">Phone</string>
+     <string name="mibi_bankcall_phone_credit_hint">"Bank account's corresponding personal phone number"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_phone_debit_hint">Make sure you have a good Internet connection.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_bankcall_province">Province</string>
+     <string name="mibi_bankcall_saved_card_info">%1$s - Card No. %2$s</string>
+     <string name="mibi_bankcall_xiaomi_company">Xiaomi Corporation (Beijing)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_agree">Agree</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_back">Return</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_call">Call</string>
+     <string name="mibi_btn_count_down_auto">Inquire after %1$s seconds</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_delete_record">Delete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_mili_center_recharge">Top up MiCredit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_net_connection_retry">Retry</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_other_bankcard">Use another card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_prev">Previous</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_query">Inquire</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_recharge_confirm">Confirm purchase</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_recharge_large">Top up</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_recharge_other">Top up</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_recharge_success">Top up complete</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_recharge_success_quick">Top up complete</string>
+     <string name="mibi_btn_wait_call">Waiting…</string>
+     <string name="mibi_btn_wait_call_count">Waiting (%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_btn_wait_confirm">Waiting</string>
+     <string name="mibi_btn_wait_confirm_count">Waiting（%1$s）</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_bind_phone">Bind now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_call">Call</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_confirm">Confirm</string>
+     <string name="mibi_button_count_down_reget">Gets the verification code(%1$s)</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_next">Next</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_pay">Confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_recharge">Top up</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_recharge_pay">Confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_reget">Gets the verification code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_retry">Retry</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_button_sms_code">Confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_change_security_lock">More screen locks</string>
+     <string name="mibi_colon">": "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_consume_account">Purchase ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_consume_amount">Amount</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_consume_name">Product</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_consume_order">Payment ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_consume_time">Time</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_consume_title">Payment records</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_giftcard_activity">Promotion</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_giftcard_expired_time">Expiration date</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_giftcard_theme">Purchase themes</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_giftcard_title">Gift card details</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_giftcard_total">Gift card total</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_pay_account">Payment ID</string>
+     <string name="mibi_detail_recharge_account">Top-up ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_recharge_amount">Amount</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_recharge_method">Method</string>
+     <string name="mibi_detail_recharge_order">Top-up Order No.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_detail_recharge_time">Time</string>
+     <string name="mibi_detail_recharge_title">Top-up records</string>
+     <string name="mibi_error_account_changed_summary">"Your account info has changed.
+Please log in again."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_error_account_changed_title">Account has changed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_error_auth_summary">Account login error, please log in again.</string>
+     <string name="mibi_error_cert_date_summary">"Certificate date error. 
+Please check your local date and try again."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_error_common_summary">System error. Please try again later.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_error_expired_summary">Your order has expired</string>
+     <string name="mibi_error_frozen_summary">"Your account is frozen. 
+Please contact Xiaomi customer service."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_error_has_bought_summary">You have already purchased this product.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_error_illegal_order_summary">Order error. Please try again later</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_error_mili_summary">Insufficient funds.</string>
+     <string name="mibi_error_network_summary">"Couldn't connect to network."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_error_server_summary">Server error. Please try again later</string>
+     <string name="mibi_error_user_id_mismatch_summary">Please check and re-login your account</string>
+     <string name="mibi_fee">%1$s MiCredit</string>
+     <string name="mibi_forget_password"><u>Forgot password</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_format_date">MMM. dd, yyyy</string>
+     <string name="mibi_format_time">MMM dd, yyyy hh:mmaa</string>
+     <string name="mibi_frozen">(Frozen)</string>
+     <string name="mibi_giftcard_acitivity_and_denomination">%2$s-MiCredit gift card from %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_giftcard_denom">MiCredit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_giftcard_denom_available">MiCredit available</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_giftcard_denom_frozen">MiCredit frozen</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_giftcard_empty">No gift cards.</string>
+     <string name="mibi_giftcard_expire">%1$s expired</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_giftcard_hint">MiCredits added via gift card will be spent first automatically.</string>
+     <string name="mibi_giftcard_payment">%1$s MiCredits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_giftcard_record">My gift cards</string>
+     <string name="mibi_giftcard_value">(%1$s-MiCredit gift card)</string>
+     <string name="mibi_label_balance">Balance:</string>
+     <string name="mibi_label_giftcard">Giftcard:</string>
+     <string name="mibi_label_order_name">Product:</string>
+     <string name="mibi_label_order_price">Price:</string>
+     <!-- The count of MNPS does not match! Now: 1 must: 2
+	%s: 1 must: 2
+	%d: 0 must: 0 -->
+     <!-- Original string: "You're about to use Mi Credit, which is a service provided by Xiaomi Inc. Before you can use this service, you must agree to the Terms of Service stated in %1$s. Touch OK if you agree to the terms and conditions described in the %1$s." -->
      <string name="mibi_license_message">Нажмите ОК, если вы согласны с условиями и положениями, изложенными в %1$s.</string>
      <string name="mibi_license_message_span">MiCredit Пользовательского Соглашения</string>
      <string name="mibi_license_title">Пользовательское соглашение</string>
-     <string name="micloud_account">Xiaomi счета</string>
-     <string name="micloud_account_label">Аккаунт: %1$s</string>
-     <string name="micloud_account_name">Xiaomi счета</string>
-     <string name="micloud_account_not_actived">Аккаунт не активирован</string>
-     <string name="micloud_active_email_sent_1">Мы отправили на ссылку для активации вашей электронной почты:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="micloud_active_email_sent_2">null</string>
-     <string name="micloud_active_email_visit">Посетите %s</string>
+     <string name="mibi_lockpassword_choose_your_pattern_header">Choose your pattern</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpassword_confirm_your_pattern_header">Confirm your pattern</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpassword_input_your_pattern_header">Confirm your pattern</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpattern_confirm_button_text">Confirm</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpattern_continue_button_text">Continue</string>
+     <string name="mibi_lockpattern_need_to_confirm">Draw pattern again to confirm:</string>
+     <string name="mibi_lockpattern_need_to_confirm_wrong">Inconsistent with the previous entry, please re-enter:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpattern_need_to_unlock">Confirm saved pattern</string>
+     <string name="mibi_lockpattern_need_to_unlock_footer" />
+     <string name="mibi_lockpattern_need_to_unlock_wrong">&lt;font color=red>Password wrong,you can enter%d times more&lt;/font></string>
+     <string name="mibi_lockpattern_need_to_unlock_wrong_footer" />
+     <string name="mibi_lockpattern_pattern_confirmed_header">Your new unlock pattern:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpattern_pattern_entered_header">Pattern recorded.</string>
+     <string name="mibi_lockpattern_recording_incorrect_too_short">Connect at least %d dots. Try again:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpattern_recording_inprogress">Release finger when done.</string>
+     <string name="mibi_lockpattern_recording_intro_header">Draw an unlock pattern:</string>
+     <string name="mibi_lockpattern_retry_text"><u>Reset pattern password</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpattern_settings_help_how_to_record">How to draw an unlock pattern</string>
+     <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_footer">Try again in %d seconds.</string>
+     <string name="mibi_lockpattern_too_many_failed_confirmation_attempts_header">&lt;font color=red>Too many incorrect attempts!&lt;/font></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpattern_tutorial_cancel_label">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_lockpattern_tutorial_continue_label">Next</string>
+     <string name="mibi_lockscreen_forgot_pattern_button_text"><u>Forgot pattern password</u></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_login">Login</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_memu_refresh">Refresh</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_mili_center">MiCredit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_msg_denomination_type">MiCredit</string>
+     <string name="mibi_msg_error">Top-up failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_msg_order_hint_1_1">After you touch Confirm purchase, your phone will</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_msg_order_hint_1_2">Automatically contact your service provider.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_msg_picker_hint_1_1">1.</string>
+     <string name="mibi_msg_picker_hint_1_2">Topping up via text maybe more expensive: &lt;font color=red>￥%1$d = %2$d MiCredit&lt;/font></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_msg_picker_hint_2_1">2.</string>
+     <string name="mibi_msg_picker_hint_2_2">Carriers charge a ￥%1$s service fee per top-up</string>
+     <string name="mibi_msg_progress_hint_2_1">Your network provider has been contacted!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_msg_progress_hint_2_2">You will receive a text confirmation shortly.</string>
+     <string name="mibi_msg_send_no_net_error">"Failed to send message: couldn't connect to network provider."</string>
+     <string name="mibi_msg_send_no_sim_error">Failed to send message: try reinserting your SIM card.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_msg_send_send_fail_error">Failed to send message</string>
+     <string name="mibi_msg_telecom_order_denom">￥%1s (not including mobile network data fees)</string>
+     <string name="mibi_msg_telecom_order_denom_label">Amount due:</string>
+     <string name="mibi_msg_telecom_order_goods">%1s MiCredits</string>
+     <string name="mibi_msg_telecom_order_goods_label">Product description:</string>
+     <string name="mibi_msg_telecom_sending">Contacting network provider…</string>
+     <string name="mibi_order_price">%1$s MiCredits</string>
+     <string name="mibi_partner_giftcard_payment">%1$sMiCredits（Only for %2$s）</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_password_error">Password incorrect.</string>
+     <string name="mibi_password_forget">forgot?</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_password_hint">Enter account password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_pay_record_empty">No payment records.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_pay_record_typeall">All</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_paytool_alipay">Alipay</string>
+     <string name="mibi_paytool_error_msp">%1$s failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_paytool_tenpay">Tenpay</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_edit_limit">digits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_error_card_length">Invalid card number or password.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_error_card_number">Card number invalid.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_error_carrier">Select carrier</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_error_denomination">Select amount</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_error_password">Card password invalid.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_grid_carrier_hint">Select carrier</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_grid_denomination_hint">Select amount</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_number_edit_hint">Number</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_password_edit_hint">Password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_picker_hint_1_1">1.</string>
+     <string name="mibi_prepaid_picker_hint_1_2">Only supports one-time charge;</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_prepaid_picker_hint_2_1">2.</string>
+     <string name="mibi_prepaid_picker_hint_2_2_a">"Selected nominal value must be consistent with that of the prepaid card. Choosing another value will void the card. This action can't be undone."</string>
+     <string name="mibi_prepaid_picker_hint_2_2_b">If the nominal value of the prepaid card is not &lt;font color=red>￥%1$s&lt;/font>, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error.</string>
+     <string name="mibi_progress_bankcall_card_creating">Generating order…</string>
+     <string name="mibi_progress_bankcall_card_querying">Checking account type…</string>
+     <string name="mibi_progress_creating">Retrieving order info…</string>
+     <string name="mibi_progress_downloading">Loading…</string>
+     <string name="mibi_progress_error_pay_summary">%1$s MiCredits recharged, but payment failed, please retry later.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_progress_error_pay_title">Payment failed</string>
+     <string name="mibi_progress_error_recharge_summary">Top-up failed, please retry later.</string>
+     <string name="mibi_progress_error_recharge_title">Top-up failed</string>
+     <string name="mibi_progress_loading">Processing…</string>
+     <string name="mibi_progress_msg_creating">Generating top-up order…</string>
+     <string name="mibi_progress_paytool_creating">Generating %1$s order…</string>
+     <string name="mibi_progress_prepaid_creating">Generating order…</string>
+     <string name="mibi_progress_querying">Processing…</string>
+     <string name="mibi_progress_submit_hint">Top-up will be reflected in you account balance within 3 minutes.</string>
+     <string name="mibi_progress_submit_recharge_summary">Topping up: %1$s MiCredits.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_progress_submit_title">Request submitted</string>
+     <string name="mibi_progress_success_pay_summary">%1$s MiCredits recharged，%2$s MiCredits paied</string>
+     <string name="mibi_progress_success_pay_title">%1$s MiCredit payment complete</string>
+     <string name="mibi_progress_success_recharge_summary">Account balance: %1$s MiCredits.</string>
+     <string name="mibi_progress_success_recharge_title">%1$s MiCredit top-up complete</string>
+     <string name="mibi_progress_voucher_creating">Topping up MiCredit card…</string>
+     <string name="mibi_progress_warning_check">"Payment hasn't reached your account yet. 
+We will check again within two working days."</string>
+     <string name="mibi_progress_warning_contact_server">"Payment still hasn't reached your account. 
+1. Please contact our Shenzhou customer service center：%1$s 
+2. When prompted, provide the serial number: %2$s."</string>
+     <string name="mibi_progress_warning_waiting">"Payment hasn't reached your account yet."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_alipay_title">Alipay</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_bankcall_title">Bank card</string>
+     <string name="mibi_recharge_denomination">￥%1$s</string>
+     <string name="mibi_recharge_grid_edit_hint">Amount (￥)</string>
+     <string name="mibi_recharge_grid_edit_limit">￥%1$s~%2$s</string>
+     <string name="mibi_recharge_grid_edit_upper_limit">"Can't exceed ￥%1$s"</string>
+     <string name="mibi_recharge_grid_error_denomination">Please enter the correct amount between ￥%1$s~%2$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_grid_picker_hint">Select amount</string>
+     <string name="mibi_recharge_group_favorite">Use previous top-up method</string>
+     <string name="mibi_recharge_group_others">Other top-up methods</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_message_title">Text message</string>
+     <string name="mibi_recharge_notification">Topping up: %1$s MiCredits</string>
+     <string name="mibi_recharge_novalid_method">No valid top-up method.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_other">View other methods</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_pcpay_title">Computer</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_prepaid_title">Prepaid card</string>
+     <string name="mibi_recharge_record_empty">No top-up records.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_tenpay_title">Tenpay</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_recharge_voucher_title">MiCredit card</string>
+     <string name="mibi_scan_prompt_number">Scan %1$s prepaid card number</string>
+     <string name="mibi_scan_prompt_password">Scan %1$s prepaid card password</string>
+     <string name="mibi_scan_prompt_retry">Keep the card in the position of non-reflective, remains stable after retry</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_scan_prompt_voucher">Scan MiCredit password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_security_setting">Security settings</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_sms_code_error">Mobile phone verification code error, please get again</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_sms_code_hint">Mobile phone verification code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_summary_bind_phone">To ensure the safety of your account, please complete the payment after binding mobile phone No.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_summary_lockpattern">Require a unique pattern lock for MiCredit</string>
+     <string name="mibi_summary_sms_code">To ensure the safety of your account, please input the verification code received by phone %1$s，and then finish payment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_bind_phone">Binding mobile phone No.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_change_lockpattern">Configure pattern lock</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_discounts">Discounts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_gesture">Pattern lock</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_giftcard">Promotions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_lockpattern">Require pattern lock</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_mili_center">MiCredits</string>
+     <string name="mibi_title_myaccount">My account: %s</string>
+     <string name="mibi_title_nopassword">"Don't require for small payments"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_nopassword_dialog">Daily limit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_password">Password</string>
+     <string name="mibi_title_password_threshold">Daily limit = ￥%1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_pay_record">Payment records</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_recharge">Top up MiCredit</string>
+     <string name="mibi_title_recharge_record">Top-up records</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_sms_code">Please enter the mobile phone verification code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_transaction">Transactions</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_title_visible_pattern">Make pattern visible</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_voucher_edit_hint">Code</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_voucher_edit_limit">digits</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_voucher_error_password">Code invalid.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mibi_voucher_input_password_prompt">Enter code</string>
      <string name="micloud_active_sms_status_wait">Пожалуйста, подождите минуту...</string>
-     <string name="micloud_activing_account">Чтобы активировать вашу учетную запись, ждем-с...</string>
-     <string name="micloud_click_email">Нажмите на ссылку в этом письме, чтобы активировать ваш Счет Xiaomi</string>
-     <string name="micloud_click_email_to_valid">Нажмите на активационную ссылку в папке " входящие"</string>
-     <string name="micloud_confirm_logout_account">Ваши уверены, что для выхода из аккаунта ?</string>
-     <string name="micloud_delete_account">Удалить учетную запись</string>
-     <string name="micloud_email">Введите ваш Email адрес</string>
-     <string name="micloud_error_email">Неверный адрес электронной почты</string>
-     <string name="micloud_error_empty_pwd">Пустой пароль</string>
-     <string name="micloud_error_empty_username">Пользователь пустой</string>
-     <string name="micloud_error_illegal_pwd">Неправильный пароль</string>
-     <string name="micloud_input_password_prompt">Ввод пароля</string>
-     <string name="micloud_logout_account">Выход счета</string>
-     <string name="micloud_password_confirm_hint">Подтверждение Пароля</string>
-     <string name="micloud_password_error_inconsistent">Пароли несоответствие</string>
-     <string name="micloud_password_req_notice">от 8 до 16 символов, содержит цифр, букв алфавита, с учетом регистра</string>
-     <string name="micloud_reg_new">Новый</string>
-     <string name="micloud_resend_active_email">Повторно выслать письмо для активации</string>
-     <string name="micloud_use_existing">Существующих</string>
-     <string name="micloud_val_sms_alert">SMS-сообщение будет отправлено, чтобы проверить свой номер телефона. Продолжить?</string>
-     <string name="micloud_welcome_skip_login"><u>Пропустите этот шаг,</u></string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="mili_center">MiCredit</string>
      <string name="miui_copyright_title">Авторское право</string>
      <string name="miui_mibi_license_title">Ми Кредитной пользовательского соглашения</string>
      <string name="miui_privacy_policy_title">Политики конфиденциальности</string>
      <string name="miui_user_agreement_title">Пользовательское соглашение</string>
      <string name="miui_user_manual_title">Руководство пользователя</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="msg_denomination_type">MiCredit</string>
-     <string name="msg_error">Топ-неудавшиеся</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="msg_picker_hint_1_1">1.</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 2
-	%s: 0 must: 0
-	%d: 0 must: 2 -->
-     <!-- Original string: Topping up via text maybe more expensive: &lt;font color=red>￥%1$d = %2$d MiCredit&lt;/font> -->
-     <string name="msg_picker_hint_1_2">Пополнение через SMS-может быть, дороже: </string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="msg_picker_hint_2_1">2.</string>
-     <string name="msg_picker_hint_2_2">Носители заряда японская%1$s плата за обслуживание в top-up</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="msg_picker_hint_3_1">3.</string>
-     <string name="msg_picker_hint_3_2">Максимальное ежемесячное пополнение: японская%1$s</string>
-     <string name="msg_send_no_net_error">"Не удалось отправить сообщение: не удалось подключиться к сети провайдера."</string>
-     <string name="msg_send_no_sim_error">Не удалось отправить сообщение: попробуйте снова установить SIM-карту.</string>
-     <string name="msg_send_send_fail_error">Не удалось отправить сообщение</string>
-     <string name="msg_telecom_order_denom">Японская%1s (не включая передачи данных по мобильной сети сборов) на</string>
-     <string name="msg_telecom_order_denom_label">Сумма к оплате:</string>
-     <string name="msg_telecom_order_goods">%1s MiCredits</string>
-     <string name="msg_telecom_order_goods_label">Описание продукта:</string>
-     <string name="msg_telecom_picker_hint_1_1">После того, как вы прикасаетесь Подтверждения покупки, ваш телефон будет</string>
-     <string name="msg_telecom_picker_hint_1_2">Автоматически, обратитесь к поставщику услуг.</string>
-     <string name="msg_telecom_picker_hint_2_1">Ваш сетевой провайдер имеет связались!</string>
-     <string name="msg_telecom_picker_hint_2_2">Вы получите текст подтверждения в ближайшее время.</string>
-     <string name="msg_telecom_sending">Обращение в сети провайдера...</string>
-     <string name="next">Далее</string>
      <!-- The count of MNPS does not match! Now: 1 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
      <!-- Original string: Signin error for %1$s -->
      <string name="notification_title">Signin ошибка"% 1$s</string>
      <string name="open_wifi_settings">Откройте сетевые подключения</string>
-     <string name="order_price">%1$s MiCredits</string>
-     <string name="password">Пароль</string>
-     <string name="password_error">Пароль неверный.</string>
-     <string name="password_hint">Введите пароль учетной записи</string>
-     <string name="pay_record_empty">Без учета платежей.</string>
-     <string name="pay_record_typeall">Все</string>
-     <string name="paytool_error_msp">%1$s неудачна</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="order_detail_order">Order number.</string>
+     <string name="order_detail_order_amount">Amount: &lt;font color=#787878>%s&lt;/font>MiCredit</string>
+     <string name="order_detail_order_date">Purchase Time: &lt;font color=#787878>%s&lt;/font></string>
+     <string name="order_detail_order_name">Item: &lt;font color=#787878>%s&lt;/font></string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="order_detail_title">Order details</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="order_list_empty_text">No history</string>
+     <string name="pay_ali_msg">%1$sTop up%2$s RMB,Xiaomi ID%3$s</string>
+     <string name="pay_ali_msg2">%1$s(a worth of%2$sRMB),XiaomiID%3$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pay_ali_tipmsg6">Operation too frequent, please try again later</string>
+     <string name="pay_card_txt25">Not enough balance on your top-up card. %s RMB has been transferred into your MiCredit account, please check your account</string>
+     <string name="pay_card_txt26">The value of your top-up card is greater than your purchase amount. %s RMB has been transferred into your MiCredit balance, please check your account.</string>
+     <string name="pay_mi_txt6">Processing,please wait…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pay_sms_dialogtitle">Tips</string>
+     <string name="pay_tip_checkpayresult">Checking payment status, please wait…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pay_tip_checkpayresult_fail">Failed to check payment status</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pay_tip_checkpayresult_timeout">Checking payment status session timeout</string>
+     <string name="pay_tip_createorder">Creating order, please wait…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pay_tip_createorder_fail">Failed to create the order. please try again</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paytype_aliapk_title">Alipay secure payment services</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paytype_aliweb_title">Alipay web payment</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paytype_card_title">Prepaid card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paytype_computer_title">Top up on your PC</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paytype_sms_title">SMS</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paytype_tenapk_title">Tenpay secure payment services</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="paytype_tenwap_title">Tenpay web payment</string>
      <string name="perm_payment_dspt">Разрешить приложению оплатить через Xiaomi оплаты услуг</string>
      <string name="perm_payment_lab">Xiaomi оплаты услуг</string>
-     <string name="prepaid_edit_limit">цифры</string>
-     <string name="prepaid_error_card_length">Недопустимый номер карты или пароль.</string>
-     <string name="prepaid_error_card_number">Номер карты недействительной.</string>
-     <string name="prepaid_error_carrier">Выбор перевозчика</string>
-     <string name="prepaid_error_denomination">Выберите сумму</string>
-     <string name="prepaid_error_password">Карта пароль неверный.</string>
-     <string name="prepaid_number_edit_hint">Количество</string>
-     <string name="prepaid_password_edit_hint">Пароль</string>
-     <string name="prepaid_picker_hint_1_2">Поддерживает только один-время заряда</string>
-     <string name="prepaid_picker_hint_2_2_a">"Выбранного номинального значения должно осуществляться в соответствии с карты предоплаты. Выбор другого значения приведет к аннулированию карты. Это действие не может быть отменено."</string>
-     <!-- The count of MNPS does not match! Now: 0 must: 1
-	%s: 0 must: 1
-	%d: 0 must: 0 -->
-     <!-- Original string: If the nominal value of the prepaid card is not &lt;font color=red>￥%1$s&lt;/font>, the card will be void. Xiaomi is not responsible for any monetary loss that occurs as a result of user error. -->
-     <string name="prepaid_picker_hint_2_2_b">Если Номинальная стоимость карты предоплаты не </string>
-     <string name="prepaid_picker_title_default">Выберите сумму</string>
-     <string name="prepaid_picker_title_selected">сумма</string>
-     <string name="prev">Назад</string>
-     <string name="progress_bankcall_card_creating">Генерирующая заказ...</string>
-     <string name="progress_bankcall_card_querying">Проверка счета типа...</string>
-     <string name="progress_creating">Получение заказа info...</string>
-     <string name="progress_downloading">Загрузка...</string>
-     <string name="progress_error_pay_summary">%1$s MiCredits заряжается, но оплата не удалось, повторите попытку позже.</string>
-     <string name="progress_error_pay_title">Платеж отклонен</string>
-     <string name="progress_error_recharge_summary">Топ-до ошибка, повторите попытку позже.</string>
-     <string name="progress_error_recharge_title">Топ-неудавшиеся</string>
-     <string name="progress_loading">Обработка...</string>
-     <string name="progress_msg_creating">Генерирующая топ-до того...</string>
-     <string name="progress_paytool_creating">Генерирующая %1$s порядке...</string>
-     <string name="progress_prepaid_creating">Генерирующая заказ...</string>
-     <string name="progress_querying">Обработка...</string>
-     <string name="progress_submit_hint">Top-up будут отражены в баланс на вашем счете в течение 3 минут.</string>
-     <string name="progress_submit_recharge_summary">Пополнение: %1$s MiCredits.</string>
-     <string name="progress_submit_title">Ходатайство</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 2
-	%s: 1 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: %1$s MiCredits recharged，%2$s MiCredits paied -->
-     <string name="progress_success_pay_summary" formatted="false">%1$s MiCredits заряжается к вокзалу,% 2$s ограничивался MiCredits</string>
-     <string name="progress_success_pay_title">%1$s MiCredit совершения платежа</string>
-     <string name="progress_success_recharge_summary">Баланс счета: %1$s MiCredits.</string>
-     <string name="progress_success_recharge_title">%1$s MiCredit топ-до полного</string>
-     <string name="progress_voucher_creating">Пополнение MiCredit карты...</string>
-     <string name="progress_warning_check">"Платеж еще не пришел в свой аккаунт еще. Мы будем проверять снова в течение двух рабочих дней."</string>
-     <!-- The count of MNPS does not match! Now: 2 must: 2
-	%s: 1 must: 2
-	%d: 0 must: 0 -->
-     <!-- Original string: "Payment still hasn't reached your account. 
-1. Please contact our Shenzhou customer service center：%1$s 
-2. When prompted, provide the serial number: %2$s." -->
-     <string name="progress_warning_contact_server" formatted="false">"Платеж еще не достиг своего счета. 1. Пожалуйста, свяжитесь с нашим " Шэньчжоу обслуживания клиентов центра:% 1$s 2. При появлении соответствующего запроса введите серийный номер: %2$s."</string>
-     <string name="progress_warning_waiting">"Платеж еще не пришел в ваш аккаунт еще не было".</string>
-     <string name="quick_login_title">"Требуется проверка подлинности. Пожалуйста, введите свой пароль"</string>
-     <string name="recharge_bankcall_title">Банковская карта</string>
-     <string name="recharge_denomination">японская%1$s</string>
-     <string name="recharge_grid_edit_hint">Сумма (японская)</string>
-     <string name="recharge_grid_edit_limit">японская%1$s~%2$s</string>
-     <string name="recharge_grid_edit_upper_limit">"Не может превышать японская%1$s"</string>
-     <string name="recharge_grid_error_denomination">Пожалуйста, введите правильную сумму между японская%1$s~%2$s</string>
-     <string name="recharge_grid_picker_hint">Выберите сумму</string>
-     <string name="recharge_group_favorite">Использование предыдущих топ-метода</string>
-     <string name="recharge_group_others">Другие топ-до методы</string>
-     <string name="recharge_message_title">Текст сообщения</string>
-     <string name="recharge_notification">Пополнение: %1$s MiCredits</string>
-     <string name="recharge_novalid_method">Нет действительного топ-метода.</string>
-     <string name="recharge_other">Просмотреть другие методы</string>
-     <string name="recharge_pcpay_title">Компьютер</string>
-     <string name="recharge_prepaid_title">Карты предоплаты</string>
-     <string name="recharge_record_empty">Нет top-up records.</string>
-     <string name="recharge_voucher_title">MiCredit карты</string>
-     <string name="reg_by_email_failure">Ошибка регистрации: %1$s</string>
-     <string name="reg_failed">Ошибка регистрации</string>
-     <string name="reg_type_email">Зарегистрироваться по электронной почте</string>
-     <string name="reg_type_phone">Зарегистрироваться по телефону : (рекомендуется)</string>
-     <string name="relogin">После повторного входа в систему</string>
-     <string name="remove_account_notice">Что бы вы хотели сделать с синхронизированные ранее сообщения " и " контакты " на коммуникаторе?</string>
-     <string name="remove_confirm">Удалить</string>
-     <string name="remove_unactivated_account_notice">The аккаунт не будет активирован, удалить его сейчас?</string>
+     <string name="purchase_mibi">%sMiCredit</string>
      <string name="safetylegal_activity_unreachable">Телефон не подключен к службе передачи данных. Чтобы просмотреть эти сведения, перейдите %s с любого компьютера, подключенного к Интернету.</string>
-     <string name="skip_login">Пропуск входа</string>
-     <string name="skip_setup_account_msg">Используя ваш Xiaomi Учетной записи, вы можете синхронизации и резервного копирования SMS-сообщения, контакты, фотографии, заметки и др. Продолжить и настройку позже?</string>
-     <string name="skip_setup_account_title">Пропустить Настройка учетной записи</string>
-     <string name="title_discounts">Скидки</string>
-     <string name="title_giftcard">Промо-акции</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="title_mili_center">MiCredits</string>
-     <string name="title_pay_record">Платежные документы</string>
-     <string name="title_recharge">Пополнить MiCredit</string>
-     <string name="title_recharge_record">Top-up records</string>
-     <string name="title_reg">Зарегистрироваться Xiaomi счета</string>
-     <string name="title_transaction">Транзакции</string>
-     <string name="unactivated_user">Неактивированных</string>
-     <string name="user_agreement_p1">"Зарегистрировавшись, вы соглашаетесь "</string>
-     <string name="user_agreement_p2">Xiaomi условия обслуживания</string>
-     <string name="user_agreement_p3"> и </string>
-     <string name="user_agreement_p4">Политики конфиденциальности</string>
-     <string name="user_agreement_p5">"Зарегистрировавшись, вы соглашаетесь "</string>
-     <string name="voucher_edit_hint">Код</string>
-     <string name="voucher_edit_limit">цифры</string>
-     <string name="voucher_error_password">Код неверный.</string>
-     <string name="voucher_input_password_prompt">Введите код</string>
+     <string name="tab_history">Purchase history</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="tab_mytickets">My vouchers</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_create_gameid">Create an ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_create_id">Create an ID</string>
+     <string name="text_days_ago">day(s) ago</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_error_code">Error code</string>
+     <string name="text_float_cloasedialog">"Close the floating dialogue? 
+ It will automatically re-open the next time"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_game_account_login">Logging in...</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_get_account_info">Retrieving account information</string>
+     <string name="text_hours_ago">hour(s) ago</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_just_now">Just now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_login_tip">Login tips</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_message_tiptext">Do not show again</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_mibi">MiCredit</string>
+     <string name="text_miid">Xiaomi ID：</string>
+     <string name="text_minutes_ago">minute(s) ago</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_modify_account_failed">Failed to update your account name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_modify_account_name">Updating account name</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_modify_id">Change ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_networt_error">No connections, please check your network settings.</string>
+     <string name="text_ticket_consumption">Used:</string>
+     <string name="text_ticket_detail_count">Game vouchers in total:</string>
+     <string name="text_ticket_expiry_date">Expiry Date:</string>
+     <string name="text_ticket_for_game">Eligible games:</string>
+     <string name="text_ticket_from">From:</string>
+     <string name="text_tip_close_floatwin">Are you sure you want to close the floating window?</string>
+     <string name="text_tip_miliao_uninstall">"You haven't installed Mitalk or your Mitalk version is too old, please update to the latest version."</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_tip_miliao_version_low">Your current Mitalk version is too old. Please update to the latest version.</string>
+     <string name="text_toast_logintip">"You haven't logged in yet, please log in first!"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_update">Upgrade</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_update_now">Upgrade now</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="text_verifyapp_error">Invalid APK. Access denied.</string>
+     <string name="ticket_description">参加%s获得</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ticket_detail_button_get">Get it</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ticket_detail_get_text">Active</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ticket_detail_overdue">Expired</string>
+     <string name="ticket_detail_tip">"Warm Tips： 
+Vouchers can be used as cash"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ticket_detail_title">Voucher details</string>
+     <string name="ticket_empty_tip_text">&lt;font color=000000>What is a game voucher?&lt;/font>&lt;br>&lt;font color=#99000000>A game voucher is a kind of discount voucher distributed by Xiaomi Game center to Mi fans. They can be used as cash for purchases of eligible items in online mobile games on Xiaomi game center. &lt;/font></string>
+     <string name="ticket_expire_time">Expiry date:%s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ticket_format_data">yyyy.MM.dd</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ticket_list_empty_loaderror">Failed to load, please try again</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ticket_list_empty_networkerror">Network error</string>
+     <string name="ticket_list_empty_text">"You don't have any vouchers"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_float_closedialog">Close</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_game_id">Game ID</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_gamecenter">Xiaomi Game Center</string>
 </resources>

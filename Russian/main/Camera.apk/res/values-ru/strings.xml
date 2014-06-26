@@ -198,6 +198,8 @@
      <string name="pref_camera_antibanding_entry_3">Авто</string>
      <string name="pref_camera_antibanding_title">Устранение полос</string>
      <string name="pref_camera_audio_capture_title">Голос</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_camera_auto_capture_when_stable_title">Auto capturing when stable</string>
      <string name="pref_camera_auto_chroma_flash_title">Авто Chroma вспышка</string>
      <string name="pref_camera_auto_focus_title_entry_off">Выкл.</string>
      <string name="pref_camera_auto_focus_title_entry_on">Вкл.</string>
