@@ -506,6 +506,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="toast_cannot_preview_image_when_screen_locked">Cannot review image or video when screen is locked.</string>
      <string name="toast_start_audio_capture">Похлопайте, чтобы сработал затвор</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ubi_focus_capture_fail">Capture fail, please try again</string>
      <string name="ubi_focus_exit_button_text">Выйти</string>
      <string name="ubifocus_capture_warning_message">It is better when the preview screen contains both near (less than one meter from the lens) and far objects</string>
      <string name="undo">Назад</string>

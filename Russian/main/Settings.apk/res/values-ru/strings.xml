@@ -479,6 +479,8 @@
      <string name="bluetooth_permission_request">Запрос разрешения на включение Bluetooth</string>
      <string name="bluetooth_phonebook_request">Запрос телефонной книги</string>
      <string name="bluetooth_pin_values_hint">Обычно 0000 или 1234</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bluetooth_preference_connected_devices">Connected devices</string>
      <string name="bluetooth_preference_device_settings">Настройки устройства</string>
      <string name="bluetooth_preference_found_devices">Список</string>
      <string name="bluetooth_preference_paired_devices">Подключенные устройства</string>

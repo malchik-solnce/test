@@ -1121,6 +1121,8 @@
      <string name="yellowPageNavigationIconLabel">Сервисы</string>
      <string name="yellowPageNavigationLabel">Сервисы</string>
      <string name="yellowpage_navigation_menu_order">Мои заказы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellowpage_navigation_more_items">More</string>
      <string name="yellowpage_navigation_network_location_enable">Включить</string>
      <string name="yellowpage_navigation_network_location_enable_later">Отмена</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -1135,6 +1137,11 @@
      <string name="yellowpage_navigation_search_result_service_error">Сервис недоступен</string>
      <string name="yellowpage_navigation_search_result_unknown_error">Произошла неизвестная ошибка</string>
      <string name="yellowpage_navigation_search_select_city">Выбери город</string>
+     <string name="yellowpage_navigation_send_to_desktop_downloading">Downloading icon…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellowpage_navigation_send_to_desktop_failed">Failed, please check your network settings</string>
      <string name="yellowpage_navigation_send_to_desktop_succeeded">Добавлено на рабочий стол</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="yellowpage_user_profile">Profile</string>
      <string name="zero_items_selected">Выбери контакты</string>
 </resources>
