@@ -49,13 +49,14 @@
      <string name="title_select_station">Частота: %s</string>
      <string name="toast_added_to_list">Добавлено в список</string>
      <string name="toast_added_to_presets">Добавлено в избранное</string>
-     <string name="toast_channel_searched">Найдено станций: %1$d</string>
+     <string name="toast_delete_station">%sMHz has been deleted</string>
      <string name="toast_fm_error_startfailed">Ошибка записи. Возможно другое приложение использует функцию записи. Проверьте и попробуйте снова.</string>
      <string name="toast_fm_recorder_access_error">Запись недоступна в гостевом режиме</string>
      <string name="toast_fm_recorder_internal_error">Ошибка записи радио</string>
      <string name="toast_fm_recorder_storage_full">Память заполнена. Запись невозможна.</string>
      <string name="toast_fm_seeking">Поиск станций…</string>
      <string name="toast_fm_starting">Радио запускается…</string>
+     <string name="toast_fm_stoping">Stopping…</string>
      <string name="toast_removed_from_presets">Удалено из избранного</string>
      <string name="toast_sleep_mode">Радио будет отключено через %s</string>
      <string name="toast_sleep_mode_exit">Спящий режим отменен</string>

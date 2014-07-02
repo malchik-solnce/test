@@ -201,6 +201,8 @@
      <string name="empty_history">Пусто</string>
      <string name="empty_snapshots_folder">Нет сохраненных страниц</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="enter_developer_mode">Enter developer mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_console_eval_button_text">Evaluate</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="error_console_eval_text_hint">Evaluate JavaScript</string>
