@@ -192,6 +192,8 @@
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mili_center">MiCredit</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mipay_error">Mipay failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="msg_denomination_type">MiCredit</string>
      <string name="msg_error">Ошибка пополнения</string>
      <string name="msg_order_hint_1_1">После нажатия кнопки купить, устройство</string>
@@ -247,6 +249,7 @@
      <string name="progress_error_recharge_summary">Пополенение не удалось. Попробуйте позже.</string>
      <string name="progress_error_recharge_title">Ошибка пополнения</string>
      <string name="progress_loading">Обработка…</string>
+     <string name="progress_mipay_creating">Generating order…</string>
      <string name="progress_msg_creating">Обработка пополнения…</string>
      <string name="progress_paytool_creating">Создание покупки %1$s…</string>
      <string name="progress_paytool_installing">Установка плагина безопасности %1$s…</string>
@@ -260,11 +263,9 @@
      <string name="progress_success_recharge_summary">Баланс: %1$s MiCredits</string>
      <string name="progress_success_recharge_title">Пополнение на %1$s MiCredit завершено</string>
      <string name="progress_voucher_creating">Пополнение баланаса картой MiCredit…</string>
-     <string name="progress_warning_check">"Пока не проверено.
-Мы проверим в течение двух рабочих дней."</string>
-     <string name="progress_warning_contact_server">"Платеж все еще не подтвержден. 
-1. Пожалуйста, свяжитесь со службой поддержки в Шеньчжоу: %1$s 
-2. Сообщите свой серийный номер: %2$s"</string>
+     <string name="progress_warning_check_with_contact">"Payment hasn't reached your account yet. 
+We will check again within two working days.
+Customer service center：400-100-5678"</string>
      <string name="progress_warning_waiting">Еще не подтвержден. Пожалуйста, повторите попытку позже.</string>
      <string name="recharge_bankcall_title">Банковская карта</string>
      <string name="recharge_denomination">%1$s юань</string>

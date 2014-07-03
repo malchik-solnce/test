@@ -119,12 +119,10 @@
      <string name="HIPS_Perm_GetCallState">получить состояние текущего вызова</string>
      <string name="HIPS_Perm_ListenCallState">мониторинг состояния вызова</string>
      <string name="HIPS_Perm_Location">Местоположение</string>
-     <string name="HIPS_Perm_Location_Access">получить ваше текущее местоположение</string>
      <string name="HIPS_Perm_Location_CellInfo">получать местоположение телефона</string>
      <string name="HIPS_Perm_Location_CellLocation">получить местоположение телефона</string>
      <string name="HIPS_Perm_Location_Desc">Поиск вашего телефона посредством сети или GPS</string>
      <string name="HIPS_Perm_Location_Hint">%1$s приложения, имеющие разрешения для ослеживания местоположения телефона</string>
-     <string name="HIPS_Perm_Location_Monitor">отслеживать ваше положение</string>
      <string name="HIPS_Perm_Location_Source_Cellular">Источник: сотовая сеть</string>
      <string name="HIPS_Perm_Location_Source_GPS">Источник: GPS</string>
      <string name="HIPS_Perm_Location_Source_Network">Источник: сеть</string>
