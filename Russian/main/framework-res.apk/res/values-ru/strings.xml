@@ -1396,6 +1396,8 @@ Attempts Remaining :"</string>
      <string name="progress_erasing">Очистка USB-накопителя…</string>
      <string name="progress_nomediapresent">Отсутствует внешний накопитель…</string>
      <string name="progress_unmounting">Отключение USB-накопителя…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="quick_contacts_not_available">No application found to view this contact.</string>
      <string name="reason_service_unavailable">Служба печати недоступна</string>
      <string name="reason_unknown">неизвестно</string>
      <string name="reboot_safemode_confirm">Перейти в безопасный режим? Все приложения сторонних поставщиков отключатся. Они будут включены по возвращении в обычный режим.</string>
@@ -1639,16 +1641,45 @@ Attempts Remaining :"</string>
      <string name="webviewchromium_accessibility_date_picker_year">Год</string>
      <string name="webviewchromium_accessibility_datetime_picker_date">Дата</string>
      <string name="webviewchromium_accessibility_datetime_picker_time">Время</string>
+     <string name="webviewchromium_accessibility_time_picker_ampm">AM/PM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_accessibility_time_picker_hour">Hour</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_accessibility_time_picker_milli">Millisecond</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_accessibility_time_picker_minute">Minute</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_accessibility_time_picker_second">Second</string>
      <string name="webviewchromium_actionbar_share">Отправить</string>
      <string name="webviewchromium_actionbar_web_search">Веб-поиск</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_color_picker_button_black">Black</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_color_picker_button_blue">Blue</string>
      <string name="webviewchromium_color_picker_button_cancel">Отмена</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_color_picker_button_cyan">Cyan</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_color_picker_button_green">Green</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_color_picker_button_magenta">Magenta</string>
      <string name="webviewchromium_color_picker_button_more">Еще</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_color_picker_button_red">Red</string>
      <string name="webviewchromium_color_picker_button_set">Выбрать</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_color_picker_button_white">White</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_color_picker_button_yellow">Yellow</string>
      <string name="webviewchromium_color_picker_dialog_title">Выберите цвет</string>
      <string name="webviewchromium_color_picker_hue">Тон</string>
      <string name="webviewchromium_color_picker_saturation">Насыщенность</string>
      <string name="webviewchromium_color_picker_value">Значение</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_copy_to_clipboard_failure_message">Failed to copy to the clipboard</string>
      <string name="webviewchromium_date_picker_dialog_clear">Очистить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_date_picker_dialog_other_button_label">Other</string>
      <string name="webviewchromium_date_picker_dialog_set">Установить</string>
      <string name="webviewchromium_date_picker_dialog_title">Выберите дату</string>
      <string name="webviewchromium_date_time_picker_dialog_title">Дата и время</string>
@@ -1662,6 +1693,22 @@ Attempts Remaining :"</string>
      <string name="webviewchromium_month_picker_dialog_title">Выберите месяц</string>
      <string name="webviewchromium_opening_file_error">Не удалось открыть файл</string>
      <string name="webviewchromium_private_browsing_warning">Эта функция не поддерживается в данной версии Android</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_profiler_error_toast">Failed to start profiler</string>
+     <string name="webviewchromium_profiler_no_storage_toast">"Can't start profiler because external storage is not ready"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_profiler_started_toast">Profiler started</string>
+     <string name="webviewchromium_profiler_stopped_toast">Profiler finished. Results are in %1$s.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_time_picker_dialog_am">AM</string>
+     <string name="webviewchromium_time_picker_dialog_hour_minute_separator">:</string>
+     <string name="webviewchromium_time_picker_dialog_minute_second_separator">:</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_time_picker_dialog_pm">PM</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_time_picker_dialog_second_subsecond_separator">.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="webviewchromium_time_picker_dialog_title">Set time</string>
      <string name="webviewchromium_week_picker_dialog_title">Выберите неделю</string>
      <string name="week">нед.</string>
      <string name="weeks">нед.</string>

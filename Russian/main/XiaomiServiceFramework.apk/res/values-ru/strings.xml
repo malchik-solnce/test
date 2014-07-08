@@ -130,6 +130,8 @@
      <string name="app_name">Менеджер аккаунтов Xiaomi</string>
      <string name="available_functionality">Доступные функции</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="bank_cards">Bank cards</string>
      <string name="bind_sina_weibo">Связать с Sina WeiBo</string>
      <string name="bind_weibo_description">Найти информацию контакта: телефон, аватар и т.д.</string>
      <string name="binded">Связан</string>
