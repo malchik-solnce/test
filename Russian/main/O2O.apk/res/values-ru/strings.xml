@@ -60,11 +60,16 @@
      <string name="loading_item_detail">Загрузка…</string>
      <string name="loading_item_list">Загрузка…</string>
      <string name="loading_search_result">Загрузка…</string>
+     <string name="location_cancel">取消</string>
      <string name="location_cities">Текущие города определенные по GPS</string>
+     <string name="location_confirm">切换至%1$s</string>
      <string name="location_current">Текущий город</string>
      <string name="location_desc">Мое местоположение</string>
      <string name="location_desc_nearby">По соседству</string>
+     <string name="location_dialog_content">您之前选择的城市是%1$s，定位发现您可能在%2$s，是否切换当前城市到%2$s？</string>
+     <string name="location_dialog_title">是否切换至%1$s？</string>
      <string name="location_distance">Расстояние</string>
+     <string name="location_toast">您可以在『我的小米生活』中更改城市</string>
      <string name="lottery_announcement_title">中奖用户信息</string>
      <string name="lottery_in">已参与</string>
      <string name="lottery_info">抽奖号:%1$s</string>

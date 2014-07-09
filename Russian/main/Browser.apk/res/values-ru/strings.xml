@@ -15,9 +15,11 @@
      <string name="accessibility_time_picker_minute">Минута</string>
      <string name="accessibility_time_picker_second">Секунда</string>
      <string name="account">Аккаунт</string>
+     <string name="account_prifix">Account:</string>
      <string name="action">Войти</string>
      <string name="actionbar_share">Поделиться</string>
      <string name="actionbar_web_search">Поиск в интернете</string>
+     <string name="adblock_notification">block %d ads</string>
      <string name="add_bookmark">Добавить закладку</string>
      <string name="add_folder">Добавить папку</string>
      <string name="add_new_bookmark">Добавить закладку</string>
@@ -279,6 +281,9 @@
      <string name="menu_save_bandwidth_mode_open_toast">Включен мобильный интернет</string>
      <string name="menu_save_snapshot">Сохранить страницу</string>
      <string name="menu_theme_setting">Настройки темы</string>
+     <string name="miui_autologin_bar_error">"Couldn't sign in, please retry"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="miui_autologin_bar_title">Use system account to sign in</string>
      <string name="miui_content_copy">Копировать</string>
      <string name="miui_content_cut">Вырезать</string>
      <string name="miui_content_paste">Вставить</string>
@@ -335,6 +340,9 @@
      <string name="pref_accessibility_title">Специальные возможности</string>
      <string name="pref_accessibility_url_shortcut_enter_summary">При вводе в адресную строку, общие комбинации букв могут быть введены в одно нажатие</string>
      <string name="pref_accessibility_url_shortcut_enter_title">Быстрый ввод ссылок</string>
+     <string name="pref_adblock_counts">total block %d ads</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_adblock_title">Adblock</string>
      <string name="pref_autofill_enabled">Автозаполнение форм</string>
      <string name="pref_autofill_enabled_summary">Быстрое заполнение веб-форм</string>
      <string name="pref_autofill_profile_editor">Текст автозаполнения</string>
@@ -343,6 +351,9 @@
      <string name="pref_autologin_progress_in_background">Вход на сайты Google с помощью аккаунта %s в фоне</string>
      <string name="pref_autologin_title">Автоматический вход в систему</string>
      <string name="pref_category_title_version">Версия</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_clear_adblock_statistics">clear Adblock statistics</string>
+     <string name="pref_clear_adblock_statistics_dlg">Will clear all adblock counts？</string>
      <string name="pref_clear_cache_for_exit">Очищать кэш</string>
      <string name="pref_clear_history_for_exit">Очищать историю</string>
      <string name="pref_confirm_for_exit">Подтверждать выход</string>
@@ -386,6 +397,8 @@
      <string name="pref_development_trace">Включить отслеживание</string>
      <string name="pref_development_viewport">Исполь. широкое окно просмотра</string>
      <string name="pref_development_visual_indicator">Вкл. визуальные индикаторы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_enable_adblock_notification">Adblock tips</string>
      <string name="pref_exit_on_closing_last_tab_enabled_title">По посл. вкладке</string>
      <string name="pref_extras_reset_default">Сбросить настройки</string>
      <string name="pref_extras_reset_default_dlg">Восстановить настройки по умолчанию?</string>

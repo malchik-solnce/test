@@ -164,6 +164,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_notificationlight_on">Выключить</string>
      <string name="cit_otg_not_supported">Ваш телефон не поддерживает тест OTG</string>
      <string name="cit_pass">ОК</string>
+     <string name="cit_play_sd_mp3_hifi_summary">"Confirm that there's a file named \"music.mp3\" stored on the SD card. The file \"music.mp3\" should be played through the device's HIFI path when you open this test."</string>
+     <string name="cit_play_sd_mp3_hifi_title">Play MP3(HIFI) stored on SD card</string>
      <string name="cit_play_sd_mp3_summary">Проверка звука. Положите файл с именем music.mp3 в корень SD-карты</string>
      <string name="cit_play_sd_mp3_title">Проверка MP3 с SD-карты</string>
      <string name="cit_playing_sd_mp3">Music.mp3 играет…</string>
