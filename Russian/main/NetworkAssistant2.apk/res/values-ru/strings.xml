@@ -223,6 +223,7 @@
      <string name="traffic_protection_unknown"><u>Настроить позже</u></string>
      <string name="traffic_protection_use_data">Данные включены</string>
      <string name="traffic_saving_button_sorted">省流排行</string>
+     <string name="traffic_saving_button_sorted_chose_simcard">选择排行</string>
      <string name="traffic_saving_button_start">开始节省</string>
      <string name="traffic_saving_button_stop">停止节省</string>
      <string name="traffic_saving_history_title">历史节省信息</string>

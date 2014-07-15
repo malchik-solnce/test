@@ -224,6 +224,8 @@ Hold the phone as if you're answering a call, speak in to the microphone. You sh
      <string name="cit_tool_bluetooth_on">Включить</string>
      <string name="cit_tool_bluetooth_tx_h">Enter bluetooth single sound test（2.480GHz) mode</string>
      <string name="cit_tool_bluetooth_tx_l">Enter bluetooth single sound test（2.402GHz）mode</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cit_tool_enable_3A_log">Enable 3A log</string>
      <string name="cit_tool_log">Отчеты</string>
      <string name="cit_tool_log_bugreport">Отчет об ошибке</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

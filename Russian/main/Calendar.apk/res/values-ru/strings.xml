@@ -33,6 +33,8 @@
      <string name="agenda_tomorrow">Завтра, %1$s</string>
      <string name="agenda_view">Повестка дня</string>
      <string name="agenda_yesterday">Вчера, %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="alarm_label">OK</string>
      <string name="alert_title">Уведомления календаря</string>
      <string name="app_label">Календарь</string>
      <string name="attendees_label">Гости</string>
@@ -45,6 +47,8 @@
      <string name="button_day">Д</string>
      <string name="button_month">М</string>
      <string name="button_online">О</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="button_week">W</string>
      <string name="calendar_network_error">网络错误</string>
      <string name="calendar_refresh">Обновить</string>
      <string name="calendar_server_error">Ошибка сети</string>
@@ -250,6 +254,7 @@
      <string name="tab_online">Онлайн</string>
      <string name="taishen">胎神</string>
      <string name="template_announce_item_index">Мероприятие %1$s из %2$s</string>
+     <string name="text_year">年</string>
      <string name="time_zone">Часовой пояс</string>
      <string name="timezone_label">Часовой пояс</string>
      <string name="today">Сегодня</string>
@@ -264,6 +269,8 @@
      <string name="view_event_organizer_label">Организатор:</string>
      <string name="view_event_response_label">Принять приглашение?</string>
      <string name="week_view">Неделя</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="week_view_today_toast">Already in this week</string>
      <string name="weekly">Еженедельно (кажд. %s)</string>
      <string name="what_label">Что</string>
      <string name="when_label">Когда</string>

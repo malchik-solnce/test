@@ -391,6 +391,10 @@
      <string name="picker_tab_photo">Photo</string>
      <string name="posterize">Постеризация</string>
      <string name="preparing_data_to_delete">Подготовка к удалению данных…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="priority_storage">Save to SD card</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="priority_storage_summary">When SD card is inserted, download files to SD card automatically.</string>
      <string name="projection">Проекция</string>
      <string name="public_url_descript">Любой человек может получить доступ к альбому с помощью этой ссылки</string>
      <string name="publish_failed">Ошибка публикации</string>
