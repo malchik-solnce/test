@@ -94,10 +94,15 @@
      <string name="clip_dialog_title">Открыть скопированную ссылку?</string>
      <string name="close_all_tab_alert_message">Вы уверены, что хотите закрыть все вкладки?</string>
      <string name="close_all_tab_alert_title">Закрытие вкладок</string>
+     <string name="close_cloud_tab_tip">Close cloud tabs on %s ?</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_loading_tips">Pull down to sync</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_no_new_data_toast">No new data, please retry later</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_sync_closed_toast">Cloud sync is switched off, unable to update</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_sync_failed_toast">Update failed, please retry later</string>
      <string name="cloud_tab">Облачная вкладка</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="cloud_time_tips">Last sync time</string>

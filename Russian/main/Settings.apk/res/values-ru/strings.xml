@@ -2346,6 +2346,12 @@
      <string name="print_service_security_warning_title">Включить %1$s?</string>
      <string name="print_settings">Печать</string>
      <string name="print_settings_title">Средства печати</string>
+     <string name="priority_storage_app_settings">Userdata will be saved to %1$s</string>
+     <string name="priority_storage_settings_summary">"If no SD card is detected, userdata will be saved to your device's internal storage automatically"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="priority_storage_summary">Choose the default location to save userdata</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="priority_storage_title">Storage settings</string>
      <string name="priority_sub_summary">Выберите приоритетного оператора</string>
      <string name="priority_sub_title">Приоритетный оператор</string>
      <string name="privacy_mode_enable_sum">Скрыть журнал вызовов, сообщения и другую информацию для защиты привата</string>
