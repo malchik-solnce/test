@@ -576,6 +576,7 @@
      <string name="ip_prefix_required_miui">Вводить свой префикс номера IP</string>
      <string name="ip_prefix_sum_miui">Префикс оператора: %s</string>
      <string name="ivr_menu_dialing_msg">Forwarding…</string>
+     <string name="ivr_menu_list_sub_menu_count_format">Press %s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="ivr_menu_list_title">Voice menu</string>
      <string name="jituan_number_format_error_message_miui">%s поддерживает только цифры и символы</string>

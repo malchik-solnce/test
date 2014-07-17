@@ -408,6 +408,7 @@
         <item>В режиме \"Без звука\"</item>
         <item>Всегда</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 4 must: 3 -->
      <string-array name="power_mode_entries">
         <item>Производительность</item>
         <item>Сбалансированный</item>
