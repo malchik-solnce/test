@@ -489,6 +489,8 @@
      <string name="fdn_contact_added">Номер ограниченного набора добавлен</string>
      <string name="fdn_contact_deleted">Номер ограниченного набора удален</string>
      <string name="fdn_contact_updated">Номер ограниченного набора обновлен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="fdn_contacts_empty_miui">No contacts in FDN list.</string>
      <string name="fdn_disabled">Разрешенные номера отключены</string>
      <string name="fdn_disabled_miui">Разрешенные номера отключены</string>
      <string name="fdn_enable_puk2_requested">Неверный пароль. Измените код PIN2 и повторите попытку</string>

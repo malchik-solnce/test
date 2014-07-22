@@ -577,6 +577,9 @@
      <string name="outbox_alert_button_no_resend">"Don't send"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="outbox_alert_button_resend">Resend</string>
+     <string name="outbox_alert_description_auth_error">Cause: Auth error from server during outbox sync</string>
+     <string name="outbox_alert_description_http_error">Cause: HTTP error from server during outbox sync</string>
+     <string name="outbox_alert_description_provision_error">Cause: Provision error from server during outbox sync</string>
      <string name="outbox_alert_description_sent_failed">"Причина: вложение к письму 
 превышает максимальный размер"</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->

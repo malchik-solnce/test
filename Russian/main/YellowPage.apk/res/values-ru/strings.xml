@@ -263,6 +263,7 @@ Custom service will contact you in a moment"</string>
      <string name="navigation_search_no_city_list">Город не найден</string>
      <string name="navigation_search_positioning">Поиск местоположения…</string>
      <string name="navigation_search_positioning_failed">Выберите город</string>
+     <string name="nearby_average_price">Average %d RMB</string>
      <string name="nearby_no_yellow_page">Никого нет</string>
      <string name="nearby_yellow_page_title">Рядом</string>
      <string name="nearby_yellow_page_title_format">%1$s-%2$s</string>

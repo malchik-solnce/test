@@ -389,6 +389,7 @@
         <item>Через 10 минут</item>
         <item>Никогда</item>
      </string-array>
+     <!-- The size of the array does not match! Now: 4 must: 3 -->
      <string-array name="power_dialog_cpu_state_items">
         <item>Высокое</item>
         <item>Умеренное</item>
