@@ -117,9 +117,19 @@
 использовано"</string>
      <string name="manual_input_free_traffic">Set off-peak data usage</string>
      <string name="manual_input_traffic">Введите предел трафика</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_service_app_detail">Data usage details</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_service_framework">Mi Service Framework</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_service_framework_pkg">com.xiaomi.xmsf</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mi_service_traffic_detail">Framework details</string>
      <string name="network_assistant_upgraded_body">Нажмите, чтобы ограничить использование данных</string>
      <string name="network_assistant_upgraded_title">Обновление завершено</string>
      <string name="network_control">Управление трафиком</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="none_mi_service_app_detail">Empty</string>
      <string name="notification_content_title">Использовано %1$s во время блокировки</string>
      <string name="notification_title">%1$s-%2$s: исполь. около %3$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -185,6 +195,9 @@
      <string name="pref_traffic_saving_switch">节省流量</string>
      <string name="pref_traffic_saving_switch_hint">使用转接服务进行数据压缩</string>
      <string name="pref_traffic_saving_title">节省流量设置</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="pref_traffic_saving_whitelist">Exceptions</string>
+     <string name="pref_traffic_saving_whitelist_hint">"These apps' data usage will not be restricted"</string>
      <string name="pref_version">Версия %s</string>
      <string name="pref_warning_values">Порог предупреждения</string>
      <string name="right_precent">100%</string>
@@ -229,8 +242,19 @@
      <string name="traffic_saving_history_title">历史节省信息</string>
      <string name="traffic_saving_history_total_money">相当于节省</string>
      <string name="traffic_saving_history_total_money_unit">元</string>
+     <string name="traffic_saving_history_total_month">本月您节省的流量相当于</string>
+     <string name="traffic_saving_history_total_month_default">我们每月为用户平均节省的流量相当于</string>
+     <string name="traffic_saving_history_total_month_value">"在线听歌 &lt;font color='#45c487'>&lt;b>&lt;big>%1$s&lt;/big>&lt;/b>&lt;/font> 首 / 在线聊天 &lt;font color='#45c487'>&lt;b>&lt;big>%2$s&lt;/big>&lt;/b>&lt;/font> 小时 / 在线阅读 &lt;font color='#45c487'>&lt;b>&lt;big>%3$s&lt;/big>&lt;/b>&lt;/font> 篇新闻"</string>
+     <string name="traffic_saving_history_total_month_value_default">"在线听歌 &lt;font color='#45c487'>&lt;b>&lt;big>18&lt;/big>&lt;/b>&lt;/font> 首 / 在线聊天 &lt;font color='#45c487'>&lt;b>&lt;big>10&lt;/big>&lt;/b>&lt;/font> 小时 / 在线阅读 &lt;font color='#45c487'>&lt;b>&lt;big>86&lt;/big>&lt;/b>&lt;/font> 篇新闻"</string>
+     <string name="traffic_saving_history_total_rate">节省率</string>
+     <string name="traffic_saving_history_total_rate_unit">%</string>
      <string name="traffic_saving_history_total_traffic">累计节省</string>
+     <!-- The count of MNPS does not match! Now: 2 must: 0
+	%s: 2 must: 0
+	%d: 0 must: 0 -->
+     <!-- Original string: 当月节省 -->
      <string name="traffic_saving_msg_month">本月已为您节省%1$s，约%2$s</string>
+     <string name="traffic_saving_msg_not_started">尚未开启</string>
      <string name="traffic_saving_msg_today">今日节省</string>
      <string name="traffic_saving_notify_start_content">本月已节省%s</string>
      <string name="traffic_saving_notify_start_title">正在为您节省流量</string>
@@ -241,6 +265,19 @@
      <string name="traffic_saving_toast_start_none_mobile">已开启流量节省功能，仅在数据联网时生效</string>
      <string name="traffic_saving_toast_start_unreachable">流量节省模块失效</string>
      <string name="traffic_saving_toast_stop">已关闭流量节省功能</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_saving_whitelist_btn_add">Add</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_saving_whitelist_btn_add_app">Add</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_saving_whitelist_btn_added">Added</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_saving_whitelist_btn_remove">Remove</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_saving_whitelist_btn_removed">App removed from list</string>
+     <string name="traffic_saving_whitelist_count">"%d apps' data usage are not being restricted"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="traffic_saving_whitelist_no_app">No apps</string>
      <string name="traffic_setting_fragment_area">Местоположение</string>
      <string name="traffic_setting_fragment_brand">Бренд</string>
      <string name="traffic_setting_fragment_button2_text">Сохранить</string>
