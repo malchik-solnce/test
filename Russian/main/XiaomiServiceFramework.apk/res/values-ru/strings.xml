@@ -162,6 +162,7 @@
      <string name="error_device_id">"Can't get IMEI"</string>
      <string name="error_dup_phone">Телефон уже зарегистрирован</string>
      <string name="error_invalid_dev_id">Неверный ID устройства</string>
+     <string name="error_login">"Couldn't sign in"</string>
      <string name="error_network">Ошибка сети</string>
      <string name="error_no_sms_service">Сервис SMS недоступен</string>
      <string name="error_phone_error">Неверный номер телефона</string>
@@ -299,6 +300,8 @@
      <string name="reg_type_phone">Регистрация по телефону (рекомендуется)</string>
      <string name="reging">Регистрация. Пожалуйста подождите…</string>
      <string name="relogin">Войти повторно</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="relogin_notice">You need to sign in again</string>
      <string name="remove_account_notice">Что делать с ранее синхронизированными сообщениями, контактами, журналами вызовов и заметками на устройстве?</string>
      <string name="remove_confirm">Удалить</string>
      <string name="remove_unactivated_account_notice">Аккаунт Xiaomi не активирован. Удалить его?</string>

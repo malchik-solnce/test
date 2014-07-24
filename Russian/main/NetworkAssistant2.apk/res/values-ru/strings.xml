@@ -252,7 +252,7 @@
      <!-- The count of MNPS does not match! Now: 2 must: 0
 	%s: 2 must: 0
 	%d: 0 must: 0 -->
-     <!-- Original string: 当月节省 -->
+     <!-- Original string: Saved this month: -->
      <string name="traffic_saving_msg_month">本月已为您节省%1$s，约%2$s</string>
      <string name="traffic_saving_msg_not_started">尚未开启</string>
      <string name="traffic_saving_msg_today">今日节省</string>
