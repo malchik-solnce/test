@@ -28,6 +28,8 @@
      <string name="accessibility_skin_beautify_button">SkinBeautifyButton</string>
      <string name="accessibility_skin_beautify_closed">Усилитель тона кожи отключен</string>
      <string name="accessibility_skin_beautify_opened">Усилитель тона кожи включен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="accessibility_video_pause_button">VideoPauseButton</string>
      <string name="accessibility_zoom_control">Приближение</string>
      <string name="albums">Альбомы</string>
      <string name="aperture">Апертура</string>

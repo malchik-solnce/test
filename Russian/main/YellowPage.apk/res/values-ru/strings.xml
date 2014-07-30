@@ -205,6 +205,8 @@ Custom service will contact you in a moment"</string>
      <string name="express_select_sender">От</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_send">Ship</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_send_notice">About prohibited items</string>
      <string name="express_sender">Отправитель</string>
      <string name="express_sender_info">Информация</string>
      <string name="express_sender_name">Имя</string>

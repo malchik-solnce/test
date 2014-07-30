@@ -257,6 +257,8 @@
      <string name="micloud_password_confirm_hint">Подтвердите пароль</string>
      <string name="micloud_password_error_inconsistent">Несоответсвие паролей</string>
      <string name="micloud_password_req_notice">8~16 символов, содержит цифры, буквы алфавита, с учетом регистра</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="micloud_proceed">Continue</string>
      <string name="micloud_reg_new">Новый</string>
      <string name="micloud_resend_active_email">Повторно отправить письмо активации</string>
      <string name="micloud_space_full_influence"><u>Закончилось место в облаке?</u></string>
