@@ -361,8 +361,8 @@
      <string name="select_media_source">Выберите источник</string>
      <string name="series_colon">"Эпизодов: "</string>
      <string name="setting">Настройки</string>
-     <string name="setting_use_network">允许使用网络</string>
-     <string name="setting_use_network_summery">视频应用将会使用您的网络流量</string>
+     <string name="setting_network_alert">启动时联网提示</string>
+     <string name="setting_network_alert_summery">视频启动时会有联网提示</string>
      <string name="show_hidemedia">Показывать скрытые файлы</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sina">Sina</string>

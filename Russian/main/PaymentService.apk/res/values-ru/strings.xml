@@ -111,6 +111,8 @@
      <string name="frozen">(заморожен)</string>
      <string name="giftcard_acitivity_and_denomination">Подарочная карта на %2$s MiCredit от %1$s</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="giftcard_define_detail">Use these certificates just like regular Mi Credits. You may receive credits after participating in Xiaomi events and promotions.</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="giftcard_denom">MiCredit</string>
      <string name="giftcard_denom_available">MiCredit доступно</string>
      <string name="giftcard_denom_frozen">MiCredit заморжено</string>
@@ -123,6 +125,8 @@
      <string name="giftcard_push_notification_prime_title">Вы получили подарочный сертификат</string>
      <string name="giftcard_push_notification_sub_title">%1$s: %2$s MiCredit получено</string>
      <string name="giftcard_record">Подарочные карты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="giftcard_title">Mi Credit Certificates</string>
      <string name="giftcard_value">(подарочная карта на %1$s MiCredit)</string>
      <string name="hfb_app_name">话付宝</string>
      <string name="hfb_complete">购买完成</string>

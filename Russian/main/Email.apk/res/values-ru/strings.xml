@@ -312,6 +312,8 @@
      <string name="conversation_folder_moved">Перемещено в папку \"%1$s\"</string>
      <string name="conversation_item_mark_read">Прочитано</string>
      <string name="conversation_item_mark_unread">Непрочитано</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="conversation_list_net_check">Unavailable to connect to the network, please check the network configuration or try again later</string>
      <string name="conversation_photo_welcome_text">Чтобы открыть цепочку писем, нажмите на фото отправителя</string>
      <string name="copy_email">Скопировать адрес эл. почты</string>
      <string name="copy_number">Скопировать номер телефона</string>
@@ -400,10 +402,35 @@
      <string name="file_not_found_reDownload">Файл не найден. Повторите еще раз.</string>
      <string name="file_rar_not_support">Не поддерживает зашифрованный файл RAR!</string>
      <string name="filtered_tag">[%1$s]%2$s</string>
+     <string name="folder_drafts_name_cn0">草稿</string>
+     <string name="folder_drafts_name_cn1">草稿箱</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_drafts_name_en0">Drafts</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_drafts_name_en1">Draft</string>
      <string name="folder_icon_desc">Значок папки</string>
+     <string name="folder_junk_name_cn0">垃圾邮件</string>
+     <string name="folder_junk_name_cn1">垃圾箱</string>
      <string name="folder_picker_title">Выберите папку</string>
      <string name="folder_removed">Удалено из папки \"%1$s\"</string>
+     <string name="folder_sent_name_cn0">已发送</string>
+     <string name="folder_sent_name_cn1">已发邮件</string>
+     <string name="folder_sent_name_cn2">已发送邮件</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_sent_name_en0">Sent</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_sent_name_en1">Sent Messages</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_sent_name_en2">Sent Message</string>
      <string name="folder_shortcut_widget_label">Папка почты</string>
+     <string name="folder_trash_name_cn0">已删除</string>
+     <string name="folder_trash_name_cn1">已删除邮件</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_trash_name_en0">Trash</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_trash_name_en1">Deleted Messages</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="folder_trash_name_en2">Deleted Message</string>
      <string name="formatted_email_address">&lt;%1$s></string>
      <string name="formatted_subject">%1$s%2$s</string>
      <string name="forward">Переслать</string>
@@ -454,6 +481,8 @@
      <string name="long_string">looooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooong</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="mail">Mail</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mail_body_turncated">This email is too big to load, only display part of it and please go through all on PC later</string>
      <string name="mailbox_list_account_selector_combined_view">Комбинированный режим</string>
      <string name="mailbox_name_display_drafts">Черновики</string>
      <string name="mailbox_name_display_inbox">Входящие</string>
@@ -555,6 +584,8 @@
      <string name="no_conversations">Нет сообщений</string>
      <string name="no_mails">Нет сообщений</string>
      <string name="no_matched_attachment">Нет подобранных вложений!!</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="no_wifi_promot">No WLAN is used now, please keep an eye on your traffic flow</string>
      <string name="non_synced_folder_description">Для просмотра цепочек писем синхронизируйте эту папку</string>
      <string name="not_subject">Нет темы</string>
      <string name="not_synced_title">Аккаунт не синхронизирован</string>
@@ -728,6 +759,19 @@
      <string name="sending">Отправка…</string>
      <string name="sending_message">Отправка сообщения…</string>
      <string name="sent_folder_selection_title">%s: выберите папку на сервере</string>
+     <string name="ser_resp_err_map_certificate_validator_err">"Failed to validate server certificate
+\u0009 (Check whether the setting is 'Auto sync time')"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ser_resp_err_map_connect_err">Error in network connection. Please try another network</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ser_resp_err_map_nouser">No such user</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ser_resp_err_map_or">Or</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ser_resp_err_map_pserr">Incorrect username or password</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ser_resp_err_map_serclosed">Service closed</string>
+     <string name="ser_resp_err_map_ssl">"Please try to choose 'SSL/TLS (Accept all certificates)' in 'Security type'"</string>
      <string name="set_network">Настроить сеть</string>
      <string name="settings_activity_title">Настройки</string>
      <string name="sharing">Отправить</string>
