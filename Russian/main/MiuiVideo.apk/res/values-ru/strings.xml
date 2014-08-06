@@ -8,6 +8,8 @@
      <string name="about_version_label">版本号</string>
      <string name="actors_colon">"В главных ролях: "</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ad_moredetail">more detail</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="add_more_addons">add more specials</string>
      <string name="add_review">Добавить отзыв</string>
      <string name="addon" />
@@ -328,6 +330,7 @@
      <string name="pps">PPS</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="pptv">PPTV</string>
+     <string name="prefix_countdown">advertisement left:</string>
      <string name="prex_playcount">play:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="priority_storage">Priority use external SD card</string>
@@ -379,6 +382,8 @@
      <string name="success_cancel_myfavorite">Убрано из избранного</string>
      <string name="success_cancel_waitfornewset">Слежение остановлено</string>
      <string name="success_to_cancel_myfavorite">Отменено</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="suffix_countdown">seconds</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="sure">Agree</string>
      <string name="tags_colon">"Жанр: "</string>
