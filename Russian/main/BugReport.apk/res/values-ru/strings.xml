@@ -1,40 +1,110 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Builded with CloudBuildr -->
 <resources>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_cancel">Cancel</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="action_confirm">Select</string>
      <string name="action_submit">ОК</string>
+     <string name="app_empty">"You haven't downloaded any apps"</string>
      <string name="app_label">Отзывы</string>
+     <string name="app_title">"Bug     Report     Center"</string>
+     <string name="bluetooth_problem1">"Can't pair with third-party devices"</string>
+     <string name="bluetooth_problem2">"Can't detect third-party devices"</string>
+     <string name="bluetooth_problem3">"Can't send files"</string>
+     <string name="bluetooth_problem4">"Can't receive files"</string>
      <string name="btn_send">Отправить</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="camera_problem1">Bad photo quality</string>
+     <string name="camera_problem2">"Can't connect to Camera with USB"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="camera_problem3">Camera force quits</string>
+     <string name="camera_problem4">"Can't switch between back and front cameras"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="camera_problem5">Camera stops working</string>
      <string name="description">Описание (обязательно)</string>
      <string name="discard_draft_dialog_button_cancel">Отмена</string>
      <string name="discard_draft_dialog_content">В отчете были изменения, нажмите кнопку ОК, чтобы отказаться от отзыва</string>
      <string name="discard_draft_dialog_title">Отмена отзыва</string>
-     <string name="err_type_call">Вызовы</string>
-     <string name="err_type_data_lost">Потеря данных</string>
-     <string name="err_type_force_close">Принудительное закрытие</string>
-     <string name="err_type_network">Сеть</string>
-     <string name="err_type_others">Другое</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type">Bug type</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type_bluetooth">Bluetooth</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type_camera">Camera</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type_nonsystemapp">Other apps</string>
      <string name="err_type_power_consuming">Потребление энергии</string>
      <string name="err_type_reboot">Перезагрузка системы</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type_signal">Network issues</string>
      <string name="err_type_suggestion">Предложения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type_systemapp">MIUI apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="err_type_wifi">WLAN</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="hot_problem">View common bugs</string>
+     <string name="loading_apps">Creating list…</string>
+     <string name="loading_hot_problem">Loading…</string>
      <string name="menu_attach_screenshot">Прикрепить скриншот</string>
      <string name="menu_copy">Копировать</string>
      <string name="menu_discard">Отменить</string>
+     <string name="network_err">"Can't connect to the network. Check your data connection and try refeshing."</string>
      <string name="network_unavailable_dialog_content">Ваш отзыв будет отправлен при включенном интернете</string>
      <string name="network_unavailable_dialog_title">Сеть недоступна</string>
+     <string name="no_userbook_toast">"Read Me doesn't exist"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="non_system_app_select">Downloaded apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="nonsystemapp_description">Describe the issue</string>
      <string name="packaging_dialog_content">Создание отчета, пожалуйста, подождите несколько секунд…</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_consuming_problem1">Increased power consumption after update</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_consuming_problem2">Using this app eats up my power</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="power_consuming_problem3">High power consumption during standby</string>
+     <string name="reboot_problem1">"Can't reboot"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="reboot_problem2">Reboots randomly when using a certain app</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="refresh">Refresh</string>
      <string name="report_miui">Отправить в KDev Group</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="screen_lock">Screen lock</string>
      <string name="section_description">Описание</string>
      <string name="section_err_type">Тип проблемы</string>
      <string name="section_screenshot">Скриншоты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="signal_problem1">No signal</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="signal_problem2">Weak signal</string>
      <string name="status_msg_collecting_log">Сбор логов</string>
      <string name="status_msg_pending_upload">Отправка отчета %d ...</string>
+     <string name="suggestion_description">"I hope you'll add X feature, because…"</string>
+     <string name="suggestion_problem1">You should add this feature because…</string>
+     <string name="system_app_select">Built-in apps</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="systemui">Notification shade</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="title_hot_problem">Common bugs</string>
      <string name="toast_description_required">Описание не может быть пустым</string>
      <string name="toast_feedback_pending_wlan">Ваш отзыв будет отправлен позже, при ключенном Wi-Fi</string>
      <string name="toast_feedback_submitted">Ваш отзыв успешно отправлен</string>
+     <string name="toast_feedbackservice_in_submit">Sending previous feedback…</string>
      <string name="toast_pending_log_collection">Сбор логов, пожалуйста, подождите минуту</string>
      <string name="toast_report_copied_to_clipboard">Отчет скопирован в буфер обмена</string>
      <string name="toast_report_sent_failed">Ошибка отправки отчета</string>
      <string name="toast_report_sent_succeed">Отчет был успешно отправлен</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="userbook_name">User guide</string>
+     <string name="wifi_problem1">"Can't automatically connect to secure WLAN"</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_problem2">WLAN signal is weak</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="wifi_problem3">WLAN disconnects unexpectedly</string>
+     <string name="wifi_problem4">"Can't connect to network"</string>
      <string name="wlan_unavailable_dialog_button_sent">Отправить</string>
      <string name="wlan_unavailable_dialog_content">%s запрашивает 2G/3G данные. Нажмите кнопку ОК, чтобы отправить только через Wi-Fi.</string>
      <string name="wlan_unavailable_dialog_title">WLAN недоступна</string>
