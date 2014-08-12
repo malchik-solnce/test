@@ -89,14 +89,11 @@
      <string name="express_address_warning_no_full_address">Требуется адрес</string>
      <string name="express_address_warning_no_name">Требуется имя</string>
      <string name="express_address_warning_no_phone">Требуется телефон </string>
-     <string name="express_addressee">Адресат</string>
      <string name="express_addressee_info">Инфо о адресате</string>
      <string name="express_addressee_name">Имя адресата</string>
      <string name="express_addressee_region">Регион адресата</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_cancel_order">Cancel</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="express_company">Logistics</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_company_empty">No companies</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -104,7 +101,6 @@
      <string name="express_company_phone_prefix">Contact:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_company_pricing_details">Pricing detail</string>
-     <string name="express_confirm_dest_city_prefix">Destination:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_contact_address">Enter your address</string>
      <string name="express_contact_address_finding">Locating…</string>
@@ -144,20 +140,21 @@
      <string name="express_inquiry_serial_number_prefix">"Номер: "</string>
      <string name="express_no_address">Пусто</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="express_no_order">Empty</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_no_order_info">No order info</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_no_tracking_number">No related tracking number</string>
      <string name="express_order_confirmation">Подтверждение заказа</string>
      <string name="express_order_created_time">Created time:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_detail">Detail</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_failed">Failed</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_order_info">Order info</string>
      <string name="express_order_internal_id">Order ID:</string>
      <string name="express_order_ongoing">Ordering…</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_result">Result</string>
-     <string name="express_order_state">State:</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_accepted">Accepted</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -170,8 +167,6 @@
      <string name="express_order_state_dispatching_failed">Dispatching failed</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_failed">Failed</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="express_order_state_note">Status</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_order_state_ordered">Ordered</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
@@ -192,8 +187,6 @@
      <string name="express_order_succeeded">Succeeded</string>
      <string name="express_order_success_hint">"Your package will be delivered by %s
 Custom service will contact you in a moment"</string>
-	<!-- Warning: Perhaps not translated string or string don't need -->
-     <string name="express_orders">Orders</string>
      <string name="express_phone">Телефон</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_preview_order">Preview</string>
@@ -207,12 +200,13 @@ Custom service will contact you in a moment"</string>
      <string name="express_send">Ship</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_send_notice">About prohibited items</string>
-     <string name="express_sender">Отправитель</string>
      <string name="express_sender_info">Информация</string>
      <string name="express_sender_name">Имя</string>
      <string name="express_sender_region">Страна</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_submit_order">Submit</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="express_tracking_number">Tracking number</string>
      <string name="express_view_order">Просмотр заказов</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="express_view_status">Track</string>

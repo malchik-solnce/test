@@ -3,6 +3,12 @@
 <resources>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="Only_the_wifi">Only effective under the wifi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_flow_fail_haveget_msg">Sorry,You have Get Free High Speed Flow This Month</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_flow_fail_vip_msg">Dear Thunder vip, High Speed Channel Opened</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="add_flow_success_msg">Get 300MB High Speed Flow Succeess</string>
      <string name="all_downloads">Все загрузки</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="all_the_internet">All network</string>
