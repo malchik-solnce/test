@@ -9,6 +9,8 @@
 контакты, фото, заметки и т.д."</string>
      <string name="account_hint_text">Введите свой E-mail или ID</string>
      <string name="account_name">Аккаунт: %1$s</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="activate">Activate</string>
      <string name="activate_feature_call_log_sync">Синхронизация вызовов</string>
      <string name="activate_feature_find_device">Поиск устройства</string>
      <string name="activate_feature_mms_sync">Синхронизация SMS</string>
@@ -23,12 +25,12 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: 2 activation messages will be sent to enable %s. You may incur additional fees from your mobile service provider. -->
+     <!-- Original string: Your carrier may charge for 2 international SMS messages used to activate %s. -->
      <string name="activate_popup_desc_2_intl_sim_cards">Для активации сервисов Xiaomi на двух SIM-картах, будет отправлено два международных сообщения. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: 2 activation messages will be sent to enable %s. You may incur fees from your mobile service provider. -->
+     <!-- Original string: Your carrier may charge for 2 SMS messages used to activate %s. -->
      <string name="activate_popup_desc_2_sim_cards">Для активации сервисов Xiaomi на двух SIM-картах, будет отправлено два сообщения. Может взыматься плата согласно Вашему тарифному плану.</string>
      <string name="activate_popup_desc_failed_phone_error">Введен неверный номер</string>
      <string name="activate_popup_desc_failed_query_info">Не удается получить номер телефона. Убедитесь, что SIM-карта обслуживается.</string>
@@ -38,42 +40,42 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: An activation text will be sent to bind your SIM card with your account and enable %s. You may incur additional fees from your mobile service provider. -->
+     <!-- Original string: Your carrier may charge for an international SMS message used to activate %s. -->
      <string name="activate_popup_desc_intl_sim_card">Для активации сервисов Xiaomi будет отправлено международное сообщение. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: 2 activation messages will be sent to enable %s. You may incur additional fees from your mobile service provider. -->
+     <!-- Original string: Your carrier may charge for 1 domestic and 1 international SMS message used to activate %s. -->
      <string name="activate_popup_desc_mixed_sim_cards">Для активации сервисов Xiaomi на двух SIM-картах, будет отправлено два сообщения. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "Looks like you've switched SIM cards. 2 activation messages will be sent to enable %s. You may incur additional fees from your mobile service provider." -->
+     <!-- Original string: "Look's like you've changed SIM cards. Your carrier may charge for 2 international SMS messages used to reactivate %s." -->
      <string name="activate_popup_desc_new_2_intl_sim_cards">SIM-карты заменены. Для активации сервисов Xiaomi на новых SIM-картах, будет отправлено два междунардных сообщения. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "Looks like you've switched SIM cards. 2 activation messages will be sent to enable %s. You may incur regular fees from your mobile service provider." -->
+     <!-- Original string: "Look's like you've changed SIM cards. Your carrier may charge for 2 SMS messages used to reactivate %s." -->
      <string name="activate_popup_desc_new_2_sim_cards">SIM-карты заменены. Для активации сервисов Xiaomi на новых SIM-картах, будет отправлено два сообщения. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "Looks like you've switched SIM cards. 2 activation messages will be sent to enable %s. You may incur additional fees from your mobile service provider." -->
+     <!-- Original string: "Look's like you've changed SIM cards. Your carrier may charge for an international SMS message used to reactivate %s." -->
      <string name="activate_popup_desc_new_intl_sim_card">SIM-карта заменена. Для активации сервисов Xiaomi на новой SIM-карте будет отправлено международное сообщение. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "Looks like you've switched SIM cards. 2 activation messages will be sent to enable %s. You may incur additional fees from your mobile service provider." -->
+     <!-- Original string: "Look's like you've changed SIM cards. Your carrier may charge for 1 domestic and 1 international SMS message used to reactivate %s." -->
      <string name="activate_popup_desc_new_mixed_sim_cards">SIM-карты заменены. Для активации сервисов Xiaomi на новых SIM-картах, будет отправлено два сообщения. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "Looks like you've switched SIM cards. An activation message will be sent to enable %s. You may incur regular fees from your mobile service provider." -->
+     <!-- Original string: "Look's like you've changed SIM cards. Your carrier may charge for an SMS message used to reactivate %s." -->
      <string name="activate_popup_desc_new_sim_card">SIM-карта заменена. Для активации сервисов Xiaomi на новой SIM-карте, будет отправлено сообщение. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: "Looks like you've switched SIM cards. Enter the phone number associated with your new SIM card to enable %s" -->
+     <!-- Original string: "Looks like you've switched SIM cards. Enter the phone number associated with your new SIM card to reactivate %s" -->
      <string name="activate_popup_desc_new_sim_card_downlink">SIM-карта заменена. Для активации сервисов Xiaomi введите номер SIM-карты.</string>
      <string name="activate_popup_desc_register_account">Для регистрации аккаунта Xiaomi будет отправлено сообщение</string>
      <string name="activate_popup_desc_register_account_downlink">Для регистраци аккаунта Xiaomi введите номер телефона</string>
@@ -81,7 +83,7 @@
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
 	%d: 0 must: 0 -->
-     <!-- Original string: An activation text will be sent to bind your SIM card with your account and enable %s. You may incur regular fees from your mobile service provider. -->
+     <!-- Original string: Your carrier may charge for an SMS message used to activate %s. -->
      <string name="activate_popup_desc_sim_card">Для активации сервисов Xiaomi будет отправлено Сообщение. Может взыматься плата согласно Вашему тарифному плану.</string>
      <!-- The count of MNPS does not match! Now: 0 must: 1
 	%s: 0 must: 1
@@ -93,7 +95,15 @@
      <string name="activate_popup_title_failed_receive_sms">Ошибка активации</string>
      <string name="activate_popup_title_failed_send_sms">Ошибка активации</string>
      <string name="activate_popup_title_failed_server">Ошибка активации</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Activate %s -->
      <string name="activate_popup_title_manual">Активация SIM-карты</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Reactivate %s -->
      <string name="activate_popup_title_new_sim_card">Активация новой SIM-карты</string>
      <string name="activate_popup_title_register_account">Регистрация аккаунта</string>
      <string name="activate_status_desc_acquire_phone_number">Получение номера телефона с сервера</string>
@@ -127,6 +137,8 @@
      <string name="add_weibo_account">Добавить аккаунт</string>
      <string name="alert_notif_title_dspt">Предлагаем восстановить синхронизацию для обеспечения безопасности данных</string>
      <string name="alert_title_remove_account">Удалить аккаунт</string>
+     <string name="all_cloud_service_dspt">"Choose which of the Mi Cloud services below you would like to use.
+You can turn them on and off anytime in Settings."</string>
      <string name="app_name">Менеджер аккаунтов Xiaomi</string>
      <string name="available_functionality">Доступные функции</string>
      <string name="bad_authentication">Неверный пароль или имя пользователя</string>
@@ -141,7 +153,12 @@
      <string name="captcha">Код с картинки</string>
      <string name="checking_account">Проверка аккаунта…</string>
      <string name="checking_input">Проверка…</string>
+     <string name="cloud_message_notice">"Cloud Messaging lets you send text messages to other MIUI users without incurring SMS charges.
+
+You can turn this feature on and off anytime in settings."</string>
      <string name="cloud_messaging">Облачные сообщения</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="cloud_messaging_dspt">Enable Cloud Messaging</string>
      <string name="cmcc_data_sync_notice">Используйте свой аккаунт Xiaomi, чтобы синхронизировать сообщения, контакты и другие данные. Между тем, насладитесь облачными сервисами.</string>
      <string name="cmcc_micloud_dspt">Облачные сервисы включают мобильную синхронизацию, обнаружение устройства и другие функции. Вы также можете управлять своими данными онлайн в любое время!</string>
      <string name="completed">Готово</string>
@@ -174,12 +191,24 @@
      <string name="error_user_name">Неверное имя пользователя</string>
      <string name="failed_to_send_activate_email">Невозможно отправить активацию по почте</string>
      <string name="find_device">Поиск устройства</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_additional_alert">If you switch SIM cards, another SMS will be sent automatically to reactivate this service.</string>
      <string name="find_device_disabled_notice">Вы можете включить снова через настройки - мои аккаунты - аккаунт Xiaomi</string>
      <string name="find_device_disabled_title">Обнаружение устройства отключено</string>
      <string name="find_device_disabling">Выключение…</string>
+     <string name="find_device_dspt_in_all_setting_1">"Locate, lock, or reset your device from any browser at "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_dspt_in_all_setting_2">i.mi.com</string>
+     <string name="find_device_dspt_in_all_setting_3" />
      <string name="find_device_enabling">Включение…</string>
      <string name="find_device_error_network">Сеть недоступна</string>
      <string name="find_device_error_server">Ошибка сервера</string>
+     <string name="find_device_notice_1">"If you lose your device, you can go to "</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="find_device_notice_2">i.mi.com</string>
+     <string name="find_device_notice_3">" to find, lock, or reset it.
+
+You can turn this service on and off anytime in Settings."</string>
      <string name="find_device_notice_p1">Если Вы не можете найти свой телефон, посетите</string>
      <string name="find_device_notice_p3">для нахождения, блокировки или удаления данных</string>
      <string name="find_device_notice_p4">При каждой смене SIM-карты, может быть отправлено сообщение для отслеживания устройства</string>
@@ -286,6 +315,8 @@
      <string name="micloud_web_discription_02">для хранения и доступа к файлам из любого места</string>
      <string name="micloud_welcome_skip_login"><u>Пропустить этот шаг</u></string>
      <string name="mili_center">Ми кредиты</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="mx_dspt_in_all_setting">Send SMS messages to other MIUI users for free</string>
      <string name="my_xiaomi_account">Мой аккаунт Xiaomi</string>
      <string name="next">Далее</string>
      <string name="noRemind">Не напоминать</string>
@@ -300,6 +331,7 @@
      <string name="reg_failed">Ошибка регистрации</string>
      <string name="reg_success">Регистрация завершена</string>
      <string name="reg_success_summary">Ваш номер телефона %1$s уже назначен для MiLock, где Вы можете использовать его, чтобы войти в систему и получить пароль</string>
+     <string name="reg_title">Create a new Mi Account using:</string>
      <string name="reg_type_email">Регистрация по электронной почте</string>
      <string name="reg_type_phone">Регистрация по телефону (рекомендуется)</string>
      <string name="reging">Регистрация. Пожалуйста подождите…</string>
@@ -319,18 +351,52 @@
      <string name="skip_login_u"><u>Пропустить</u></string>
      <string name="skip_setup_account_msg">Аккаунт Xiaomi позволяет синхронизировать сообщения, контакты, фото, заметки и т.д.. Пропустить и настроить потом?</string>
      <string name="skip_setup_account_title">Настройка аккаунта</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_prompt_cloud_messaging">Cloud Messaging</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_prompt_cloud_service">MiCloud Service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_prompt_find_device">Find Device</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_prompt_set_all">these services</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_prompt_set_single">this service</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sms_prompt_sync">sync</string>
      <string name="start_micloud">Начать</string>
      <string name="sub_alert_notif_dspt" formatted="false">"У Вас есть %s контактов в телефоне, %s сообщений, %s фото, %s заметок и другие данные, которые не синхронизованы. 
 
  Если устройство будет потеряно или очищено, эти данные будут безвозвратно потеряны. Рекомендуем Вам начать синхронизацию для обеспечения безопасности данных."</string>
      <string name="sub_alert_notif_title">Сервис синхронизации не включен</string>
      <string name="sync_dspt">Использовать аккаунт Xiaomi для синхронизации данных</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="sync_dspt_in_all_setting">Sync your photos, text messages, notes, and more across your Mi devices</string>
      <string name="sync_off">Выкл.</string>
      <string name="sync_on">Вкл.</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Your carrier may charge for an international SMS message used to activate %s. -->
      <string name="sync_sub_1_intl_sms">A text message will be sent to activate your SIM card (international rates apply)</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Your carrier may charge for an SMS message used to activate %s. -->
      <string name="sync_sub_1_sms">A text message will be sent to activate your SIM card (normal carrier rates apply)</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Your carrier may charge for 1 domestic and 1 international SMS message used to activate %s. -->
      <string name="sync_sub_1_sms_1_intl_sms">2 text messages will be sent to activate your SIM cards (domestic and international carrier rates apply)</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Your carrier may charge for 2 international SMS messages used to activate %s. -->
      <string name="sync_sub_2_intl_sms">2 text messages will be sent to activate your SIM cards (international carrier rates apply)</string>
+     <!-- The count of MNPS does not match! Now: 0 must: 1
+	%s: 0 must: 1
+	%d: 0 must: 0 -->
+     <!-- Original string: Your carrier may charge for 2 SMS messages used to activate %s. -->
      <string name="sync_sub_2_sms">2 text messages will be sent to activate your SIM cards (normal carrier rates apply)</string>
      <string name="title_reg">Регистрация в сети Xiaomi</string>
      <string name="trust_device">Я доверяю устройству</string>
@@ -347,6 +413,11 @@
      <string name="user_agreement_p4">Политикой безопасности</string>
      <string name="user_agreement_p5">"Регистрируясь, Вы соглашаетесь
  с "</string>
+     <string name="user_agreement_p6">Your use of this service is subject to </string>
+     <string name="user_agreement_p7">"Mi Cloud's Terms of Service"</string>
+     <string name="user_agreement_p8">" to understand what information we collect, how we use it, and what choices are available to you.
+
+By creating account, you are agreeing to the terms above."</string>
      <string name="vcode">Проверочный код</string>
      <string name="vcode_notification_title">Проверка Вашего логина не завершена</string>
      <string name="vcode_prompt_long">Пожалуйста, введите код, сгенерированный системой безопасности Xiaomi</string>

@@ -104,8 +104,19 @@
      <string name="ftp_username_and_passworld">Имя пользователя и пароль</string>
      <string name="ftp_username_hint">Имя пользователя</string>
      <string name="gbk_summary">Если используется кодировка GBK, например, в Windows Explorer, выбери этот тип кодирования, чтобы избежать искажения текста на китайском языке</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="google_play">Play Store</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ignore">Ignore</string>
      <string name="instruction">Адрес синхронизации:</string>
      <string name="instruction_pre">Обмен файлами с ПК или Mac по FTP через сеть Wi-Fi</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_alert_message">Download the KuaiPan app from the Play Store, then sign in with your Mi Account</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_alert_title">Attention</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="kuaipan_app">KuaiPan app</string>
+     <string name="kuaipan_can_not_find_play">"Can't find Play Store"</string>
      <string name="kuaipan_over_space">В KuaiPan нет больше свободного места</string>
 	<!-- Warning: Perhaps not translated string or string don't need -->
      <string name="kuaipan_prompt">KuaiPan</string>

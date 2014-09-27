@@ -1328,6 +1328,9 @@
      <string name="home_app_uninstall_button">Удалить приложение</string>
      <string name="home_key">Кнопка \"Домой\"</string>
      <string name="home_settings">Домашний экран</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="ime_privacy_policy">Keyboard Privacy Policy</string>
+     <string name="ime_privacy_policy_no_network">No network connection. You can view this policy at %s</string>
      <string name="ime_security_warning">При использовании этого способа могут собираться все вводимые данные, в том числе пароли и номера кредитных карт. Способ ввода запрашиваетя приложением \"%1$s\". Использовать этот способ ввода?</string>
      <string name="immediately_destroy_activities">Не сохранять действия</string>
      <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
@@ -2407,6 +2410,8 @@
      <string name="protection_perm">Настройка разрешения</string>
      <string name="protection_sms">Фильтрация сообщений</string>
      <string name="provider_label">Подписки на рассылки оператора</string>
+	<!-- Warning: Perhaps not translated string or string don't need -->
+     <string name="provision_inputmethod_policy_description">Privacy Policy for selected keyboard</string>
      <string name="proxy_action_text">Готово</string>
      <string name="proxy_clear_text">Очистить</string>
      <string name="proxy_defaultView_text">Восстановить настройки по умолчанию</string>
